@@ -1,0 +1,10592 @@
+﻿STRING 0
+{
+|CffFFCFBF
+胜|r|Cfffbc7b6利|r|Cfff8c0ad条|r|Cfff4b8a4件|r|Cfff1b19c：|r|Cffedaa93存|r|Cffeaa28a活|r|Cffe69b828|r|Cffe394790|r|Cffdf8c70天|r|Cffdc8568或|r|Cffd87e5f拆|r|Cffd57656完|r|Cffd16f4e地|r|Cffce6745图|r|Cffca603c上|r|Cffc75934所|r|Cffc3512b有|r|Cffc04a22僵|r|Cffbc431a尸|r|Cffb93b11建|r|Cffb53408筑|r|Cffff9999
+|r|Cffffcfbf失|r|Cfffac4b3败|r|Cfff5baa7条|r|Cfff0b09b件|r|Cffeba68f：|r|Cffe69c83幸|r|Cffe29277存|r|Cffdd886b者|r|Cffd87e5f死|r|Cffd37353亡|r|Cffce6947或|r|Cffca5f3b基|r|Cffc5552f地|r|Cffc04b23被|r|Cffbb4117摧|r|Cffb6370b毁|r
+
+}
+
+STRING 1
+{
+|Cff73FFDC
+友|r|Cff77fdd1情|r|Cff7cfbc7提|r|Cff81f9bc示|r|Cff86f7b2：|r|Cff8bf5a7若|r|Cff90f49d有|r|Cff95f292崩|r|Cff99f088溃|r|Cff9eee7d现|r|Cffa3ec73象|r|Cffa8eb68，|r|Cffade95e请|r|Cffb2e753打|r|Cffb7e549开|r|Cffbbe33eO|r|Cffc0e234p|r|Cffc5e029e|r|Cffcade1fn|r|Cffcfdc14G|r|Cffd4da0al|r|Cff4dcca4
+|r|Cff73ffdc输|r|Cff79fccf入|r|Cff7ffac2+|r|Cff85f8b5+|r|Cff8bf6a8或|r|Cff91f39b+|r|Cff97f18e，|r|Cff9def81-|r|Cffa3ed74-|r|Cffa9ea67或|r|Cffafe85a-|r|Cffb5e64d可|r|Cffbbe440以|r|Cffc1e133调|r|Cffc7df26整|r|Cffcddd19视|r|Cffd3db0c距|r|Cff2ca175
+|r|Cff73ffdc相|r|Cff77fdd2互|r|Cff7cfbc8配|r|Cff80f9be合|r|Cff85f8b4，|r|Cff8af6aa才|r|Cff8ef4a0能|r|Cff93f296获|r|Cff98f18c得|r|Cff9cef82更|r|Cffa1ed78佳|r|Cffa6ec6e的|r|Cffaaea64游|r|Cffafe85a戏|r|Cffb3e650体|r|Cffb8e546验|r|Cffbde33c，|r|Cffc1e132祝|r|Cffc6df28游|r|Cffcbde1e戏|r|Cffcfdc14愉|r|Cffd4da0a快|r
+ 
+}
+
+STRING 2
+{
+|CffFF8000系统：|r|Cffff0000僵尸有1%几率变异，属性得到提升|r
+|Cffff8000系统：|r|Cffff0000开放尸王旱魃（boss）开放尸王穷奇（boss）|r
+|Cffff8000系统：|r|Cffff0000开放5种精英怪|r
+|Cffff8000系统：|r|Cffff0000僵尸房子死亡必定爆怪,并获得荒芜再生技能|r
+}
+
+STRING 5
+{
+重置绿巨人中。。。
+}
+
+STRING 6
+{
+重置绿巨人完毕！
+}
+
+STRING 7
+{
+激活主角皮肤十香！
+}
+
+STRING 8
+{
+激活特权星空元素！
+}
+
+STRING 9
+{
+激活特权白贞！
+}
+
+STRING 10
+{
+激活人物光环七月流火！
+}
+
+STRING 11
+{
+激活女猎皮肤帕娜！
+}
+
+STRING 12
+{
+激活士兵皮肤马里恩！
+}
+
+STRING 13
+{
+激活建造特效间歇泉！
+}
+
+STRING 14
+{
+激活皮肤高冷炎！
+}
+
+STRING 15
+{
+激活皮肤四系乃！
+}
+
+STRING 16
+{
+激活皮肤五河琴里！
+}
+
+STRING 17
+{
+激活皮肤五河琴里！
+}
+
+STRING 18
+{
+激活皮肤动漫男！
+}
+
+STRING 19
+{
+激活皮肤灵魂探戈！
+}
+
+STRING 20
+{
+激活所有主角皮肤
+}
+
+STRING 21
+{
+激活所有特权！
+}
+
+STRING 23
+{
+未能挡住僵尸的进攻，游戏失败！请继续努力！
+}
+
+STRING 24
+{
+|CffFF8000系统：加油！人类就快要胜利了，僵尸们开始最后的狂暴|r
+}
+
+STRING 25
+{
+|CffFF8000系统：今天，僵尸将开始大幅度提升进攻势。|r
+}
+
+STRING 27
+{
+|CffFF8000系统：尸潮来了，小地图将标识尸潮位置，人类请注意加固防守位置|r
+}
+
+STRING 28
+{
+|CffFF8000系统：明天僵尸将对人类发起一波猛烈攻势，请注意防守！|r
+}
+
+STRING 29
+{
+|CffFF8000系统：坚持住，胜利曙光就在眼前了！！！|r
+}
+
+STRING 30
+{
+|CffFF0000警告：天神下凡挖掘机降临！
+警告：天神下凡挖掘机降临！
+警告：天神下凡挖掘机降临！|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御。|r
+}
+
+STRING 31
+{
+|CffFF0000警告：穷奇僵尸boss降临！
+警告：穷奇僵尸boss降临!
+警告：穷奇僵尸boss降临!|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御|r|Cffff0000|r
+}
+
+STRING 32
+{
+|CffFF0000警告：旱魃僵尸boss降临！
+警告：旱魃僵尸boss降临!
+警告：旱魃僵尸boss降临!|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御|r|Cffff0000|r
+}
+
+STRING 33
+{
+|CffFF0000警告：天神下凡挖掘机降临！
+警告：天神下凡挖掘机降临！
+警告：天神下凡挖掘机降临！|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御。|r
+}
+
+STRING 34
+{
+|CffFF0000警告：穷奇僵尸boss降临！
+警告：穷奇僵尸boss降临!
+警告：穷奇僵尸boss降临!|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御|r|Cffff0000|r
+}
+
+STRING 35
+{
+|CffFF0000警告：旱魃僵尸boss降临！
+警告：旱魃僵尸boss降临!
+警告：旱魃僵尸boss降临!|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御|r|Cffff0000|r
+}
+
+STRING 36
+{
+|CffFF0000警告：天神下凡挖掘机降临！
+警告：天神下凡挖掘机降临！
+警告：天神下凡挖掘机降临！|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御。|r
+}
+
+STRING 37
+{
+|CffFF0000警告：僵尸祭祀僧（精英）降临了！
+警告：僵尸祭祀僧（精英）降临了！
+警告：僵尸祭祀僧（精英）降临了！|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御。|r
+}
+
+STRING 38
+{
+|CffFF0000警告：奶霸天（精英）出现了！
+警告：奶霸天（精英）出现了！
+警告：奶霸天（精英）出现了！|r
+|Cffff8000系统：小地图上将标出boss出现位置，请人类抓紧时间加固防御。|r
+}
+
+STRING 39
+{
+|CffFF0000警告：残忍的屠夫（精英）出现了！
+警告：残忍的屠夫（精英）出现了！
+警告：残忍的屠夫（精英）出现了！|r
+|Cffff8000系统：小地图上将标出精英怪出现位置，请人类抓紧时间加固防御。|r
+}
+
+STRING 40
+{
+|CffFF0000警告：憎恶（精英）出现了！
+警告：憎恶（精英）出现了！
+警告：憎恶（精英）出现了！|r
+|Cffff8000系统：小地图上将标出精英怪出现位置，请人类抓紧时间加固防御。|r
+}
+
+STRING 41
+{
+|CffFF8000系统：|r|Cff99b3ff主机修改僵尸飘血特效为Blood1|r
+}
+
+STRING 42
+{
+|CffFF8000系统：|r|Cff99b3ff主机修改僵尸飘血特效为Blood2|r
+}
+
+STRING 43
+{
+|CffFF8000系统：|r|Cff99b3ff主机修改僵尸飘血特效为Blood3|r
+}
+
+STRING 46
+{
+|CffFF8000系统：|r左下方的村庄处，涌现出大量的村民，请各位玩家速速前去保护他们！|CffFF2626（任务失败将会有沉痛的惩罚）|r
+}
+
+STRING 47
+{
+|CffFF2626警告：僵尸呼叫空中支援,僵尸飞艇正在袭来！小地图将标识出位置！|r
+}
+
+STRING 49
+{
+作者：恭喜通关!激活翅膀|CffB973FF苍紫之翼|r!
+}
+
+STRING 50
+{
+作者：恭喜通关!激活幸存者皮肤|Cff888888快乐肥宅|r!
+}
+
+STRING 51
+{
+作者：迷失森林成功生存80天（难度 丧尸汹涌）!激活女猎手皮肤|Cff888888娜萨|r!
+}
+
+STRING 52
+{
+作者：迷失森林成功生存80天（难度 丧尸狂潮）!激活光环|CffD93600七月流火|r!
+}
+
+STRING 53
+{
+作者：黎明小镇成功生存80天（难度 丧尸狂潮）!激活士兵皮肤|CffFF0000马里恩|r!
+}
+
+STRING 54
+{
+作者：黎明小镇成功生存80天（难度 丧尸汹涌）!激活建造特效|Cff4DFFFF间歇泉|r!
+}
+
+STRING 58
+{
+提示：5秒后翅膀将自动消失。。
+}
+
+STRING 61
+{
+|CffFF2626警告：僵尸发起了水上攻势,僵尸船只正在靠近！小地图将标识出位置！|r
+}
+
+STRING 62
+{
+|Cff00BFFF啖魂鬼阵|r
+}
+
+STRING 63
+{
+|Cff00BFFF阴雷狱|r
+}
+
+STRING 64
+{
+请选择游戏地形
+}
+
+STRING 65
+{
+黎明小镇|CffFFFF00（经典）|r
+}
+
+STRING 66
+{
+迷失的森林|Cffff0000（较难）|r
+}
+
+STRING 67
+{
+失落之地|Cff7AFF4D（简单）|r
+}
+
+STRING 68
+{
+|CffDCFF73古|r|Cffdbee66德|r|Cffdbde59尔|r|Cffdbce4c平|r|Cffdabe3f原|r|Cffff2626（挨打）|r
+}
+
+STRING 69
+{
+|CffFF8000格兰村|r
+}
+
+STRING 70
+{
+投票踢人（票数大于半数直接踢出游戏）
+}
+
+STRING 71
+{
+弃权
+}
+
+STRING 72
+{
+打开所有特效！
+}
+
+STRING 73
+{
+关闭部分特效！
+}
+
+STRING 74
+{
+|CffFFCFBF主|r|Cfff0d3b9机|r|Cffe1d7b3选|r|Cffd2dbad择|r|Cffc3dfa8了|r|Cffb4e3a2地|r|Cffa6e79c图|r|Cff97eb96：|r|Cff88ef91黎|r|Cff79f38b明|r|Cff6af785小|r|Cff5bfb7f镇|r
+}
+
+STRING 75
+{
+营救倒计时：
+}
+
+STRING 76
+{
+|CffFFCFBF主|r|Cfff0d3b9机|r|Cffe1d7b3选|r|Cffd2dbad择|r|Cffc3dfa8了|r|Cffb4e3a2地|r|Cffa6e79c图|r|Cff97eb96：|r|Cff88ef91格兰村|r
+}
+
+STRING 77
+{
+|CffFFCFBF主|r|Cfff0d3b9机|r|Cffe1d7b3选|r|Cffd2dbad择|r|Cffc3dfa8了|r|Cffb4e3a2地|r|Cffa6e79c图|r|Cff97eb96：|r|Cff88ef91古德尔平原|r
+}
+
+STRING 78
+{
+|CffFFCFBF主|r|Cfff0d3b9机|r|Cffe1d7b3选|r|Cffd2dbad择|r|Cffc3dfa8了|r|Cffb4e3a2地|r|Cffa6e79c图|r|Cff97eb96：|r|Cff88ef91失落之地|r
+}
+
+STRING 79
+{
+|CffFFCFBF主|r|Cfff2d2ba机|r|Cffe5d5b5选|r|Cffd8d9b0择|r|Cffccdcab了|r|Cffbfe0a6地|r|Cffb2e3a1图|r|Cffa6e79c：|r|Cff99ea97迷失森林|r
+}
+
+STRING 80
+{
+僵尸受击生成僵尸
+}
+
+STRING 81
+{
+请选择游戏地形
+}
+
+STRING 82
+{
+卖萌の难度（熟悉地图）|CffFFE599【n0】|r
+}
+
+STRING 83
+{
+平安岁月|CffFF9326【n1】|r
+}
+
+STRING 84
+{
+丧尸汹涌（建议人数：6人）|CffD93600【n2】|r
+}
+
+STRING 85
+{
+丧尸狂潮（建议人数：6人）|Cff8C008C【n3】|r
+}
+
+STRING 86
+{
+|CffFF8000系统：请在准备阶段（1分钟）结束之前建立自己的主基地，否则系统将杀死未建立基地得幸存者！|r
+}
+
+STRING 87
+{
+|CffFF8000系统：|r|Cffff0000僵尸有1%几率变异，属性得到提升|r
+|Cffff8000系统：|r|Cffff0000开放尸王旱魃（boss）|r
+|Cffff8000系统：|r|Cffff0000开放5种精英怪|r
+|Cffff8000系统：|r|Cffff0000僵尸房子死亡必定爆怪|r
+}
+
+STRING 88
+{
+|CffFF8000系统：|r|Cff36d900由于是卖萌难度，僵尸血量下降20%|r
+|CffFF8000系统：|r|Cff36d900由于是卖萌难度，30波尸潮调整至40波|r
+|CffFF8000系统：|r|Cff36d900由于是卖萌难度，不会记录杀戮值等数据|r
+}
+
+STRING 89
+{
+|CffFF9326提示：该地形为特殊地形。|r
+|Cff00d9001、人口上限默认为250，摧毁僵尸的禁忌熔炉可以增加最大人口上限，占领村庄房子可以获得人口|r
+|Cffffd24d2、每20天会触发保护村民任务，任务失败将会有惩罚|r
+
+}
+
+STRING 90
+{
+|CffFF26263、每5天会有僵尸船前来入侵，每10天会有僵尸飞艇。
+该地形难度爆炸高，一定要配合，切莫做孤狼。|r
+}
+
+STRING 91
+{
+|cffffcc00玩家名字|r
+}
+
+STRING 92
+{
+|cffff0000杀敌|r
+}
+
+STRING 93
+{
+|cff00ff00金钱|r
+}
+
+STRING 94
+{
+|cff00ff00木材|r
+}
+
+STRING 95
+{
+|cff00ff00当前收入|r
+}
+
+STRING 96
+{
+0
+}
+
+STRING 97
+{
+300
+}
+
+STRING 98
+{
+300
+}
+
+STRING 99
+{
+0
+}
+
+STRING 100
+{
+准备阶段：
+}
+
+STRING 111
+{
+玩家 1
+}
+
+STRING 112
+{
+玩家 2
+}
+
+STRING 113
+{
+玩家 3
+}
+
+STRING 114
+{
+玩家 4
+}
+
+STRING 115
+{
+玩家 5
+}
+
+STRING 116
+{
+玩家 6
+}
+
+STRING 117
+{
+玩家 7
+}
+
+STRING 118
+{
+玩家 8
+}
+
+STRING 119
+{
+玩家 9
+}
+
+STRING 120
+{
+玩家 10
+}
+
+STRING 121
+{
+玩家 11
+}
+
+STRING 122
+{
+玩家 12
+}
+
+STRING 123
+{
+人类联盟
+}
+
+STRING 124
+{
+僵尸联盟
+}
+
+STRING 125
+// 单位: H029 (幸存者), Hotkey (热键)
+{
+Q
+}
+
+STRING 126
+// 单位: H029 (幸存者), Name (名字)
+{
+幸存者
+}
+
+STRING 127
+// 单位: H029 (幸存者), Propernames (称谓)
+{
+足智多谋的幸存者
+}
+
+STRING 128
+// 单位: H029 (幸存者), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 129
+// 单位: H029 (幸存者), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 130
+// 单位: H03L (机巧少女（夜夜）), Hotkey (热键)
+{
+Q
+}
+
+STRING 131
+// 单位: H03L (机巧少女（夜夜）), Name (名字)
+{
+机巧少女（夜夜）
+}
+
+STRING 132
+// 单位: H03L (机巧少女（夜夜）), Propernames (称谓)
+{
+睿智的夜夜
+}
+
+STRING 133
+// 单位: H03L (机巧少女（夜夜）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 134
+// 单位: H03L (机巧少女（夜夜）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 135
+// 单位: H03X (幸存者（灵魂探戈）), Hotkey (热键)
+{
+Q
+}
+
+STRING 136
+// 单位: H03X (幸存者（灵魂探戈）), Name (名字)
+{
+幸存者（灵魂探戈）
+}
+
+STRING 137
+// 单位: H03X (幸存者（灵魂探戈）), Propernames (称谓)
+{
+灵魂探戈
+}
+
+STRING 138
+// 单位: H03X (幸存者（灵魂探戈）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 139
+// 单位: H03X (幸存者（灵魂探戈）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 140
+// 单位: H03Y (幸存者（朱月）), Hotkey (热键)
+{
+Q
+}
+
+STRING 141
+// 单位: H03Y (幸存者（朱月）), Name (名字)
+{
+幸存者（朱月）
+}
+
+STRING 142
+// 单位: H03Y (幸存者（朱月）), Propernames (称谓)
+{
+月之王
+}
+
+STRING 143
+// 单位: H03Y (幸存者（朱月）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 144
+// 单位: H03Y (幸存者（朱月）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 145
+// 单位: H03Z (幸存者（动漫不知名男）), Hotkey (热键)
+{
+Q
+}
+
+STRING 146
+// 单位: H03Z (幸存者（动漫不知名男）), Name (名字)
+{
+幸存者（动漫不知名男）
+}
+
+STRING 147
+// 单位: H03Z (幸存者（动漫不知名男）), Propernames (称谓)
+{
+动漫不知名男
+}
+
+STRING 148
+// 单位: H03Z (幸存者（动漫不知名男）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 149
+// 单位: H03Z (幸存者（动漫不知名男）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 150
+// 单位: H040 (幸存者（初音未来）), Hotkey (热键)
+{
+Q
+}
+
+STRING 151
+// 单位: H040 (幸存者（初音未来）), Name (名字)
+{
+幸存者（初音未来）
+}
+
+STRING 152
+// 单位: H040 (幸存者（初音未来）), Propernames (称谓)
+{
+世界第一公主殿下
+}
+
+STRING 153
+// 单位: H040 (幸存者（初音未来）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 154
+// 单位: H040 (幸存者（初音未来）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 155
+// 单位: H041 (幸存者（春日野穹）), Hotkey (热键)
+{
+Q
+}
+
+STRING 156
+// 单位: H041 (幸存者（春日野穹）), Name (名字)
+{
+幸存者（春日野穹）
+}
+
+STRING 157
+// 单位: H041 (幸存者（春日野穹）), Propernames (称谓)
+{
+Kasugano Sora
+}
+
+STRING 158
+// 单位: H041 (幸存者（春日野穹）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 159
+// 单位: H041 (幸存者（春日野穹）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 160
+// 单位: H042 (幸存者（机巧少女不会受伤）), Hotkey (热键)
+{
+Q
+}
+
+STRING 161
+// 单位: H042 (幸存者（机巧少女不会受伤）), Name (名字)
+{
+幸存者（机巧少女不会受伤）
+}
+
+STRING 162
+// 单位: H042 (幸存者（机巧少女不会受伤）), Propernames (称谓)
+{
+Yaya
+}
+
+STRING 163
+// 单位: H042 (幸存者（机巧少女不会受伤）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 164
+// 单位: H042 (幸存者（机巧少女不会受伤）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 165
+// 单位: H043 (幸存者（四系乃）), Hotkey (热键)
+{
+Q
+}
+
+STRING 166
+// 单位: H043 (幸存者（四系乃）), Name (名字)
+{
+幸存者（四系乃）
+}
+
+STRING 167
+// 单位: H043 (幸存者（四系乃）), Propernames (称谓)
+{
+冰结傀儡
+}
+
+STRING 168
+// 单位: H043 (幸存者（四系乃）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 169
+// 单位: H043 (幸存者（四系乃）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 170
+// 单位: H044 (幸存者（东风谷早苗）), Hotkey (热键)
+{
+Q
+}
+
+STRING 171
+// 单位: H044 (幸存者（东风谷早苗）), Name (名字)
+{
+幸存者（东风谷早苗）
+}
+
+STRING 172
+// 单位: H044 (幸存者（东风谷早苗）), Propernames (称谓)
+{
+奇迹的现人神
+}
+
+STRING 173
+// 单位: H044 (幸存者（东风谷早苗）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 174
+// 单位: H044 (幸存者（东风谷早苗）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 175
+// 单位: H045 (幸存者（香风智乃）), Hotkey (热键)
+{
+Q
+}
+
+STRING 176
+// 单位: H045 (幸存者（香风智乃）), Name (名字)
+{
+幸存者（香风智乃）
+}
+
+STRING 177
+// 单位: H045 (幸存者（香风智乃）), Propernames (称谓)
+{
+Kafuu Chino
+}
+
+STRING 178
+// 单位: H045 (幸存者（香风智乃）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 179
+// 单位: H045 (幸存者（香风智乃）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 180
+// 单位: H046 (幸存者（五河琴里）), Hotkey (热键)
+{
+Q
+}
+
+STRING 181
+// 单位: H046 (幸存者（五河琴里）), Name (名字)
+{
+幸存者（五河琴里）
+}
+
+STRING 182
+// 单位: H046 (幸存者（五河琴里）), Propernames (称谓)
+{
+Itsuka Kotori（炎魔）
+}
+
+STRING 183
+// 单位: H046 (幸存者（五河琴里）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 184
+// 单位: H046 (幸存者（五河琴里）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 185
+// 单位: H047 (幸存者（僵尸肥宅）), Hotkey (热键)
+{
+Q
+}
+
+STRING 186
+// 单位: H047 (幸存者（僵尸肥宅）), Name (名字)
+{
+幸存者（僵尸肥宅）
+}
+
+STRING 187
+// 单位: H047 (幸存者（僵尸肥宅）), Propernames (称谓)
+{
+会伐木的胖子？
+}
+
+STRING 188
+// 单位: H047 (幸存者（僵尸肥宅）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 189
+// 单位: H047 (幸存者（僵尸肥宅）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 190
+// 单位: H04A (幸存者（亚丝娜）), Hotkey (热键)
+{
+Q
+}
+
+STRING 191
+// 单位: H04A (幸存者（亚丝娜）), Name (名字)
+{
+幸存者（亚丝娜）
+}
+
+STRING 192
+// 单位: H04A (幸存者（亚丝娜）), Propernames (称谓)
+{
+结城明日奈
+}
+
+STRING 193
+// 单位: H04A (幸存者（亚丝娜）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 194
+// 单位: H04A (幸存者（亚丝娜）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 195
+// 单位: H04B (幸存者（剑姬）), Hotkey (热键)
+{
+Q
+}
+
+STRING 196
+// 单位: H04B (幸存者（剑姬）), Name (名字)
+{
+幸存者（剑姬）
+}
+
+STRING 197
+// 单位: H04B (幸存者（剑姬）), Propernames (称谓)
+{
+艾斯华伦斯坦
+}
+
+STRING 198
+// 单位: H04B (幸存者（剑姬）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 199
+// 单位: H04B (幸存者（剑姬）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 200
+// 单位: H04C (幸存者|Cffff0000（赤瞳）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 201
+// 单位: H04C (幸存者|Cffff0000（赤瞳）|r), Name (名字)
+{
+幸存者|Cffff0000（赤瞳）|r
+}
+
+STRING 202
+// 单位: H04C (幸存者|Cffff0000（赤瞳）|r), Propernames (称谓)
+{
+泳装赤瞳
+}
+
+STRING 203
+// 单位: H04C (幸存者|Cffff0000（赤瞳）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 204
+// 单位: H04C (幸存者|Cffff0000（赤瞳）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 205
+// 单位: H04D (幸存者|Cffff0000（赤瞳）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 206
+// 单位: H04D (幸存者|Cffff0000（赤瞳）|r), Name (名字)
+{
+幸存者|Cffff0000（赤瞳）|r
+}
+
+STRING 207
+// 单位: H04D (幸存者|Cffff0000（赤瞳）|r), Propernames (称谓)
+{
+Akame
+}
+
+STRING 208
+// 单位: H04D (幸存者|Cffff0000（赤瞳）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 209
+// 单位: H04D (幸存者|Cffff0000（赤瞳）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 210
+// 单位: H04I (幸存者|Cffe599ff（十香）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 211
+// 单位: H04I (幸存者|Cffe599ff（十香）|r), Name (名字)
+{
+幸存者|Cffe599ff（十香）|r
+}
+
+STRING 212
+// 单位: H04I (幸存者|Cffe599ff（十香）|r), Propernames (称谓)
+{
+鏖杀公(Sandalphon) 
+}
+
+STRING 213
+// 单位: H04I (幸存者|Cffe599ff（十香）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 214
+// 单位: H04I (幸存者|Cffe599ff（十香）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 215
+// 单位: H04J (幸存者|Cffe599ff（艾米莉亚）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 216
+// 单位: H04J (幸存者|Cffe599ff（艾米莉亚）|r), Name (名字)
+{
+幸存者|Cffe599ff（艾米莉亚）|r
+}
+
+STRING 218
+// 单位: H04J (幸存者|Cffe599ff（艾米莉亚）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 219
+// 单位: H04J (幸存者|Cffe599ff（艾米莉亚）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 220
+// 单位: H04K (幸存者|Cff4d7aff（佐助）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 221
+// 单位: H04K (幸存者|Cff4d7aff（佐助）|r), Name (名字)
+{
+幸存者|Cff4d7aff（佐助）|r
+}
+
+STRING 222
+// 单位: H04K (幸存者|Cff4d7aff（佐助）|r), Propernames (称谓)
+{
+Uchiha Sasuke
+}
+
+STRING 223
+// 单位: H04K (幸存者|Cff4d7aff（佐助）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 224
+// 单位: H04K (幸存者|Cff4d7aff（佐助）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 225
+// 单位: e000 (|CffFF8000女猎手|r), Hotkey (热键)
+{
+D
+}
+
+STRING 226
+// 单位: e000 (|CffFF8000女猎手|r), Name (名字)
+{
+|CffFF8000女猎手|r
+}
+
+STRING 227
+// 单位: e000 (|CffFF8000女猎手|r), Tip (提示工具 - 基础)
+{
+|CffFF8000女猎手|r(|Cffffcc00D|r)
+}
+
+STRING 228
+// 单位: e000 (|CffFF8000女猎手|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高级作战单位|r|n1、强大的地面作战能力。|n2、可以同时攻击周围4个单位，移动速度较快。|Cffff8000
+|r|Cfff0f0f03、在夜晚时分，有超强生命恢复速度。|r
+}
+
+STRING 229
+// 单位: e001 (|CffFF8000女猎手（娜萨）|r), Hotkey (热键)
+{
+D
+}
+
+STRING 230
+// 单位: e001 (|CffFF8000女猎手（娜萨）|r), Name (名字)
+{
+|CffFF8000女猎手（娜萨）|r
+}
+
+STRING 231
+// 单位: e001 (|CffFF8000女猎手（娜萨）|r), Tip (提示工具 - 基础)
+{
+|CffFF8000女猎手（娜萨）|r(|Cffffcc00D|r)
+}
+
+STRING 232
+// 单位: e001 (|CffFF8000女猎手（娜萨）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高级作战单位|r|n1、强大的地面作战能力。|n2、可以同时攻击周围4个单位，移动速度较快。|Cffff8000
+|r|Cfff0f0f03、在夜晚时分，有超强生命恢复速度。|r
+}
+
+STRING 233
+// 单位: h000 (士兵), Hotkey (热键)
+{
+W
+}
+
+STRING 234
+// 单位: h000 (士兵), Name (名字)
+{
+士兵
+}
+
+STRING 235
+// 单位: h000 (士兵), Tip (提示工具 - 基础)
+{
+士兵(|Cffffcc00W|r)
+}
+
+STRING 236
+// 单位: h000 (士兵), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、拥有外壳装甲，血量与攻击力得到提升|n2、前期实用性最高的兵种
+}
+
+STRING 237
+// 单位: h001 (主城), Hotkey (热键)
+{
+Q
+}
+
+STRING 238
+// 单位: h001 (主城), Name (名字)
+{
+主城
+}
+
+STRING 239
+// 单位: h001 (主城), Tip (提示工具 - 基础)
+{
+建造主城(|cffffcc00Q|r)
+}
+
+STRING 240
+// 单位: h001 (主城), Ubertip (提示工具 - 扩展)
+{
+人类生存最基本建筑物
+}
+
+STRING 241
+// 单位: h002 (发电机), Hotkey (热键)
+{
+Q
+}
+
+STRING 242
+// 单位: h002 (发电机), Name (名字)
+{
+发电机
+}
+
+STRING 243
+// 单位: h002 (发电机), Tip (提示工具 - 基础)
+{
+建造发电机(|Cffffcc00Q|r)
+}
+
+STRING 244
+// 单位: h002 (发电机), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936使每日收入提高10%|r
+}
+
+STRING 245
+// 单位: h003 (被感染的村民B), Name (名字)
+{
+被感染的村民B
+}
+
+STRING 246
+// 单位: h004 (破烂的木墙（横）), Hotkey (热键)
+{
+Q
+}
+
+STRING 247
+// 单位: h004 (破烂的木墙（横）), Name (名字)
+{
+破烂的木墙（横）
+}
+
+STRING 248
+// 单位: h004 (破烂的木墙（横）), Tip (提示工具 - 基础)
+{
+破烂的木墙（横）(|Cffffcc00Q|r)
+}
+
+STRING 249
+// 单位: h005 (破烂的木墙（竖）), Hotkey (热键)
+{
+W
+}
+
+STRING 250
+// 单位: h005 (破烂的木墙（竖）), Name (名字)
+{
+破烂的木墙（竖）
+}
+
+STRING 251
+// 单位: h005 (破烂的木墙（竖）), Tip (提示工具 - 基础)
+{
+破烂的木墙（竖）(|Cffffcc00W|r)
+}
+
+STRING 252
+// 单位: h006 (高级兵工厂), Hotkey (热键)
+{
+T
+}
+
+STRING 253
+// 单位: h006 (高级兵工厂), Name (名字)
+{
+高级兵工厂
+}
+
+STRING 254
+// 单位: h006 (高级兵工厂), Tip (提示工具 - 基础)
+{
+高级兵工厂(|Cffffcc00T|r)
+}
+
+STRING 255
+// 单位: h006 (高级兵工厂), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高阶军事建筑|r|n|Cffff8000可以产出更强大的兵种|r
+}
+
+STRING 256
+// 单位: h007 (高级农业研究所), Hotkey (热键)
+{
+E
+}
+
+STRING 257
+// 单位: h007 (高级农业研究所), Name (名字)
+{
+高级农业研究所
+}
+
+STRING 258
+// 单位: h007 (高级农业研究所), Tip (提示工具 - 基础)
+{
+高级农业研究所(|Cffffcc00E|r)
+}
+
+STRING 259
+// 单位: h007 (高级农业研究所), Ubertip (提示工具 - 扩展)
+{
+可以研究跟高级的经济产出建筑
+}
+
+STRING 260
+// 单位: h008 (基础研究所), Hotkey (热键)
+{
+Z
+}
+
+STRING 261
+// 单位: h008 (基础研究所), Name (名字)
+{
+基础研究所
+}
+
+STRING 262
+// 单位: h008 (基础研究所), Tip (提示工具 - 基础)
+{
+基础研究所(|Cffffcc00Z|r)
+}
+
+STRING 263
+// 单位: h008 (基础研究所), Ubertip (提示工具 - 扩展)
+{
+可以研究一些基础人类科技
+}
+
+STRING 264
+// 单位: h009 (中级发电机), Hotkey (热键)
+{
+T
+}
+
+STRING 265
+// 单位: h009 (中级发电机), Name (名字)
+{
+中级发电机
+}
+
+STRING 266
+// 单位: h009 (中级发电机), Tip (提示工具 - 基础)
+{
+中级发电机(|Cffffcc00T|r)
+}
+
+STRING 268
+// 单位: h00A (旱魃（boss）), Name (名字)
+{
+旱魃（boss）
+}
+
+STRING 269
+// 单位: h00B (坚固的木墙（横）), Hotkey (热键)
+{
+T
+}
+
+STRING 270
+// 单位: h00B (坚固的木墙（横）), Name (名字)
+{
+坚固的木墙（横）
+}
+
+STRING 271
+// 单位: h00B (坚固的木墙（横）), Tip (提示工具 - 基础)
+{
+坚固的木墙（横）(|Cffffcc00T|r)
+}
+
+STRING 272
+// 单位: h00C (石头墙（横）), Hotkey (热键)
+{
+T
+}
+
+STRING 273
+// 单位: h00C (石头墙（横）), Name (名字)
+{
+石头墙（横）
+}
+
+STRING 274
+// 单位: h00C (石头墙（横）), Tip (提示工具 - 基础)
+{
+石头墙（横）(|Cffffcc00T|r)
+}
+
+STRING 275
+// 单位: h00D (混泥土城墙（横）), Hotkey (热键)
+{
+T
+}
+
+STRING 276
+// 单位: h00D (混泥土城墙（横）), Name (名字)
+{
+混泥土城墙（横）
+}
+
+STRING 277
+// 单位: h00D (混泥土城墙（横）), Tip (提示工具 - 基础)
+{
+混泥土城墙（横）(|Cffffcc00T|r)
+}
+
+STRING 278
+// 单位: h00E (坚固的木墙（竖）), Hotkey (热键)
+{
+T
+}
+
+STRING 279
+// 单位: h00E (坚固的木墙（竖）), Name (名字)
+{
+坚固的木墙（竖）
+}
+
+STRING 280
+// 单位: h00E (坚固的木墙（竖）), Tip (提示工具 - 基础)
+{
+坚固的木墙（竖）(|Cffffcc00T|r)
+}
+
+STRING 281
+// 单位: h00F (石头墙（竖）), Hotkey (热键)
+{
+T
+}
+
+STRING 282
+// 单位: h00F (石头墙（竖）), Name (名字)
+{
+石头墙（竖）
+}
+
+STRING 283
+// 单位: h00F (石头墙（竖）), Tip (提示工具 - 基础)
+{
+石头墙（竖）(|Cffffcc00T|r)
+}
+
+STRING 284
+// 单位: h00G (混凝土城墙（竖）), Hotkey (热键)
+{
+T
+}
+
+STRING 285
+// 单位: h00G (混凝土城墙（竖）), Name (名字)
+{
+混凝土城墙（竖）
+}
+
+STRING 286
+// 单位: h00G (混凝土城墙（竖）), Tip (提示工具 - 基础)
+{
+混凝土城墙（竖）(|Cffffcc00T|r)
+}
+
+STRING 287
+// 单位: h00H (低级兵工厂), Hotkey (热键)
+{
+Q
+}
+
+STRING 288
+// 单位: h00H (低级兵工厂), Name (名字)
+{
+低级兵工厂
+}
+
+STRING 289
+// 单位: h00H (低级兵工厂), Tip (提示工具 - 基础)
+{
+低级兵工厂(|Cffffcc00Q|r)
+}
+
+STRING 290
+// 单位: h00H (低级兵工厂), Ubertip (提示工具 - 扩展)
+{
+基础军事建筑物|n|Cffd8d800可以产出基础兵种|r
+}
+
+STRING 291
+// 单位: h00I (高级发电机), Hotkey (热键)
+{
+T
+}
+
+STRING 292
+// 单位: h00I (高级发电机), Name (名字)
+{
+高级发电机
+}
+
+STRING 293
+// 单位: h00I (高级发电机), Tip (提示工具 - 基础)
+{
+|CffFF8000高级发电机|r(|Cffffcc00T|r)
+}
+
+STRING 295
+// 单位: h00J (|CffFF8000机甲铁拳|r), Hotkey (热键)
+{
+X
+}
+
+STRING 296
+// 单位: h00J (|CffFF8000机甲铁拳|r), Name (名字)
+{
+|CffFF8000机甲铁拳|r
+}
+
+STRING 297
+// 单位: h00J (|CffFF8000机甲铁拳|r), Tip (提示工具 - 基础)
+{
+|CffFF8000机甲铁拳|r(|Cffffcc00X|r)
+}
+
+STRING 298
+// 单位: h00J (|CffFF8000机甲铁拳|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高级作战单位|r|n1、超强的回复能力|n2、强大的攻击力，高血量和护甲。|n3、带有分裂以及致命一击的效果|n|Cfff0f0f04、作战能力优秀，在肉搏战里有不俗的表现|r
+}
+
+STRING 299
+// 单位: h00K (狙击兵), Hotkey (热键)
+{
+E
+}
+
+STRING 300
+// 单位: h00K (狙击兵), Name (名字)
+{
+狙击兵
+}
+
+STRING 301
+// 单位: h00K (狙击兵), Tip (提示工具 - 基础)
+{
+狙击兵(|Cffffcc00E|r)
+}
+
+STRING 302
+// 单位: h00K (狙击兵), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、超远的打击|n2、可以对僵尸造成击退效果|Cffd96d00（同一个僵尸击退次数最大40次）|n|r2、较慢的移动速度和攻击速度，适合阵地战
+}
+
+STRING 303
+// 单位: h00L (钢铁矮墙（竖）), Hotkey (热键)
+{
+T
+}
+
+STRING 304
+// 单位: h00L (钢铁矮墙（竖）), Name (名字)
+{
+钢铁矮墙（竖）
+}
+
+STRING 305
+// 单位: h00L (钢铁矮墙（竖）), Tip (提示工具 - 基础)
+{
+竖墙(|cffffcc00F|r)
+}
+
+STRING 306
+// 单位: h00M (钢铁矮墙（横）), Hotkey (热键)
+{
+T
+}
+
+STRING 307
+// 单位: h00M (钢铁矮墙（横）), Name (名字)
+{
+钢铁矮墙（横）
+}
+
+STRING 308
+// 单位: h00M (钢铁矮墙（横）), Tip (提示工具 - 基础)
+{
+竖墙(|cffffcc00F|r)
+}
+
+STRING 309
+// 单位: h00N (|CffFF8000超钢铁城墙（竖）|r), Hotkey (热键)
+{
+T
+}
+
+STRING 310
+// 单位: h00N (|CffFF8000超钢铁城墙（竖）|r), Name (名字)
+{
+|CffFF8000超钢铁城墙（竖）|r
+}
+
+STRING 311
+// 单位: h00N (|CffFF8000超钢铁城墙（竖）|r), Tip (提示工具 - 基础)
+{
+|CffFF8000超钢铁城墙（竖）|r(|Cffffcc00T|r)
+}
+
+STRING 312
+// 单位: h00O (|CffFF8000超钢铁城墙（横）|r), Hotkey (热键)
+{
+T
+}
+
+STRING 313
+// 单位: h00O (|CffFF8000超钢铁城墙（横）|r), Name (名字)
+{
+|CffFF8000超钢铁城墙（横）|r
+}
+
+STRING 314
+// 单位: h00O (|CffFF8000超钢铁城墙（横）|r), Tip (提示工具 - 基础)
+{
+|CffFF8000超钢铁城墙（横）|r(|Cffffcc00T|r)
+}
+
+STRING 315
+// 单位: h00P (|CffFF8000喷火兵|r), Hotkey (热键)
+{
+A
+}
+
+STRING 316
+// 单位: h00P (|CffFF8000喷火兵|r), Name (名字)
+{
+|CffFF8000喷火兵|r
+}
+
+STRING 317
+// 单位: h00P (|CffFF8000喷火兵|r), Tip (提示工具 - 基础)
+{
+|CffFF8000喷火兵|r(|Cffffcc00A|r)
+}
+
+STRING 318
+// 单位: h00P (|CffFF8000喷火兵|r), Ubertip (提示工具 - 扩展)
+{
+|CffFFA8FF中阶作战单位|r|n1、不错的恢复力以及护甲|n2、喷火的穿透攻击会对范围内僵尸造成群体伤害，前期在塔上作战，堪称|Cffff5080僵尸绞肉机|n|r
+}
+
+STRING 319
+// 单位: h00Q (|CffFF8000炮火手|r), Hotkey (热键)
+{
+S
+}
+
+STRING 320
+// 单位: h00Q (|CffFF8000炮火手|r), Name (名字)
+{
+|CffFF8000炮火手|r
+}
+
+STRING 321
+// 单位: h00Q (|CffFF8000炮火手|r), Tip (提示工具 - 基础)
+{
+|CffFF8000炮火手|r(|Cffffcc00S|r)
+}
+
+STRING 322
+// 单位: h00Q (|CffFF8000炮火手|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高级作战单位|r|n1、强大的远程打击能力。|n2、单体作战能力较弱，但当一定数量堆起来，将对僵尸造成|Cffff8000毁灭性的打击|n|r|Cfff0f0f03、作战能力优秀，在阵地战里有强大的统治力|r
+}
+
+STRING 323
+// 单位: h00R (破旧的民居), Hotkey (热键)
+{
+Q
+}
+
+STRING 324
+// 单位: h00R (破旧的民居), Name (名字)
+{
+破旧的民居
+}
+
+STRING 325
+// 单位: h00R (破旧的民居), Tip (提示工具 - 基础)
+{
+破旧的民居(|Cffffcc00Q|r)
+}
+
+STRING 326
+// 单位: h00R (破旧的民居), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：140|r|Cff00d936
+每日收入+1|n|r|Cffc0c0c0提供人口:2|r
+}
+
+STRING 327
+// 单位: h00S (粗糙的木屋), Hotkey (热键)
+{
+T
+}
+
+STRING 328
+// 单位: h00S (粗糙的木屋), Name (名字)
+{
+粗糙的木屋
+}
+
+STRING 329
+// 单位: h00S (粗糙的木屋), Tip (提示工具 - 基础)
+{
+粗糙的木屋(|Cffffcc00T|r)
+}
+
+STRING 330
+// 单位: h00S (粗糙的木屋), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936每日收入+2|n|r|Cffc0c0c0提供人口:3|r
+}
+
+STRING 331
+// 单位: h00T (坚固的石屋), Hotkey (热键)
+{
+T
+}
+
+STRING 332
+// 单位: h00T (坚固的石屋), Name (名字)
+{
+坚固的石屋
+}
+
+STRING 333
+// 单位: h00T (坚固的石屋), Tip (提示工具 - 基础)
+{
+坚固的石屋(|Cffffcc00T|r)
+}
+
+STRING 334
+// 单位: h00T (坚固的石屋), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936每日收入+3|n|r|Cffc0c0c0提供人口:5|r
+}
+
+STRING 335
+// 单位: h00U (豪华的混凝土屋), Hotkey (热键)
+{
+T
+}
+
+STRING 336
+// 单位: h00U (豪华的混凝土屋), Name (名字)
+{
+豪华的混凝土屋
+}
+
+STRING 337
+// 单位: h00U (豪华的混凝土屋), Tip (提示工具 - 基础)
+{
+豪华的混凝土屋(|Cffffcc00T|r)
+}
+
+STRING 338
+// 单位: h00U (豪华的混凝土屋), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936每日收入+4|n|r|Cffc0c0c0提供人口:8|r
+}
+
+STRING 339
+// 单位: h00V (低级炮塔), Hotkey (热键)
+{
+E
+}
+
+STRING 340
+// 单位: h00V (低级炮塔), Name (名字)
+{
+低级炮塔
+}
+
+STRING 341
+// 单位: h00V (低级炮塔), Tip (提示工具 - 基础)
+{
+低级炮塔(|Cffffcc00E|r)
+}
+
+STRING 342
+// 单位: h00V (低级炮塔), Ubertip (提示工具 - 扩展)
+{
+1、攻速较慢，攻击距离较近|n2、范围内僵尸造成恐怖的伤害，简单就是说我这一炮下去，你可能会死。|n
+}
+
+STRING 343
+// 单位: h00W (中级炮塔), Hotkey (热键)
+{
+T
+}
+
+STRING 344
+// 单位: h00W (中级炮塔), Name (名字)
+{
+中级炮塔
+}
+
+STRING 345
+// 单位: h00W (中级炮塔), Tip (提示工具 - 基础)
+{
+中级炮塔(|Cffffcc00T|r)
+}
+
+STRING 346
+// 单位: h00W (中级炮塔), Ubertip (提示工具 - 扩展)
+{
+提升攻击力，对范围内僵尸造成较高的伤害。
+}
+
+STRING 347
+// 单位: h00X (高级炮塔), Hotkey (热键)
+{
+T
+}
+
+STRING 348
+// 单位: h00X (高级炮塔), Name (名字)
+{
+高级炮塔
+}
+
+STRING 349
+// 单位: h00X (高级炮塔), Tip (提示工具 - 基础)
+{
+高级炮塔(|Cffffcc00T|r)
+}
+
+STRING 350
+// 单位: h00X (高级炮塔), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000强大的军事塔|n|r1、将攻击提升到一个骇人的地步，这一炮下去真的会死。|n2、攻击范围较近，请注意摆放位置
+}
+
+STRING 351
+// 单位: h00Y (低级火塔), Hotkey (热键)
+{
+W
+}
+
+STRING 352
+// 单位: h00Y (低级火塔), Name (名字)
+{
+低级火塔
+}
+
+STRING 353
+// 单位: h00Y (低级火塔), Tip (提示工具 - 基础)
+{
+低级火塔(|Cffffcc00W|r)
+}
+
+STRING 354
+// 单位: h00Y (低级火塔), Ubertip (提示工具 - 扩展)
+{
+攻速极快，对单体造成极高的伤害
+}
+
+STRING 355
+// 单位: h00Z (中级火塔), Hotkey (热键)
+{
+T
+}
+
+STRING 356
+// 单位: h00Z (中级火塔), Name (名字)
+{
+中级火塔
+}
+
+STRING 357
+// 单位: h00Z (中级火塔), Tip (提示工具 - 基础)
+{
+中级火塔(|Cffffcc00T|r)
+}
+
+STRING 358
+// 单位: h00Z (中级火塔), Ubertip (提示工具 - 扩展)
+{
+提升攻击力，对单体造成极高的伤害
+}
+
+STRING 359
+// 单位: h010 (|CffFF4000高级火塔|r), Hotkey (热键)
+{
+T
+}
+
+STRING 360
+// 单位: h010 (|CffFF4000高级火塔|r), Name (名字)
+{
+|CffFF4000高级火塔|r
+}
+
+STRING 361
+// 单位: h010 (|CffFF4000高级火塔|r), Tip (提示工具 - 基础)
+{
+高级火塔(|Cffffcc00T|r)
+}
+
+STRING 362
+// 单位: h010 (|CffFF4000高级火塔|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000强大的军事塔|n|r1、拥有强大的|Cffff8040易燃增伤|r技能|n2、对单体对战有极具恐怖的伤害|n3、攻击速度极快，适合对抗单体作战较强的僵尸单位
+}
+
+STRING 363
+// 单位: h011 (低级导弹塔), Hotkey (热键)
+{
+Q
+}
+
+STRING 364
+// 单位: h011 (低级导弹塔), Name (名字)
+{
+低级导弹塔
+}
+
+STRING 365
+// 单位: h011 (低级导弹塔), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 366
+// 单位: h012 (中级冰霜塔), Hotkey (热键)
+{
+T
+}
+
+STRING 367
+// 单位: h012 (中级冰霜塔), Name (名字)
+{
+中级冰霜塔
+}
+
+STRING 368
+// 单位: h012 (中级冰霜塔), Tip (提示工具 - 基础)
+{
+中级冰霜塔(|Cffffcc00T|r)
+}
+
+STRING 369
+// 单位: h012 (中级冰霜塔), Ubertip (提示工具 - 扩展)
+{
+1、击可以减慢僵尸移速以及攻击速度|n2、获得冰霜新星能力
+}
+
+STRING 370
+// 单位: h013 (|Cff0088FF高级冰霜塔|r), Hotkey (热键)
+{
+T
+}
+
+STRING 371
+// 单位: h013 (|Cff0088FF高级冰霜塔|r), Name (名字)
+{
+|Cff0088FF高级冰霜塔|r
+}
+
+STRING 372
+// 单位: h013 (|Cff0088FF高级冰霜塔|r), Tip (提示工具 - 基础)
+{
+|Cff0088FF高级冰霜塔|r(|Cffffcc00T|r)
+}
+
+STRING 373
+// 单位: h013 (|Cff0088FF高级冰霜塔|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000强大的军事塔|n|r1、拥有更强大的|Cff4d7aff冰霜新星|r技能|n2、能对击中僵尸减少攻速及移速|n3、攻击范围较远，在阵地战有优秀的表现
+}
+
+STRING 374
+// 单位: h014 (|CffFF8000疯狂的伐木工|r), Hotkey (热键)
+{
+R
+}
+
+STRING 375
+// 单位: h014 (|CffFF8000疯狂的伐木工|r), Name (名字)
+{
+|CffFF8000疯狂的伐木工|r
+}
+
+STRING 376
+// 单位: h014 (|CffFF8000疯狂的伐木工|r), Tip (提示工具 - 基础)
+{
+|CffFF8000疯狂的伐木工|r(|Cffffcc00R|r)
+}
+
+STRING 377
+// 单位: h014 (|CffFF8000疯狂的伐木工|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：1|r|Cff00b2b2
+|r这个伐木工已经疯了，所以伐木贼猛|n
+}
+
+STRING 378
+// 单位: h015 (高级能量塔), Hotkey (热键)
+{
+T
+}
+
+STRING 379
+// 单位: h015 (高级能量塔), Name (名字)
+{
+高级能量塔
+}
+
+STRING 380
+// 单位: h015 (高级能量塔), Tip (提示工具 - 基础)
+{
+高级能量塔(|cffffcc00T|r)
+}
+
+STRING 381
+// 单位: h015 (高级能量塔), Ubertip (提示工具 - 扩展)
+{
+拥有|Cff00bfff能量聚集|r技能，与某些单位配合会有意想不到的效果
+}
+
+STRING 382
+// 单位: h016 (低级冰霜塔), Hotkey (热键)
+{
+Q
+}
+
+STRING 383
+// 单位: h016 (低级冰霜塔), Name (名字)
+{
+低级冰霜塔
+}
+
+STRING 384
+// 单位: h016 (低级冰霜塔), Tip (提示工具 - 基础)
+{
+低级冰霜塔(|Cffffcc00Q|r)
+}
+
+STRING 385
+// 单位: h016 (低级冰霜塔), Ubertip (提示工具 - 扩展)
+{
+攻击可以减慢僵尸移速以及攻击速度
+}
+
+STRING 386
+// 单位: h017 (中级导弹塔), Hotkey (热键)
+{
+T
+}
+
+STRING 387
+// 单位: h017 (中级导弹塔), Name (名字)
+{
+中级导弹塔
+}
+
+STRING 388
+// 单位: h017 (中级导弹塔), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 389
+// 单位: h018 (高级导弹塔), Hotkey (热键)
+{
+T
+}
+
+STRING 390
+// 单位: h018 (高级导弹塔), Name (名字)
+{
+高级导弹塔
+}
+
+STRING 391
+// 单位: h018 (高级导弹塔), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 392
+// 单位: h019 (塔基), Hotkey (热键)
+{
+X
+}
+
+STRING 393
+// 单位: h019 (塔基), Name (名字)
+{
+塔基
+}
+
+STRING 394
+// 单位: h019 (塔基), Tip (提示工具 - 基础)
+{
+塔基(|Cffffcc00X|r)
+}
+
+STRING 395
+// 单位: h019 (塔基), Ubertip (提示工具 - 扩展)
+{
+大部分军事塔的底座
+}
+
+STRING 396
+// 单位: h01A (机枪塔), Hotkey (热键)
+{
+Z
+}
+
+STRING 397
+// 单位: h01A (机枪塔), Name (名字)
+{
+机枪塔
+}
+
+STRING 398
+// 单位: h01A (机枪塔), Tip (提示工具 - 基础)
+{
+机枪塔(|Cffffcc00Z|r)
+}
+
+STRING 399
+// 单位: h01A (机枪塔), Ubertip (提示工具 - 扩展)
+{
+1、极快的攻击速度|n2、每次攻击能击退僵尸一小段狙击（一只怪最多被击退40次）
+}
+
+STRING 400
+// 单位: h01B (高级机枪塔), Hotkey (热键)
+{
+T
+}
+
+STRING 401
+// 单位: h01B (高级机枪塔), Name (名字)
+{
+高级机枪塔
+}
+
+STRING 402
+// 单位: h01B (高级机枪塔), Tip (提示工具 - 基础)
+{
+高级机枪塔(|Cffffcc00T|r)
+}
+
+STRING 403
+// 单位: h01B (高级机枪塔), Ubertip (提示工具 - 扩展)
+{
+更强大的机枪塔
+}
+
+STRING 404
+// 单位: h01C (懒惰的伐木工), Hotkey (热键)
+{
+Q
+}
+
+STRING 405
+// 单位: h01C (懒惰的伐木工), Name (名字)
+{
+懒惰的伐木工
+}
+
+STRING 406
+// 单位: h01C (懒惰的伐木工), Tip (提示工具 - 基础)
+{
+懒惰的伐木工(|Cffffcc00Q|r)
+}
+
+STRING 407
+// 单位: h01C (懒惰的伐木工), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：5|r|Cff00b2b2
+|r基础伐木工，虽然伐木效率低了点，但还可以凑合着用
+}
+
+STRING 408
+// 单位: h01D (伐木场), Hotkey (热键)
+{
+W
+}
+
+STRING 409
+// 单位: h01D (伐木场), Tip (提示工具 - 基础)
+{
+建造伐木场(|cffffcc00W|r)
+}
+
+STRING 410
+// 单位: h01E (勤快的伐木工), Hotkey (热键)
+{
+W
+}
+
+STRING 411
+// 单位: h01E (勤快的伐木工), Name (名字)
+{
+勤快的伐木工
+}
+
+STRING 412
+// 单位: h01E (勤快的伐木工), Tip (提示工具 - 基础)
+{
+勤快的伐木工(W)
+}
+
+STRING 413
+// 单位: h01E (勤快的伐木工), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：3|r|Cff00b2b2
+|r中级伐木工，伐木效率有所提升
+}
+
+STRING 414
+// 单位: h01F (|Cff00D936机智的伐木工|r), Hotkey (热键)
+{
+E
+}
+
+STRING 415
+// 单位: h01F (|Cff00D936机智的伐木工|r), Name (名字)
+{
+|Cff00D936机智的伐木工|r
+}
+
+STRING 416
+// 单位: h01F (|Cff00D936机智的伐木工|r), Tip (提示工具 - 基础)
+{
+|Cff00D936机智的伐木工|r(|Cffffcc00E|r)
+}
+
+STRING 417
+// 单位: h01F (|Cff00D936机智的伐木工|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：1|r|Cff00b2b2
+|r这个伐木工有点机智，比那种蒙头干的伐木工效率更高
+}
+
+STRING 418
+// 单位: h01G (弓箭手), Hotkey (热键)
+{
+Q
+}
+
+STRING 419
+// 单位: h01G (弓箭手), Name (名字)
+{
+弓箭手
+}
+
+STRING 420
+// 单位: h01G (弓箭手), Tip (提示工具 - 基础)
+{
+弓箭手(|Cffffcc00Q|r)
+}
+
+STRING 421
+// 单位: h01G (弓箭手), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、超高的嘲讽能力（因为僵尸喜欢挑软柿子捏）|n2、较快的移动速度，适合移动的游击战
+}
+
+STRING 422
+// 单位: h01H (伤害马甲), Name (名字)
+{
+伤害马甲
+}
+
+STRING 423
+// 单位: h01I (瞭望塔), Hotkey (热键)
+{
+Q
+}
+
+STRING 424
+// 单位: h01I (瞭望塔), Name (名字)
+{
+瞭望塔
+}
+
+STRING 425
+// 单位: h01I (瞭望塔), Tip (提示工具 - 基础)
+{
+瞭望塔(|Cffffcc00Q|r)
+}
+
+STRING 426
+// 单位: h01I (瞭望塔), Ubertip (提示工具 - 扩展)
+{
+侦查型建筑|n1、提供超远的视野|n2、可以照亮地图上一块区域
+}
+
+STRING 427
+// 单位: h01J (荒芜的农场), Hotkey (热键)
+{
+W
+}
+
+STRING 428
+// 单位: h01J (荒芜的农场), Name (名字)
+{
+荒芜的农场
+}
+
+STRING 429
+// 单位: h01J (荒芜的农场), Tip (提示工具 - 基础)
+{
+荒芜的农场(|Cffffcc00W|r)
+}
+
+STRING 430
+// 单位: h01J (荒芜的农场), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936每日收入+7|r
+}
+
+STRING 431
+// 单位: h01K (常青的农场), Hotkey (热键)
+{
+T
+}
+
+STRING 432
+// 单位: h01K (常青的农场), Name (名字)
+{
+常青的农场
+}
+
+STRING 433
+// 单位: h01K (常青的农场), Tip (提示工具 - 基础)
+{
+常青的农场(|Cffffcc00T|r)
+}
+
+STRING 434
+// 单位: h01K (常青的农场), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936每日收入+15|r
+}
+
+STRING 435
+// 单位: h01L (繁盛的农场), Hotkey (热键)
+{
+T
+}
+
+STRING 436
+// 单位: h01L (繁盛的农场), Name (名字)
+{
+繁盛的农场
+}
+
+STRING 437
+// 单位: h01L (繁盛的农场), Tip (提示工具 - 基础)
+{
+繁盛的农场(|Cffffcc00T|r)
+}
+
+STRING 438
+// 单位: h01L (繁盛的农场), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936每日收入+32|r
+}
+
+STRING 439
+// 单位: h01M (水车), Hotkey (热键)
+{
+Q
+}
+
+STRING 440
+// 单位: h01M (水车), Name (名字)
+{
+水车
+}
+
+STRING 441
+// 单位: h01M (水车), Tip (提示工具 - 基础)
+{
+水车(|Cffffcc00Q|r)
+}
+
+STRING 442
+// 单位: h01M (水车), Ubertip (提示工具 - 扩展)
+{
+|CffFF0000限制：只能造在水域|r|Cff00d936
+每日收入+7|r
+}
+
+STRING 443
+// 单位: h01N (懒人专用民房), Hotkey (热键)
+{
+A
+}
+
+STRING 444
+// 单位: h01N (懒人专用民房), Name (名字)
+{
+懒人专用民房
+}
+
+STRING 445
+// 单位: h01N (懒人专用民房), Tip (提示工具 - 基础)
+{
+懒人专用民房(|Cffffcc00A|r)
+}
+
+STRING 446
+// 单位: h01N (懒人专用民房), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：15|r|Cff00d936
+每日收入+5|n|r|Cffc0c0c0提供人口:18|n|r造民房造累了嘛？那就试试他，一个相当于9个破烂民房，但建造时间是普通民房的两倍，建造费用额外比9民房多30木头和钱（偷懒手续费），且无法升级。
+}
+
+STRING 447
+// 单位: h01O (testsss), Name (名字)
+{
+testsss
+}
+
+STRING 449
+// 单位: H04O (幸存者（可达鸭）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 450
+// 单位: H04O (幸存者（可达鸭）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 451
+// 单位: h01Q (僵尸女妖), Name (名字)
+{
+僵尸女妖
+}
+
+STRING 452
+// 单位: h01R (腐朽的僵尸), Name (名字)
+{
+腐朽的僵尸
+}
+
+STRING 453
+// 单位: h01S (被感染的村民A), Name (名字)
+{
+被感染的村民A
+}
+
+STRING 454
+// 单位: h01T (饿殍), Name (名字)
+{
+饿殍
+}
+
+STRING 455
+// 单位: h01U (自爆僵尸), Name (名字)
+{
+自爆僵尸
+}
+
+STRING 458
+// 单位: h01X (僵尸肥宅), Name (名字)
+{
+僵尸肥宅
+}
+
+STRING 459
+// 单位: h01Y (混混僵尸), Name (名字)
+{
+混混僵尸
+}
+
+STRING 460
+// 单位: h01Z (跑的贼快的狼崽), Name (名字)
+{
+跑的贼快的狼崽
+}
+
+STRING 461
+// 单位: h020 (被感染的甲虫), Name (名字)
+{
+被感染的甲虫
+}
+
+STRING 462
+// 单位: h021 (食尸鬼（无法击退）), Name (名字)
+{
+食尸鬼（无法击退）
+}
+
+STRING 463
+// 单位: h022 (变异的僵尸), Name (名字)
+{
+变异的僵尸
+}
+
+STRING 464
+// 单位: h023 (邪恶的触手怪), Name (名字)
+{
+邪恶的触手怪
+}
+
+STRING 465
+// 单位: h024 (残忍屠夫僵尸（无法击退）), Name (名字)
+{
+残忍屠夫僵尸（无法击退）
+}
+
+STRING 466
+// 单位: h025 (被感染的魔帅), Name (名字)
+{
+被感染的魔帅
+}
+
+STRING 467
+// 单位: h026 (被感染的高级民居|Cffff0000（危险）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 468
+// 单位: h026 (被感染的高级民居|Cffff0000（危险）|r), Name (名字)
+{
+被感染的高级民居|Cffff0000（危险）|r
+}
+
+STRING 469
+// 单位: h026 (被感染的高级民居|Cffff0000（危险）|r), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 470
+// 单位: h027 (被感染的低级民居), EditorSuffix (名字 - 编辑器后缀)
+{
+1
+}
+
+STRING 471
+// 单位: h027 (被感染的低级民居), Hotkey (热键)
+{
+Q
+}
+
+STRING 472
+// 单位: h027 (被感染的低级民居), Name (名字)
+{
+被感染的低级民居
+}
+
+STRING 473
+// 单位: h027 (被感染的低级民居), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 474
+// 单位: h028 (穷奇（boss）), Name (名字)
+{
+穷奇（boss）
+}
+
+STRING 475
+// 单位: h02A (八方风雨 - 生灵之泉), Hotkey (热键)
+{
+Q
+}
+
+STRING 476
+// 单位: h02A (八方风雨 - 生灵之泉), Name (名字)
+{
+八方风雨 - 生灵之泉
+}
+
+STRING 477
+// 单位: h02A (八方风雨 - 生灵之泉), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 478
+// 单位: h02B (被感染的村民), Name (名字)
+{
+被感染的村民
+}
+
+STRING 479
+// 单位: h02C (仇恨塔), Hotkey (热键)
+{
+E
+}
+
+STRING 480
+// 单位: h02C (仇恨塔), Name (名字)
+{
+仇恨塔
+}
+
+STRING 481
+// 单位: h02C (仇恨塔), Tip (提示工具 - 基础)
+{
+建造仇恨塔(|cffffcc00E|r)
+}
+
+STRING 482
+// 单位: h02C (仇恨塔), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：5|n|r|Cffff8000给你们应急用的！（都被玩出花来了）|r|n快速建造一个攻击单位，只能提供最基本的拉仇恨功能
+}
+
+STRING 483
+// 单位: h02D (|CffFF8000医疗兵|r), Hotkey (热键)
+{
+Z
+}
+
+STRING 484
+// 单位: h02D (|CffFF8000医疗兵|r), Name (名字)
+{
+|CffFF8000医疗兵|r
+}
+
+STRING 485
+// 单位: h02D (|CffFF8000医疗兵|r), Tip (提示工具 - 基础)
+{
+|CffFF8000医疗兵|r(|Cffffcc00Z|r)
+}
+
+STRING 486
+// 单位: h02D (|CffFF8000医疗兵|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：12|n|r|Cffff8000高级作战单位|r|n1、超强的回复能力|n2、具有修理和医疗能力|n3|Cfff0f0f0、作战能力一般，属于辅助型兵种|r
+}
+
+STRING 487
+// 单位: h02E (狙击兵(野战)), Hotkey (热键)
+{
+E
+}
+
+STRING 488
+// 单位: h02E (狙击兵(野战)), Name (名字)
+{
+狙击兵(野战)
+}
+
+STRING 489
+// 单位: h02E (狙击兵(野战)), Tip (提示工具 - 基础)
+{
+狙击兵(野战)(|Cffffcc00E|r)
+}
+
+STRING 490
+// 单位: h02E (狙击兵(野战)), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、超远的打击|n2、可以击退僵尸|n2、较慢的移动速度和攻击速度，适合阵地战
+}
+
+STRING 491
+// 单位: h02F (被感染的低级民居), EditorSuffix (名字 - 编辑器后缀)
+{
+2
+}
+
+STRING 492
+// 单位: h02F (被感染的低级民居), Hotkey (热键)
+{
+Q
+}
+
+STRING 493
+// 单位: h02F (被感染的低级民居), Name (名字)
+{
+被感染的低级民居
+}
+
+STRING 494
+// 单位: h02F (被感染的低级民居), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 495
+// 单位: h02G (test), Name (名字)
+{
+test
+}
+
+STRING 496
+// 单位: h02H (被感染的超级民居|Cffff0000（极度危险）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 497
+// 单位: h02H (被感染的超级民居|Cffff0000（极度危险）|r), Name (名字)
+{
+被感染的超级民居|Cffff0000（极度危险）|r
+}
+
+STRING 498
+// 单位: h02H (被感染的超级民居|Cffff0000（极度危险）|r), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 499
+// 单位: h02I (被感染的中级民居), Hotkey (热键)
+{
+Q
+}
+
+STRING 500
+// 单位: h02I (被感染的中级民居), Name (名字)
+{
+被感染的中级民居
+}
+
+STRING 501
+// 单位: h02I (被感染的中级民居), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 502
+// 单位: h02J (残忍的屠夫（精英）), Name (名字)
+{
+残忍的屠夫（精英）
+}
+
+STRING 503
+// 单位: h02K (氪金兵工厂), Hotkey (热键)
+{
+T
+}
+
+STRING 504
+// 单位: h02K (氪金兵工厂), Name (名字)
+{
+氪金兵工厂
+}
+
+STRING 505
+// 单位: h02K (氪金兵工厂), Tip (提示工具 - 基础)
+{
+氪金兵工厂(|Cffffcc00T|r)
+}
+
+STRING 506
+// 单位: h02K (氪金兵工厂), Ubertip (提示工具 - 扩展)
+{
+可以免费建造|Cffff8000氪金兵种|r
+}
+
+STRING 507
+// 单位: h033 (矿场), Hotkey (热键)
+{
+E
+}
+
+STRING 508
+// 单位: h02L (|CffFF80C0蜘蛛机器人|r), Name (名字)
+{
+|CffFF80C0蜘蛛机器人|r
+}
+
+STRING 510
+// 单位: h02L (|CffFF80C0蜘蛛机器人|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：1|n|r|Cffffbf00氪金作战单位|r|Cff00b2b2
+|r1、攻击附带击退（一只怪最多被击退40次）|n2、超强的回复能力|n3、极快的移速|n4、|Cfff0f0f0氪金|r两个字看不懂嘛，本来充钱才能有东西，能不牛逼？
+}
+
+STRING 511
+// 单位: h02R (八方风雨 - |Cff4d7aff永夜的寒冬|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 512
+// 单位: h02M (|CffFFA8FFT1机器人|r), Name (名字)
+{
+|CffFFA8FFT1机器人|r
+}
+
+STRING 514
+// 单位: h02M (|CffFFA8FFT1机器人|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：1|n|r|Cffffbf00氪金作战单位|r|Cff00b2b2
+|r1、极快的攻速|n2、超强的回复能力|n3、极快的移速|n4、氪金两个字看不懂嘛，本来充钱才能有东西，能不牛逼？|n
+}
+
+STRING 515
+// 单位: h02Q (低级能量塔), Hotkey (热键)
+{
+R
+}
+
+STRING 516
+// 单位: h02N (|CffFF80C0双足机器人|r), Name (名字)
+{
+|CffFF80C0双足机器人|r
+}
+
+STRING 518
+// 单位: h02N (|CffFF80C0双足机器人|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：1|n|r|Cffffbf00氪金作战单位|r|Cff00b2b2
+|r1、攻击附带击退(一只怪最多击退40次)|n2、超强的回复能力|n3、极快的移速|n4、|Cfff0f0f0氪金|r两个字看不懂嘛，本来充钱才能有东西，能不能牛逼？
+}
+
+STRING 519
+// 单位: h036 (塔类研究所), Hotkey (热键)
+{
+W
+}
+
+STRING 520
+// 单位: h02O (|CffFFA8FFT2机器人|r), Name (名字)
+{
+|CffFFA8FFT2机器人|r
+}
+
+STRING 522
+// 单位: h02O (|CffFFA8FFT2机器人|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：1|n|r|Cffffbf00氪金作战单位|r|Cff00b2b2
+|r1、攻击附带弹射|n2、超强的回复能力|n3、极快的移速|n4、|Cfff0f0f0氪金|r两个字看不懂嘛，本来充钱才能有东西，能不牛逼？
+}
+
+STRING 523
+// 单位: h02P (究极堕天使), Name (名字)
+{
+究极堕天使
+}
+
+STRING 524
+// 单位: h02S (强化研究所), Hotkey (热键)
+{
+R
+}
+
+STRING 525
+// 单位: h02Q (低级能量塔), Name (名字)
+{
+低级能量塔
+}
+
+STRING 526
+// 单位: h02Q (低级能量塔), Tip (提示工具 - 基础)
+{
+低级能量塔(|Cffffcc00R|r)
+}
+
+STRING 527
+// 单位: h02Q (低级能量塔), Ubertip (提示工具 - 扩展)
+{
+电死僵尸丫的
+}
+
+STRING 528
+// 单位: h02V (八方风雨 - |Cff00b200德鲁伊的翡翠皇冠|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 530
+// 单位: h02R (八方风雨 - |Cff4d7aff永夜的寒冬|r), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 531
+// 单位: h03S (简易弩塔), Hotkey (热键)
+{
+R
+}
+
+STRING 532
+// 单位: h02S (强化研究所), Name (名字)
+{
+强化研究所
+}
+
+STRING 533
+// 单位: h02S (强化研究所), Tip (提示工具 - 基础)
+{
+强化研究所(|Cffffcc00R|r)
+}
+
+STRING 534
+// 单位: h02S (强化研究所), Ubertip (提示工具 - 扩展)
+{
+可以强化大部分作战单位
+}
+
+STRING 535
+// 单位: h02T (伟大的建造马甲), Name (名字)
+{
+伟大的建造马甲
+}
+
+STRING 536
+// 单位: h02U (|CffFF7373八|r|Cffea7d67方|r|Cffd6875c风|r|Cffc29150雨 |r|Cff9aa639- |r|Cff), EditorSuffix (名字 - 编辑器后缀)
+{
+|CffFF7373八|r|Cffef7a6a方|r|Cffe08261风|r|Cffd08a58雨 |r|Cffb19a46随|r|Cffa2a23d机|r|Cff92a935一|r|Cff83b12c种|r|Cff73b923传|r|Cff64c11a说|r|Cff54c911建|r|Cff45d108筑|r
+}
+
+STRING 537
+// 单位: h02M (|CffFFA8FFT1机器人|r), Hotkey (热键)
+{
+A
+}
+
+STRING 538
+// 单位: h02U (|CffFF7373八|r|Cffea7d67方|r|Cffd6875c风|r|Cffc29150雨 |r|Cff9aa639- |r|Cff), Name (名字)
+{
+|CffFF7373八|r|Cffea7d67方|r|Cffd6875c风|r|Cffc29150雨 |r|Cff9aa639- |r|Cff72ba22？|r
+}
+
+STRING 539
+// 单位: h02U (|CffFF7373八|r|Cffea7d67方|r|Cffd6875c风|r|Cffc29150雨 |r|Cff9aa639- |r|Cff), Tip (提示工具 - 基础)
+{
+|CffFF7373八|r|Cffea7d67方|r|Cffd6875c风|r|Cffc29150雨 |r|Cff9aa639- |r|Cff72ba22？|r(|Cffffcc00A|r)
+}
+
+STRING 540
+// 单位: h02U (|CffFF7373八|r|Cffea7d67方|r|Cffd6875c风|r|Cffc29150雨 |r|Cff9aa639- |r|Cff), Ubertip (提示工具 - 扩展)
+{
+|CffFF7373传|r|Cffef7a6a说|r|Cffe08261建|r|Cffd08a58筑|r|Cffc1924f，|r|Cffb19a46翻|r|Cffa2a23d开|r|Cff92a935人|r|Cff83b12c类|r|Cff73b923新|r|Cff64c11a的|r|Cff54c911篇|r|Cff45d108章|r
+}
+
+STRING 541
+// 单位: h02W (八方风雨 - 古埃及金字塔), Hotkey (热键)
+{
+Q
+}
+
+STRING 543
+// 单位: h02V (八方风雨 - |Cff00b200德鲁伊的翡翠皇冠|r), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 544
+// 单位: h02X (八方风雨 - 烈火燎原), Hotkey (热键)
+{
+Q
+}
+
+STRING 545
+// 单位: h02W (八方风雨 - 古埃及金字塔), Name (名字)
+{
+八方风雨 - 古埃及金字塔
+}
+
+STRING 546
+// 单位: h02W (八方风雨 - 古埃及金字塔), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 547
+// 单位: h02Y (八方风雨 - |Cffff73ff艾塔乌斯的永恒观星塔|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 548
+// 单位: h02X (八方风雨 - 烈火燎原), Name (名字)
+{
+八方风雨 - 烈火燎原
+}
+
+STRING 549
+// 单位: h02X (八方风雨 - 烈火燎原), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 550
+// 单位: h02Z (八方风雨 - 沉沦古寺), Hotkey (热键)
+{
+Q
+}
+
+STRING 552
+// 单位: h02Y (八方风雨 - |Cffff73ff艾塔乌斯的永恒观星塔|r), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 553
+// 单位: h030 (特殊僵尸建筑|Cffff8000（内圈僵尸房没清完不要碰我）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 554
+// 单位: h02Z (八方风雨 - 沉沦古寺), Name (名字)
+{
+八方风雨 - 沉沦古寺
+}
+
+STRING 555
+// 单位: h02Z (八方风雨 - 沉沦古寺), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 556
+// 单位: h032 (八方风雨 - 英雄祭坛), Hotkey (热键)
+{
+Q
+}
+
+STRING 557
+// 单位: h030 (特殊僵尸建筑|Cffff8000（内圈僵尸房没清完不要碰我）|r), Name (名字)
+{
+特殊僵尸建筑|Cffff8000（内圈僵尸房没清完不要碰我）|r
+}
+
+STRING 558
+// 单位: h030 (特殊僵尸建筑|Cffff8000（内圈僵尸房没清完不要碰我）|r), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 559
+// 单位: h031 (天神下凡挖掘机（boss）), Name (名字)
+{
+天神下凡挖掘机（boss）
+}
+
+STRING 560
+// 单位: h037 (高级兵种研究所), Hotkey (热键)
+{
+Q
+}
+
+STRING 561
+// 单位: h032 (八方风雨 - 英雄祭坛), Name (名字)
+{
+八方风雨 - 英雄祭坛
+}
+
+STRING 562
+// 单位: h032 (八方风雨 - 英雄祭坛), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 563
+// 单位: h03N (狙击兵（皇家狙击手）), Hotkey (热键)
+{
+E
+}
+
+STRING 564
+// 单位: h033 (矿场), Name (名字)
+{
+矿场
+}
+
+STRING 565
+// 单位: h033 (矿场), Tip (提示工具 - 基础)
+{
+矿场(|Cffffcc00E|r)
+}
+
+STRING 566
+// 单位: h033 (矿场), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：3|n|r|Cff00d936每秒收入+1|r|Cff00ff00
+|r|Cffff0000限制：只能造在矿石上|n|r|Cff4d7aff前期经济产出较高的建筑|r
+}
+
+STRING 567
+// 单位: h034 (矿石), Hotkey (热键)
+{
+T
+}
+
+STRING 568
+// 单位: h034 (矿石), Name (名字)
+{
+矿石
+}
+
+STRING 569
+// 单位: h034 (矿石), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 570
+// 单位: h035 (高级塔类研究所), Hotkey (热键)
+{
+X
+}
+
+STRING 571
+// 单位: h035 (高级塔类研究所), Name (名字)
+{
+高级塔类研究所
+}
+
+STRING 572
+// 单位: h035 (高级塔类研究所), Tip (提示工具 - 基础)
+{
+高级塔类研究所(|Cffffcc00X|r)
+}
+
+STRING 573
+// 单位: h035 (高级塔类研究所), Ubertip (提示工具 - 扩展)
+{
+可以研究更高级的军事塔
+}
+
+STRING 574
+// 单位: h048 (士兵（马里恩）), Hotkey (热键)
+{
+W
+}
+
+STRING 575
+// 单位: h036 (塔类研究所), Name (名字)
+{
+塔类研究所
+}
+
+STRING 576
+// 单位: h036 (塔类研究所), Tip (提示工具 - 基础)
+{
+塔类研究所(|Cffffcc00W|r)
+}
+
+STRING 577
+// 单位: h036 (塔类研究所), Ubertip (提示工具 - 扩展)
+{
+可以研究各种各样的军事塔
+}
+
+STRING 578
+// 单位: h03A (奔跑的低级民居), Hotkey (热键)
+{
+Q
+}
+
+STRING 579
+// 单位: h037 (高级兵种研究所), Name (名字)
+{
+高级兵种研究所
+}
+
+STRING 580
+// 单位: h037 (高级兵种研究所), Tip (提示工具 - 基础)
+{
+高级兵种研究所(|Cffffcc00Q|r)
+}
+
+STRING 581
+// 单位: h037 (高级兵种研究所), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000可以研究训练更强大的兵种|r
+}
+
+STRING 582
+// 单位: h038 (|CffFF8000膨胀的竹挽|r), Hotkey (热键)
+{
+X
+}
+
+STRING 583
+// 单位: h038 (|CffFF8000膨胀的竹挽|r), Name (名字)
+{
+|CffFF8000膨胀的竹挽|r
+}
+
+STRING 584
+// 单位: h038 (|CffFF8000膨胀的竹挽|r), Tip (提示工具 - 基础)
+{
+|CffFF8000膨胀的竹挽|r
+}
+
+STRING 585
+// 单位: h038 (|CffFF8000膨胀的竹挽|r), Ubertip (提示工具 - 扩展)
+{
+|Cff7AFF4D求求你做个人吧|r
+}
+
+STRING 586
+// 单位: h039 (被感染的船只), Name (名字)
+{
+被感染的船只
+}
+
+STRING 587
+// 单位: h03A (奔跑的低级民居), EditorSuffix (名字 - 编辑器后缀)
+{
+1
+}
+
+STRING 588
+// 单位: h03B (奔跑的超级民居|Cffff0000（极度危险）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 589
+// 单位: h03A (奔跑的低级民居), Name (名字)
+{
+奔跑的低级民居
+}
+
+STRING 590
+// 单位: h03A (奔跑的低级民居), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 591
+// 单位: h03C (奔跑的高级民居|Cffff0000（危险）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 592
+// 单位: h03B (奔跑的超级民居|Cffff0000（极度危险）|r), Name (名字)
+{
+奔跑的超级民居|Cffff0000（极度危险）|r
+}
+
+STRING 593
+// 单位: h03B (奔跑的超级民居|Cffff0000（极度危险）|r), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 594
+// 单位: h03D (奔跑的中级民居), Hotkey (热键)
+{
+Q
+}
+
+STRING 595
+// 单位: h03C (奔跑的高级民居|Cffff0000（危险）|r), Name (名字)
+{
+奔跑的高级民居|Cffff0000（危险）|r
+}
+
+STRING 596
+// 单位: h03C (奔跑的高级民居|Cffff0000（危险）|r), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 597
+// 单位: h03E (被感染的火车), Hotkey (热键)
+{
+Q
+}
+
+STRING 598
+// 单位: h03D (奔跑的中级民居), Name (名字)
+{
+奔跑的中级民居
+}
+
+STRING 599
+// 单位: h03D (奔跑的中级民居), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 600
+// 单位: h03K (弓箭手（暗黑游侠）), Hotkey (热键)
+{
+Q
+}
+
+STRING 601
+// 单位: h03E (被感染的火车), Name (名字)
+{
+被感染的火车
+}
+
+STRING 602
+// 单位: h03E (被感染的火车), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 603
+// 单位: h03F (被感染的船坞), Name (名字)
+{
+被感染的船坞
+}
+
+STRING 604
+// 单位: h03G (憎恶（精英）), Name (名字)
+{
+憎恶（精英）
+}
+
+STRING 605
+// 单位: h03H (奶霸天（精英）), Name (名字)
+{
+奶霸天（精英）
+}
+
+STRING 606
+// 单位: h03I (僵尸女妖(精英)), Name (名字)
+{
+僵尸女妖(精英)
+}
+
+STRING 607
+// 单位: h02U (|CffFF7373八|r|Cffea7d67方|r|Cffd6875c风|r|Cffc29150雨 |r|Cff9aa639- |r|Cff), Hotkey (热键)
+{
+A
+}
+
+STRING 608
+// 单位: h03J (|Cff0088FF高级冰霜塔(星空元素)|r), Name (名字)
+{
+|Cff0088FF高级冰霜塔(星空元素)|r
+}
+
+STRING 609
+// 单位: h03J (|Cff0088FF高级冰霜塔(星空元素)|r), Tip (提示工具 - 基础)
+{
+|Cff0088FF高级冰霜塔（星空元素）|r(|Cffffcc00A|r)
+}
+
+STRING 610
+// 单位: h03J (|Cff0088FF高级冰霜塔(星空元素)|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000强大的军事塔|n|r1、拥有更强大的|Cff4d7aff冰霜新星|r技能|n2、能对击中僵尸减少攻速及移速|n3、攻击范围较远，在阵地战有优秀的表现
+}
+
+STRING 611
+// 单位: h03M (弓箭手（塞恩德里斯）), Hotkey (热键)
+{
+Q
+}
+
+STRING 612
+// 单位: h03K (弓箭手（暗黑游侠）), Name (名字)
+{
+弓箭手（暗黑游侠）
+}
+
+STRING 613
+// 单位: h03K (弓箭手（暗黑游侠）), Tip (提示工具 - 基础)
+{
+弓箭手（暗黑游侠）(|Cffffcc00Q|r)
+}
+
+STRING 614
+// 单位: h03K (弓箭手（暗黑游侠）), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、超高的嘲讽能力（因为僵尸喜欢挑软柿子捏）|n2、较快的移动速度，适合移动的游击战
+}
+
+STRING 615
+// 单位: h03T (墓碑（boss）), Hotkey (热键)
+{
+Q
+}
+
+STRING 616
+// 单位: h03M (弓箭手（塞恩德里斯）), Name (名字)
+{
+弓箭手（塞恩德里斯）
+}
+
+STRING 617
+// 单位: h03M (弓箭手（塞恩德里斯）), Tip (提示工具 - 基础)
+{
+弓箭手（塞恩德里斯）(|Cffffcc00Q|r)
+}
+
+STRING 618
+// 单位: h03M (弓箭手（塞恩德里斯）), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、超高的嘲讽能力（因为僵尸喜欢挑软柿子捏）|n2、较快的移动速度，适合移动的游击战
+}
+
+STRING 619
+// 单位: h03Q (狙击兵(西部牛仔)), Hotkey (热键)
+{
+E
+}
+
+STRING 620
+// 单位: h03N (狙击兵（皇家狙击手）), Name (名字)
+{
+狙击兵（皇家狙击手）
+}
+
+STRING 621
+// 单位: h03N (狙击兵（皇家狙击手）), Tip (提示工具 - 基础)
+{
+狙击兵（皇家狙击手）(|Cffffcc00E|r)
+}
+
+STRING 622
+// 单位: h03N (狙击兵（皇家狙击手）), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、超远的打击|n2、可以击退僵尸|n2、较慢的移动速度和攻击速度，适合阵地战
+}
+
+STRING 623
+// 单位: h02O (|CffFFA8FFT2机器人|r), Hotkey (热键)
+{
+S
+}
+
+STRING 624
+// 单位: h03O (|CffFF8000炮火手（海军陆战队）|r), Name (名字)
+{
+|CffFF8000炮火手（海军陆战队）|r
+}
+
+STRING 625
+// 单位: h03O (|CffFF8000炮火手（海军陆战队）|r), Tip (提示工具 - 基础)
+{
+|CffFF8000炮火手（海军陆战队）|r(|Cffffcc00S|r)
+}
+
+STRING 626
+// 单位: h03O (|CffFF8000炮火手（海军陆战队）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高级作战单位|r|n1、强大的远程打击能力。|n2、单体作战能力较弱，但当一定数量堆起来，将对僵尸造成|Cffff8000毁灭性的打击|n|r|Cfff0f0f03、作战能力优秀，在阵地战里有强大的统治力|r
+}
+
+STRING 627
+// 单位: h03O (|CffFF8000炮火手（海军陆战队）|r), Hotkey (热键)
+{
+S
+}
+
+STRING 628
+// 单位: h03P (|Cff0088FF高级冰霜塔(海潮之灵)|r), Name (名字)
+{
+|Cff0088FF高级冰霜塔(海潮之灵)|r
+}
+
+STRING 629
+// 单位: h03P (|Cff0088FF高级冰霜塔(海潮之灵)|r), Tip (提示工具 - 基础)
+{
+|Cff0088FF高级冰霜塔(海潮之灵)|r(|Cffffcc00S|r)
+}
+
+STRING 630
+// 单位: h03P (|Cff0088FF高级冰霜塔(海潮之灵)|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000强大的军事塔|n|r1、拥有更强大的|Cff4d7aff冰霜新星|r技能|n2、能对击中僵尸减少攻速及移速|n3、攻击范围较远，在阵地战有优秀的表现
+}
+
+STRING 631
+// 技能: A01R (送葬), Hotkey (热键 - 普通)
+{
+E
+}
+
+STRING 632
+// 单位: h03Q (狙击兵(西部牛仔)), Name (名字)
+{
+狙击兵(西部牛仔)
+}
+
+STRING 633
+// 单位: h03Q (狙击兵(西部牛仔)), Tip (提示工具 - 基础)
+{
+狙击兵(西部牛仔)（|Cffffcc00E|r)
+}
+
+STRING 634
+// 单位: h03Q (狙击兵(西部牛仔)), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、超远的打击|n2、可以击退僵尸|n2、较慢的移动速度和攻击速度，适合阵地战
+}
+
+STRING 635
+// 单位: h03J (|Cff0088FF高级冰霜塔(星空元素)|r), Hotkey (热键)
+{
+A
+}
+
+STRING 636
+// 单位: h03R (|CffFF4000高级火塔（灰烬之炎）|r), Name (名字)
+{
+|CffFF4000高级火塔（灰烬之炎）|r
+}
+
+STRING 637
+// 单位: h03R (|CffFF4000高级火塔（灰烬之炎）|r), Tip (提示工具 - 基础)
+{
+|CffFF4000高级火塔（灰烬之炎）|r(|Cffffcc00A|r)
+}
+
+STRING 638
+// 单位: h03R (|CffFF4000高级火塔（灰烬之炎）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000强大的军事塔|n|r1、拥有强大的|Cffff8040易燃增伤|r技能|n2、对单体对战有极具恐怖的伤害|n3、攻击速度极快，适合对抗单体作战较强的僵尸单位
+}
+
+STRING 639
+// 单位: h04Q (废弃的能源中心|Cffff0000（我死了游戏失败）|r), Hotkey (热键)
+{
+R
+}
+
+STRING 640
+// 单位: h03S (简易弩塔), Name (名字)
+{
+简易弩塔
+}
+
+STRING 641
+// 单位: h03S (简易弩塔), Tip (提示工具 - 基础)
+{
+简易弩塔(|Cffffcc00R|r)
+}
+
+STRING 642
+// 单位: h03S (简易弩塔), Ubertip (提示工具 - 扩展)
+{
+前期守家建筑|n箭矢对周围单位能造成穿透伤害
+}
+
+STRING 643
+// 单位: H04O (幸存者（可达鸭）), Hotkey (热键)
+{
+Q
+}
+
+STRING 644
+// 单位: h03T (墓碑（boss）), Name (名字)
+{
+墓碑（boss）
+}
+
+STRING 645
+// 单位: h03T (墓碑（boss）), Tip (提示工具 - 基础)
+{
+建造民房(|cffffcc00Q|r)
+}
+
+STRING 646
+// 单位: h03U (中级能量塔), Hotkey (热键)
+{
+T
+}
+
+STRING 647
+// 单位: h03U (中级能量塔), Name (名字)
+{
+中级能量塔
+}
+
+STRING 648
+// 单位: h03U (中级能量塔), Tip (提示工具 - 基础)
+{
+中级能量塔(|Cffffcc00T|r)
+}
+
+STRING 649
+// 单位: h03U (中级能量塔), Ubertip (提示工具 - 扩展)
+{
+拥有|Cff00bfff能量聚集Lv1|r技能，与某些单位配合会有意想不到的效果
+}
+
+STRING 650
+// 单位: h03V (被感染的人族护卫舰), Name (名字)
+{
+被感染的人族护卫舰
+}
+
+STRING 651
+// 单位: h03W (被感染的皇家战舰), Name (名字)
+{
+被感染的皇家战舰
+}
+
+STRING 652
+// 单位: h04N (奇迹伐木工), Hotkey (热键)
+{
+W
+}
+
+STRING 653
+// 单位: h048 (士兵（马里恩）), Name (名字)
+{
+士兵（马里恩）
+}
+
+STRING 654
+// 单位: h048 (士兵（马里恩）), Tip (提示工具 - 基础)
+{
+士兵（马里恩）(|Cffffcc00W|r)
+}
+
+STRING 655
+// 单位: h048 (士兵（马里恩）), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、拥有外壳装甲，血量与攻击力得到提升|n2、前期实用性最高的兵种
+}
+
+STRING 656
+// 单位: h03R (|CffFF4000高级火塔（灰烬之炎）|r), Hotkey (热键)
+{
+A
+}
+
+STRING 657
+// 单位: h049 (|CffFF8000喷火兵（空间邪恶兽）|r), Name (名字)
+{
+|CffFF8000喷火兵（空间邪恶兽）|r
+}
+
+STRING 658
+// 单位: h049 (|CffFF8000喷火兵（空间邪恶兽）|r), Tip (提示工具 - 基础)
+{
+|CffFF8000喷火兵（空间邪恶兽）|r(|Cffffcc00A|r)
+}
+
+STRING 659
+// 单位: h049 (|CffFF8000喷火兵（空间邪恶兽）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFFA8FF中阶作战单位|r|n1、不错的恢复力以及护甲|n2、喷火的穿透攻击会对范围内僵尸造成群体伤害，前期在塔上作战，堪称|Cffff5080僵尸绞肉机|n|r
+}
+
+STRING 660
+// 单位: h02L (|CffFF80C0蜘蛛机器人|r), Hotkey (热键)
+{
+D
+}
+
+STRING 661
+// 单位: h04E (|CffFF8000矮钢铁墙（横）|r), Name (名字)
+{
+|CffFF8000矮钢铁墙（横）|r
+}
+
+STRING 662
+// 单位: h04E (|CffFF8000矮钢铁墙（横）|r), Tip (提示工具 - 基础)
+{
+|CffFF8000矮钢铁墙（横）|r(|Cffffcc00D|r)
+}
+
+STRING 663
+// 单位: h04F (|CffFF8000矮钢铁墙（竖）|r), Name (名字)
+{
+|CffFF8000矮钢铁墙（竖）|r
+}
+
+STRING 664
+// 单位: h04F (|CffFF8000矮钢铁墙（竖）|r), Tip (提示工具 - 基础)
+{
+|CffFF8000矮钢铁墙（竖）|r(|Cffffcc00F|r)
+}
+
+STRING 665
+// 单位: h04G (|CffFF8000小猪哥哥|r), Hotkey (热键)
+{
+X
+}
+
+STRING 668
+// 单位: h04G (|CffFF8000小猪哥哥|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高级作战单位|r|n1、超强的回复能力|n2、强大的攻击力，高血量和护甲。|n|Cfff0f0f04、作战能力优秀，在肉搏战里有不俗的表现|r
+}
+
+STRING 669
+// 单位: h049 (|CffFF8000喷火兵（空间邪恶兽）|r), Hotkey (热键)
+{
+A
+}
+
+STRING 670
+// 单位: h04H (|Cff646464高级炮塔（虚空元素）|r), Name (名字)
+{
+|Cff646464高级炮塔（虚空元素）|r
+}
+
+STRING 671
+// 单位: h04H (|Cff646464高级炮塔（虚空元素）|r), Tip (提示工具 - 基础)
+{
+|Cff646464高级炮塔（虚空元素）|r(|Cffffcc00A|r)
+}
+
+STRING 672
+// 单位: h04H (|Cff646464高级炮塔（虚空元素）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000强大的军事塔|n|r1、将攻击提升到一个骇人的地步，这一炮下去真的会死。|n2、攻击范围较近，请注意摆放位置
+}
+
+STRING 673
+// 单位: h04H (|Cff646464高级炮塔（虚空元素）|r), Hotkey (热键)
+{
+A
+}
+
+STRING 674
+// 单位: h04L (|Cff663300高级能量塔（风暴之眼）|r), Name (名字)
+{
+|Cff663300高级能量塔（风暴之眼）|r
+}
+
+STRING 675
+// 单位: h04L (|Cff663300高级能量塔（风暴之眼）|r), Tip (提示工具 - 基础)
+{
+|Cff663300高级能量塔（风暴之眼）|r(|Cffffcc00A|r)
+}
+
+STRING 676
+// 单位: h04L (|Cff663300高级能量塔（风暴之眼）|r), Ubertip (提示工具 - 扩展)
+{
+拥有|Cff00bfff能量聚集|r技能，与某些单位配合会有意想不到的效果
+}
+
+STRING 677
+// 单位: h04M (|Cff403000白贞|r), Hotkey (热键)
+{
+X
+}
+
+STRING 678
+// 单位: h04M (|Cff403000白贞|r), Name (名字)
+{
+|Cff403000白贞|r
+}
+
+STRING 679
+// 单位: h04M (|Cff403000白贞|r), Tip (提示工具 - 基础)
+{
+|CffFF8000Arutoria Pendoragon|r
+}
+
+STRING 680
+// 单位: h04M (|Cff403000白贞|r), Ubertip (提示工具 - 扩展)
+{
+|Cff7AFF4D求求你做个人吧|r
+}
+
+STRING 681
+// 单位: h051 (士兵（星际战士）), Hotkey (热键)
+{
+W
+}
+
+STRING 682
+// 单位: h04N (奇迹伐木工), Name (名字)
+{
+奇迹伐木工
+}
+
+STRING 683
+// 单位: h04N (奇迹伐木工), Tip (提示工具 - 基础)
+{
+奇迹伐木工(W)
+}
+
+STRING 684
+// 单位: h04N (奇迹伐木工), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：3|r|Cff00b2b2
+|r中级伐木工，伐木效率有所提升
+}
+
+STRING 685
+// 单位: n000 (僵尸运输飞艇), Name (名字)
+{
+僵尸运输飞艇
+}
+
+STRING 686
+// 单位: h04L (|Cff663300高级能量塔（风暴之眼）|r), Hotkey (热键)
+{
+A
+}
+
+STRING 687
+// 单位: n001 (驻兵塔), Name (名字)
+{
+驻兵塔
+}
+
+STRING 688
+// 单位: n001 (驻兵塔), Tip (提示工具 - 基础)
+{
+驻兵塔(|Cffffcc00A|r)
+}
+
+STRING 689
+// 单位: n001 (驻兵塔), Ubertip (提示工具 - 扩展)
+{
+|CffFFFF00前期推荐建筑|n|r可以极大提升入驻士兵的作战能力
+}
+
+STRING 690
+// 单位: n002 (驻兵塔), EditorSuffix (名字 - 编辑器后缀)
+{
+前置
+}
+
+STRING 691
+// 单位: n001 (驻兵塔), Hotkey (热键)
+{
+A
+}
+
+STRING 692
+// 单位: n002 (驻兵塔), Name (名字)
+{
+驻兵塔
+}
+
+STRING 693
+// 单位: n002 (驻兵塔), Tip (提示工具 - 基础)
+{
+驻兵塔(|Cffffcc00A|r)
+}
+
+STRING 694
+// 单位: n002 (驻兵塔), Ubertip (提示工具 - 扩展)
+{
+|CffFFFF00前期推荐建筑|n|r可以极大提升入驻士兵的作战能力
+}
+
+STRING 695
+// 单位: n003 (村民 (男性 2)), Name (名字)
+{
+村民 (男性 2)
+}
+
+STRING 696
+// 单位: n004 (村民 (男性)), Name (名字)
+{
+村民 (男性)
+}
+
+STRING 697
+// 单位: n005 (村民 (女性)), Name (名字)
+{
+村民 (女性)
+}
+
+STRING 698
+// 单位: n007 (小孩 (2)), Name (名字)
+{
+小孩 (2)
+}
+
+STRING 699
+// 单位: n008 (被感染的城市建筑（小）), Name (名字)
+{
+被感染的城市建筑（小）
+}
+
+STRING 700
+// 单位: n009 (被感染城市建筑（大）), Name (名字)
+{
+被感染城市建筑（大）
+}
+
+STRING 701
+// 单位: n00A (城市建筑物（大） 12), Name (名字)
+{
+城市建筑物（大） 12
+}
+
+STRING 702
+// 单位: n00B (城市建筑物（小）), Name (名字)
+{
+城市建筑物（小）
+}
+
+STRING 703
+// 单位: n00D (禁忌熔炉|Cffff2626（危险）|r), Name (名字)
+{
+禁忌熔炉|Cffff2626（危险）|r
+}
+
+STRING 704
+// 单位: o000 (|CffFF8000开局礼包|r), Name (名字)
+{
+|CffFF8000开局礼包|r
+}
+
+STRING 705
+// 单位: o000 (|CffFF8000开局礼包|r), Tip (提示工具 - 基础)
+{
+|CffFF8000开局礼包|r
+}
+
+STRING 706
+// 单位: u000 (建造模式), EditorSuffix (名字 - 编辑器后缀)
+{
+人口
+}
+
+STRING 707
+// 单位: u000 (建造模式), Name (名字)
+{
+建造模式
+}
+
+STRING 708
+// 单位: u001 (建造马甲), Name (名字)
+{
+建造马甲
+}
+
+STRING 709
+// 单位: u002 (建造模式), EditorSuffix (名字 - 编辑器后缀)
+{
+经济
+}
+
+STRING 710
+// 单位: u002 (建造模式), Name (名字)
+{
+建造模式
+}
+
+STRING 711
+// 单位: u003 (建造模式), EditorSuffix (名字 - 编辑器后缀)
+{
+军事
+}
+
+STRING 712
+// 单位: u003 (建造模式), Name (名字)
+{
+建造模式
+}
+
+STRING 713
+// 单位: u004 (建造模式), EditorSuffix (名字 - 编辑器后缀)
+{
+防御
+}
+
+STRING 714
+// 单位: u004 (建造模式), Name (名字)
+{
+建造模式
+}
+
+STRING 715
+// 单位: u005 (建造模式), EditorSuffix (名字 - 编辑器后缀)
+{
+其他
+}
+
+STRING 716
+// 单位: u005 (建造模式), Name (名字)
+{
+建造模式
+}
+
+STRING 717
+// 单位: u006 (建造模式), EditorSuffix (名字 - 编辑器后缀)
+{
+研究
+}
+
+STRING 718
+// 单位: u006 (建造模式), Name (名字)
+{
+建造模式
+}
+
+STRING 719
+// 单位: u007 (尸潮刷怪点), Name (名字)
+{
+尸潮刷怪点
+}
+
+STRING 720
+// 单位: u008 (战争践踏马甲 boss), Name (名字)
+{
+战争践踏马甲 boss
+}
+
+STRING 721
+// 单位: u009 (建造模式), EditorSuffix (名字 - 编辑器后缀)
+{
+能源
+}
+
+STRING 722
+// 单位: u009 (建造模式), Name (名字)
+{
+建造模式
+}
+
+STRING 723
+// 单位: u00A (战争践踏马甲), EditorSuffix (名字 - 编辑器后缀)
+{
+八方风雨
+}
+
+STRING 724
+// 单位: u00A (战争践踏马甲), Name (名字)
+{
+战争践踏马甲
+}
+
+STRING 725
+// 单位: u00B (生命律动马甲), Name (名字)
+{
+生命律动马甲
+}
+
+STRING 726
+// 单位: u00C (僵尸战斗飞艇), Name (名字)
+{
+僵尸战斗飞艇
+}
+
+STRING 727
+// 单位: u00D (boss回血特效), Name (名字)
+{
+boss回血特效
+}
+
+STRING 728
+// 可破坏物: B000 (自定义树木), Name (名字)
+{
+自定义树木
+}
+
+STRING 729
+// 可破坏物: B001 (秋季树木（自定义）), Name (名字)
+{
+秋季树木（自定义）
+}
+
+STRING 730
+// 地形装饰物: D000 (轨道（直）), Name (名字)
+{
+轨道（直）
+}
+
+STRING 731
+// 地形装饰物: D001 (轨道（弯）), Name (名字)
+{
+轨道（弯）
+}
+
+STRING 732
+// 地形装饰物: D002 (瀑布), Name (名字)
+{
+瀑布
+}
+
+STRING 733
+// 地形装饰物: D003 (轨道（弯直）), Name (名字)
+{
+轨道（弯直）
+}
+
+STRING 734
+// 地形装饰物: D004 ( 1废弃工厂 传送装置), Name (名字)
+{
+ 1废弃工厂 传送装置
+}
+
+STRING 735
+// 地形装饰物: D005 ( 3沙漠地带 枯树), Name (名字)
+{
+ 3沙漠地带 枯树
+}
+
+STRING 736
+// 地形装饰物: D006 ( 1废弃工厂 铁门1), Name (名字)
+{
+ 1废弃工厂 铁门1
+}
+
+STRING 737
+// 地形装饰物: D007 ( 1废弃工厂 铁门2), Name (名字)
+{
+ 1废弃工厂 铁门2
+}
+
+STRING 738
+// 地形装饰物: D008 ( 1废弃工厂 起重机底座), Name (名字)
+{
+ 1废弃工厂 起重机底座
+}
+
+STRING 739
+// 地形装饰物: D009 ( 1废弃工厂 挖掘机), Name (名字)
+{
+ 1废弃工厂 挖掘机
+}
+
+STRING 740
+// 地形装饰物: D00A ( 1废弃工厂 机械装置1), Name (名字)
+{
+ 1废弃工厂 机械装置1
+}
+
+STRING 741
+// 地形装饰物: D00B ( 1废弃工厂 地板2), Name (名字)
+{
+ 1废弃工厂 地板2
+}
+
+STRING 742
+// 地形装饰物: D00C ( 4游乐园 舞台), Name (名字)
+{
+ 4游乐园 舞台
+}
+
+STRING 743
+// 地形装饰物: D00D ( 2废弃都市 楼房1), Name (名字)
+{
+ 2废弃都市 楼房1
+}
+
+STRING 744
+// 地形装饰物: D00E ( 2废弃都市 楼房2), Name (名字)
+{
+ 2废弃都市 楼房2
+}
+
+STRING 745
+// 地形装饰物: D00F ( 2废弃都市 楼房3), Name (名字)
+{
+ 2废弃都市 楼房3
+}
+
+STRING 746
+// 地形装饰物: D00G ( 2废弃都市 楼房4), Name (名字)
+{
+ 2废弃都市 楼房4
+}
+
+STRING 747
+// 地形装饰物: D00H ( 2废弃都市 楼房5), Name (名字)
+{
+ 2废弃都市 楼房5
+}
+
+STRING 748
+// 地形装饰物: D00I ( 2废弃都市 楼房6), Name (名字)
+{
+ 2废弃都市 楼房6
+}
+
+STRING 749
+// 地形装饰物: D00J ( 3沙漠地带 楼房1), Name (名字)
+{
+ 3沙漠地带 楼房1
+}
+
+STRING 750
+// 地形装饰物: D00K ( 3沙漠地带 楼房2), Name (名字)
+{
+ 3沙漠地带 楼房2
+}
+
+STRING 751
+// 地形装饰物: D00L ( 3沙漠地带 楼房3), Name (名字)
+{
+ 3沙漠地带 楼房3
+}
+
+STRING 752
+// 地形装饰物: D00M ( 3沙漠地带 楼房4), Name (名字)
+{
+ 3沙漠地带 楼房4
+}
+
+STRING 753
+// 地形装饰物: D00N ( 1废弃工厂 梯子1), Name (名字)
+{
+ 1废弃工厂 梯子1
+}
+
+STRING 754
+// 地形装饰物: D00O ( 1废弃工厂 梯子2), Name (名字)
+{
+ 1废弃工厂 梯子2
+}
+
+STRING 755
+// 地形装饰物: D00P ( 1废弃工厂 梯子3), Name (名字)
+{
+ 1废弃工厂 梯子3
+}
+
+STRING 756
+// 地形装饰物: D00Q ( 0多功能道具 沙袋), Name (名字)
+{
+ 0多功能道具 沙袋
+}
+
+STRING 757
+// 地形装饰物: D00R ( 1废弃工厂 通道1), Name (名字)
+{
+ 1废弃工厂 通道1
+}
+
+STRING 758
+// 地形装饰物: D00S ( 1废弃工厂 大建筑1), Name (名字)
+{
+ 1废弃工厂 大建筑1
+}
+
+STRING 759
+// 地形装饰物: D00T ( 1废弃工厂 信号灯), Name (名字)
+{
+ 1废弃工厂 信号灯
+}
+
+STRING 760
+// 地形装饰物: D00U ( 1废弃工厂 信号灯1), Name (名字)
+{
+ 1废弃工厂 信号灯1
+}
+
+STRING 761
+// 地形装饰物: D00V ( 1废弃工厂 大建筑2), Name (名字)
+{
+ 1废弃工厂 大建筑2
+}
+
+STRING 762
+// 地形装饰物: D00W ( 1废弃工厂 大建筑3), Name (名字)
+{
+ 1废弃工厂 大建筑3
+}
+
+STRING 763
+// 地形装饰物: D00X ( 1废弃工厂 大建筑4), Name (名字)
+{
+ 1废弃工厂 大建筑4
+}
+
+STRING 764
+// 地形装饰物: D00Y ( 1废弃工厂 信号灯3), Name (名字)
+{
+ 1废弃工厂 信号灯3
+}
+
+STRING 765
+// 地形装饰物: D00Z ( 1废弃工厂 高墙), Name (名字)
+{
+ 1废弃工厂 高墙
+}
+
+STRING 766
+// 地形装饰物: D010 ( 3沙漠地带 管道1), Name (名字)
+{
+ 3沙漠地带 管道1
+}
+
+STRING 767
+// 地形装饰物: D011 ( 1废弃工厂 管道1), Name (名字)
+{
+ 1废弃工厂 管道1
+}
+
+STRING 768
+// 地形装饰物: D012 ( 1废弃工厂 管道2), Name (名字)
+{
+ 1废弃工厂 管道2
+}
+
+STRING 769
+// 地形装饰物: D013 ( 1废弃工厂 管道3), Name (名字)
+{
+ 1废弃工厂 管道3
+}
+
+STRING 770
+// 地形装饰物: D014 ( 1废弃工厂 管道4), Name (名字)
+{
+ 1废弃工厂 管道4
+}
+
+STRING 771
+// 地形装饰物: D015 ( 1废弃工厂 管道5), Name (名字)
+{
+ 1废弃工厂 管道5
+}
+
+STRING 772
+// 地形装饰物: D016 ( 1废弃工厂 大建筑5), Name (名字)
+{
+ 1废弃工厂 大建筑5
+}
+
+STRING 773
+// 地形装饰物: D017 ( 1废弃工厂 大建筑6), Name (名字)
+{
+ 1废弃工厂 大建筑6
+}
+
+STRING 774
+// 地形装饰物: D018 ( 1废弃工厂 大建筑7), Name (名字)
+{
+ 1废弃工厂 大建筑7
+}
+
+STRING 775
+// 地形装饰物: D019 ( 1废弃工厂 信号灯5), Name (名字)
+{
+ 1废弃工厂 信号灯5
+}
+
+STRING 776
+// 地形装饰物: D01A ( 1废弃工厂 铁门3), Name (名字)
+{
+ 1废弃工厂 铁门3
+}
+
+STRING 777
+// 地形装饰物: D01B ( 1废弃工厂 警戒线1), Name (名字)
+{
+ 1废弃工厂 警戒线1
+}
+
+STRING 778
+// 地形装饰物: D01C ( 1废弃工厂 大建筑8), Name (名字)
+{
+ 1废弃工厂 大建筑8
+}
+
+STRING 779
+// 地形装饰物: D01D ( 1废弃工厂 地板3), Name (名字)
+{
+ 1废弃工厂 地板3
+}
+
+STRING 780
+// 地形装饰物: D01E ( 1废弃工厂 地板4), Name (名字)
+{
+ 1废弃工厂 地板4
+}
+
+STRING 781
+// 地形装饰物: D01F ( 1废弃工厂 警戒线2), Name (名字)
+{
+ 1废弃工厂 警戒线2
+}
+
+STRING 782
+// 地形装饰物: D01G ( 1废弃工厂 大建筑9), Name (名字)
+{
+ 1废弃工厂 大建筑9
+}
+
+STRING 783
+// 地形装饰物: D01H ( 1废弃工厂 墙面装饰1), Name (名字)
+{
+ 1废弃工厂 墙面装饰1
+}
+
+STRING 784
+// 地形装饰物: D01I ( 1废弃工厂 信号灯5), Name (名字)
+{
+ 1废弃工厂 信号灯5
+}
+
+STRING 785
+// 地形装饰物: D01J ( 1废弃工厂 铁板 半空1), Name (名字)
+{
+ 1废弃工厂 铁板 半空1
+}
+
+STRING 786
+// 地形装饰物: D01K ( 1废弃工厂 大建筑91), Name (名字)
+{
+ 1废弃工厂 大建筑91
+}
+
+STRING 787
+// 地形装饰物: D01L ( 1废弃工厂 大建筑92), Name (名字)
+{
+ 1废弃工厂 大建筑92
+}
+
+STRING 788
+// 地形装饰物: D01M ( 1废弃工厂 大建筑93), Name (名字)
+{
+ 1废弃工厂 大建筑93
+}
+
+STRING 789
+// 地形装饰物: D01N ( 1废弃工厂 楼梯1), Name (名字)
+{
+ 1废弃工厂 楼梯1
+}
+
+STRING 790
+// 地形装饰物: D01O ( 3沙漠地带 枯树2), Name (名字)
+{
+ 3沙漠地带 枯树2
+}
+
+STRING 791
+// 地形装饰物: D01P ( 3沙漠地带 枯树3), Name (名字)
+{
+ 3沙漠地带 枯树3
+}
+
+STRING 792
+// 地形装饰物: D01Q ( 0多功能道具 铁门1), Name (名字)
+{
+ 0多功能道具 铁门1
+}
+
+STRING 793
+// 地形装饰物: D01R ( 0多功能道具 铁门2), Name (名字)
+{
+ 0多功能道具 铁门2
+}
+
+STRING 794
+// 地形装饰物: D01S ( 2废弃都市 车), Name (名字)
+{
+ 2废弃都市 车
+}
+
+STRING 795
+// 地形装饰物: D01T ( 0多功能道具 箱子), Name (名字)
+{
+ 0多功能道具 箱子
+}
+
+STRING 796
+// 地形装饰物: D01U ( 0多功能道具 箱子1), Name (名字)
+{
+ 0多功能道具 箱子1
+}
+
+STRING 797
+// 地形装饰物: D01V ( 0多功能道具 黄线1), Name (名字)
+{
+ 0多功能道具 黄线1
+}
+
+STRING 798
+// 地形装饰物: D01W ( 0多功能道具 黄线2), Name (名字)
+{
+ 0多功能道具 黄线2
+}
+
+STRING 799
+// 地形装饰物: D01X ( 0多功能道具 黄线3), Name (名字)
+{
+ 0多功能道具 黄线3
+}
+
+STRING 800
+// 地形装饰物: D01Y ( 0多功能道具 黄线4), Name (名字)
+{
+ 0多功能道具 黄线4
+}
+
+STRING 801
+// 地形装饰物: D01Z ( 0多功能道具 黄线5), Name (名字)
+{
+ 0多功能道具 黄线5
+}
+
+STRING 802
+// 地形装饰物: D020 ( 0多功能道具 黄线6), Name (名字)
+{
+ 0多功能道具 黄线6
+}
+
+STRING 803
+// 地形装饰物: D021 ( 1废弃工厂 工厂1), Name (名字)
+{
+ 1废弃工厂 工厂1
+}
+
+STRING 804
+// 地形装饰物: D022 ( 1废弃工厂 发电机), Name (名字)
+{
+ 1废弃工厂 发电机
+}
+
+STRING 805
+// 地形装饰物: D023 ( 5森林区域 房子1), Name (名字)
+{
+ 5森林区域 房子1
+}
+
+STRING 806
+// 地形装饰物: D024 ( 5森林区域 房子2), Name (名字)
+{
+ 5森林区域 房子2
+}
+
+STRING 807
+// 地形装饰物: D025 ( 5森林区域 房子3), Name (名字)
+{
+ 5森林区域 房子3
+}
+
+STRING 808
+// 地形装饰物: D026 ( 5森林区域 房子4), Name (名字)
+{
+ 5森林区域 房子4
+}
+
+STRING 809
+// 地形装饰物: D027 ( 0多功能道具 发电机1), Name (名字)
+{
+ 0多功能道具 发电机1
+}
+
+STRING 810
+// 地形装饰物: D028 ( 0多功能道具 发电机2), Name (名字)
+{
+ 0多功能道具 发电机2
+}
+
+STRING 811
+// 地形装饰物: D029 ( 0多功能道具 发电机3), Name (名字)
+{
+ 0多功能道具 发电机3
+}
+
+STRING 812
+// 地形装饰物: D02A ( 0多功能道具 发电机4), Name (名字)
+{
+ 0多功能道具 发电机4
+}
+
+STRING 813
+// 地形装饰物: D02B ( 0多功能道具 发电机5), Name (名字)
+{
+ 0多功能道具 发电机5
+}
+
+STRING 814
+// 地形装饰物: D02C ( 0多功能道具 发电机6), Name (名字)
+{
+ 0多功能道具 发电机6
+}
+
+STRING 815
+// 地形装饰物: D02D ( 0多功能道具 发电机7), Name (名字)
+{
+ 0多功能道具 发电机7
+}
+
+STRING 816
+// 地形装饰物: D02E ( 0多功能道具 发电机8), Name (名字)
+{
+ 0多功能道具 发电机8
+}
+
+STRING 817
+// 地形装饰物: D02F ( 0多功能道具 发电机9), Name (名字)
+{
+ 0多功能道具 发电机9
+}
+
+STRING 818
+// 地形装饰物: D02G ( 5森林场景 石桥), Name (名字)
+{
+ 5森林场景 石桥
+}
+
+STRING 819
+// 地形装饰物: D02H ( 4游乐园 建筑1), Name (名字)
+{
+ 4游乐园 建筑1
+}
+
+STRING 820
+// 地形装饰物: D02I ( 4游乐园 大转盘), Name (名字)
+{
+ 4游乐园 大转盘
+}
+
+STRING 821
+// 地形装饰物: D02J ( 0多功能道具 火堆), Name (名字)
+{
+ 0多功能道具 火堆
+}
+
+STRING 822
+// 地形装饰物: D02K ( 0多功能道具 工厂内道具1), Name (名字)
+{
+ 0多功能道具 工厂内道具1
+}
+
+STRING 823
+// 地形装饰物: D02L ( 0多功能道具 布棚), Name (名字)
+{
+ 0多功能道具 布棚
+}
+
+STRING 824
+// 地形装饰物: D02M ( 0多功能道具 废墟), Name (名字)
+{
+ 0多功能道具 废墟
+}
+
+STRING 825
+// 地形装饰物: D02N ( 0多功能道具 衣柜), Name (名字)
+{
+ 0多功能道具 衣柜
+}
+
+STRING 826
+// 地形装饰物: D02O ( 0多功能道具 机器), Name (名字)
+{
+ 0多功能道具 机器
+}
+
+STRING 827
+// 地形装饰物: D02P ( 0多功能道具 木道具), Name (名字)
+{
+ 0多功能道具 木道具
+}
+
+STRING 828
+// 地形装饰物: D02Q ( 0多功能道具 水箱), Name (名字)
+{
+ 0多功能道具 水箱
+}
+
+STRING 829
+// 地形装饰物: D02R ( 1废弃工厂 地板5), Name (名字)
+{
+ 1废弃工厂 地板5
+}
+
+STRING 830
+// 地形装饰物: D02S ( 2废弃都市 楼房5), Name (名字)
+{
+ 2废弃都市 楼房5
+}
+
+STRING 831
+// 地形装饰物: D02T ( 1废弃工厂 铁板 半空2), Name (名字)
+{
+ 1废弃工厂 铁板 半空2
+}
+
+STRING 832
+// 地形装饰物: D02U ( 0多功能道具 工厂内道具), Name (名字)
+{
+ 0多功能道具 工厂内道具
+}
+
+STRING 833
+// 地形装饰物: D02V ( 0多功能道具 铁门3), Name (名字)
+{
+ 0多功能道具 铁门3
+}
+
+STRING 834
+// 地形装饰物: D02W ( 1废弃工厂 管道11), Name (名字)
+{
+ 1废弃工厂 管道11
+}
+
+STRING 835
+// 地形装饰物: D02X ( 1废弃工厂 地板21), Name (名字)
+{
+ 1废弃工厂 地板21
+}
+
+STRING 836
+// 地形装饰物: D02Y ( 高清  树根1), Name (名字)
+{
+ 高清  树根1
+}
+
+STRING 837
+// 地形装饰物: D02Z ( 高清  树木1), Name (名字)
+{
+ 高清  树木1
+}
+
+STRING 838
+// 地形装饰物: D030 ( 高清  草皮1), Name (名字)
+{
+ 高清  草皮1
+}
+
+STRING 839
+// 地形装饰物: D031 ( 高清  蓝花), Name (名字)
+{
+ 高清  蓝花
+}
+
+STRING 840
+// 地形装饰物: D032 ( 高清  白花), Name (名字)
+{
+ 高清  白花
+}
+
+STRING 841
+// 地形装饰物: D033 ( 高清  松树1), Name (名字)
+{
+ 高清  松树1
+}
+
+STRING 842
+// 地形装饰物: D034 ( 高清  松树2), Name (名字)
+{
+ 高清  松树2
+}
+
+STRING 843
+// 地形装饰物: D035 ( 高清  树1), Name (名字)
+{
+ 高清  树1
+}
+
+STRING 844
+// 地形装饰物: D036 ( 高清  树2), Name (名字)
+{
+ 高清  树2
+}
+
+STRING 845
+// 地形装饰物: D037 ( 高清  树3), Name (名字)
+{
+ 高清  树3
+}
+
+STRING 846
+// 地形装饰物: D038 ( 高清  红花), Name (名字)
+{
+ 高清  红花
+}
+
+STRING 847
+// 地形装饰物: D039 ( 高清  草皮2), Name (名字)
+{
+ 高清  草皮2
+}
+
+STRING 848
+// 地形装饰物: D03A ( 高清  草皮3), Name (名字)
+{
+ 高清  草皮3
+}
+
+STRING 849
+// 地形装饰物: D03B ( 高清  草堆), Name (名字)
+{
+ 高清  草堆
+}
+
+STRING 850
+// 地形装饰物: D03C ( 高清  岩石1), Name (名字)
+{
+ 高清  岩石1
+}
+
+STRING 851
+// 地形装饰物: D03D ( 高清  岩石2), Name (名字)
+{
+ 高清  岩石2
+}
+
+STRING 852
+// 地形装饰物: D03E ( 特效 静态云), Name (名字)
+{
+ 特效 静态云
+}
+
+STRING 853
+// 地形装饰物: D03F ( 特效 动态烟), Name (名字)
+{
+ 特效 动态烟
+}
+
+STRING 854
+// 地形装饰物: D03G ( 特效 动态雾), Name (名字)
+{
+ 特效 动态雾
+}
+
+STRING 855
+// 地形装饰物: D03H ( 特效 萤火虫), Name (名字)
+{
+ 特效 萤火虫
+}
+
+STRING 856
+// 地形装饰物: D03I ( 特效 片光1), Name (名字)
+{
+ 特效 片光1
+}
+
+STRING 857
+// 地形装饰物: D03J ( 特效 片光2), Name (名字)
+{
+ 特效 片光2
+}
+
+STRING 858
+// 地形装饰物: D03K ( 特效 片光3), Name (名字)
+{
+ 特效 片光3
+}
+
+STRING 859
+// 地形装饰物: D03L ( 特效 片光4), Name (名字)
+{
+ 特效 片光4
+}
+
+STRING 860
+// 地形装饰物: D03M ( 特效 光晕1), Name (名字)
+{
+ 特效 光晕1
+}
+
+STRING 861
+// 地形装饰物: D03N ( 特效 火星), Name (名字)
+{
+ 特效 火星
+}
+
+STRING 862
+// 地形装饰物: D03O ( 高清  草皮4), Name (名字)
+{
+ 高清  草皮4
+}
+
+STRING 863
+// 地形装饰物: D03P ( 高清  草皮5), Name (名字)
+{
+ 高清  草皮5
+}
+
+STRING 864
+// 地形装饰物: D03Q ( 特效 光晕 太阳光1), Name (名字)
+{
+ 特效 光晕 太阳光1
+}
+
+STRING 865
+// 地形装饰物: D03R ( 特效 光晕 太阳光2), Name (名字)
+{
+ 特效 光晕 太阳光2
+}
+
+STRING 866
+// 地形装饰物: D03S ( 特效 光晕 太阳光0), Name (名字)
+{
+ 特效 光晕 太阳光0
+}
+
+STRING 867
+// 地形装饰物: D03T ( 特效 光晕 火光), Name (名字)
+{
+ 特效 光晕 火光
+}
+
+STRING 868
+// 地形装饰物: D03U ( 特效 光晕 火光1), Name (名字)
+{
+ 特效 光晕 火光1
+}
+
+STRING 869
+// 地形装饰物: D03V ( 1废弃工厂 岩浆), Name (名字)
+{
+ 1废弃工厂 岩浆
+}
+
+STRING 870
+// 地形装饰物: D03W ( 特效 动态雾  岩浆), Name (名字)
+{
+ 特效 动态雾  岩浆
+}
+
+STRING 871
+// 地形装饰物: D03X ( 特效 光晕 火光2), Name (名字)
+{
+ 特效 光晕 火光2
+}
+
+STRING 872
+// 地形装饰物: D03Y ( 特效 光晕 火光3), Name (名字)
+{
+ 特效 光晕 火光3
+}
+
+STRING 873
+// 地形装饰物: D03Z ( 特效 光晕 火光0), Name (名字)
+{
+ 特效 光晕 火光0
+}
+
+STRING 874
+// 地形装饰物: D040 ( 1废弃工厂 集装箱), Name (名字)
+{
+ 1废弃工厂 集装箱
+}
+
+STRING 875
+// 地形装饰物: D041 ( 0多功能道具 机械生命), Name (名字)
+{
+ 0多功能道具 机械生命
+}
+
+STRING 876
+// 地形装饰物: D042 ( 特效 光晕 冷光0), Name (名字)
+{
+ 特效 光晕 冷光0
+}
+
+STRING 877
+// 地形装饰物: D043 ( 2废墟都市 破碎路面1), Name (名字)
+{
+ 2废墟都市 破碎路面1
+}
+
+STRING 878
+// 地形装饰物: D044 ( 1废弃工厂 梯子21), Name (名字)
+{
+ 1废弃工厂 梯子21
+}
+
+STRING 879
+// 地形装饰物: D045 ( 0多功能道具 发电机51), Name (名字)
+{
+ 0多功能道具 发电机51
+}
+
+STRING 880
+// 地形装饰物: D046 ( 特效 动态天空), Name (名字)
+{
+ 特效 动态天空
+}
+
+STRING 881
+// 地形装饰物: D047 ( 特效 水面), Name (名字)
+{
+ 特效 水面
+}
+
+STRING 882
+// 地形装饰物: D048 ( 高清  白花1), Name (名字)
+{
+ 高清  白花1
+}
+
+STRING 883
+// 地形装饰物: D049 ( 特效 白光晕1), Name (名字)
+{
+ 特效 白光晕1
+}
+
+STRING 884
+// 地形装饰物: D04A ( 0漆黑背景), Name (名字)
+{
+ 0漆黑背景
+}
+
+STRING 885
+// 地形装饰物: D04B ( 特效 动态天空1), Name (名字)
+{
+ 特效 动态天空1
+}
+
+STRING 886
+// 地形装饰物: D04C ( 高清  动态 绿植1), Name (名字)
+{
+ 高清  动态 绿植1
+}
+
+STRING 887
+// 地形装饰物: D04D ( 高清  动态 绿植2), Name (名字)
+{
+ 高清  动态 绿植2
+}
+
+STRING 888
+// 地形装饰物: D04E ( 高清  动态 绿植3), Name (名字)
+{
+ 高清  动态 绿植3
+}
+
+STRING 889
+// 地形装饰物: D04F ( 高清  动态 绿植4), Name (名字)
+{
+ 高清  动态 绿植4
+}
+
+STRING 890
+// 地形装饰物: D04G ( 高清  动态 枯萎2), Name (名字)
+{
+ 高清  动态 枯萎2
+}
+
+STRING 891
+// 地形装饰物: D04H ( 高清  动态 枯萎3), Name (名字)
+{
+ 高清  动态 枯萎3
+}
+
+STRING 892
+// 地形装饰物: D04I ( 特效 水面1), Name (名字)
+{
+ 特效 水面1
+}
+
+STRING 893
+// 地形装饰物: D04J ( 2废弃都市 车1), Name (名字)
+{
+ 2废弃都市 车1
+}
+
+STRING 894
+// 地形装饰物: D04K ( 2废弃都市 车2), Name (名字)
+{
+ 2废弃都市 车2
+}
+
+STRING 895
+// 地形装饰物: D04L ( 人物 2B), Name (名字)
+{
+ 人物 2B
+}
+
+STRING 896
+// 地形装饰物: D04M ( 2废墟都市 破碎路面), Name (名字)
+{
+ 2废墟都市 破碎路面
+}
+
+STRING 897
+// 地形装饰物: D04N ( 1废弃工厂 起吊机), Name (名字)
+{
+ 1废弃工厂 起吊机
+}
+
+STRING 898
+// 地形装饰物: D04O ( 1废弃工厂 地板1), Name (名字)
+{
+ 1废弃工厂 地板1
+}
+
+STRING 899
+// 地形装饰物: D04P ( 1废弃工厂 阳台), Name (名字)
+{
+ 1废弃工厂 阳台
+}
+
+STRING 900
+// 技能: AHab (辉煌光环), Ubertip (提示工具 - 普通 - 扩展)
+{
+能加快周围友军单位的魔法值恢复速度0.75/s,范围1500码
+}
+
+STRING 901
+// 技能: AHbh (重击), Tip (提示工具 - 普通)
+{
+定点狙击 - [|cffffcc00等级 1|r]
+}
+
+STRING 902
+// 技能: AHbh (重击), Ubertip (提示工具 - 普通 - 扩展)
+{
+给予<AHbh,DataA1>%的概率使得狙击兵的常规攻击能附带<AHbh,DataC1>点的额外伤害值，并在<AHbh,Dur1>秒内使得僵尸处于眩晕状态。增加攻击范围100，增加击退距离20
+}
+
+STRING 903
+// 单位: H04V (幸存者（懒羊羊）), Hotkey (热键)
+{
+Q
+}
+
+STRING 904
+// 技能: AHta (显示), Tip (提示工具 - 普通)
+{
+显示(|cffffcc00Q|r)
+}
+
+STRING 905
+// 单位: H04W (幸存者|Cff2693ff（蕾姆）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 906
+// 技能: A000 (防御), EditorSuffix (编辑器后缀)
+{
+防御
+}
+
+STRING 907
+// 技能: A000 (防御), Hotkey (热键 - 普通)
+{
+V
+}
+
+STRING 908
+// 技能: A000 (防御), Name (名字)
+{
+防御
+}
+
+STRING 909
+// 技能: A000 (防御), Tip (提示工具 - 普通)
+{
+防御(|cffffcc00V|r)
+}
+
+STRING 910
+// 技能: A001 (狂轰乱炸), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 911
+// 技能: A001 (狂轰乱炸), Name (名字)
+{
+狂轰乱炸
+}
+
+STRING 912
+// 技能: A001 (狂轰乱炸), Tip (提示工具 - 普通)
+{
+狂轰乱炸
+}
+
+STRING 913
+// 技能: A001 (狂轰乱炸), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000炮塔攻击间隔下降0.5s|r
+}
+
+STRING 914
+// 技能: A002 (冰霜新星Lv1), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 915
+// 技能: A002 (冰霜新星Lv1), Name (名字)
+{
+冰霜新星Lv1
+}
+
+STRING 916
+// 技能: A002 (冰霜新星Lv1), Tip (提示工具 - 普通)
+{
+冰霜新星Lv1
+}
+
+STRING 918
+// 技能: A003 (摧毁), Hotkey (热键 - 普通)
+{
+R
+}
+
+STRING 919
+// 技能: A003 (摧毁), Name (名字)
+{
+摧毁
+}
+
+STRING 920
+// 技能: A003 (摧毁), Tip (提示工具 - 普通)
+{
+摧毁(|Cffffcc00R|r)
+}
+
+STRING 921
+// 技能: A003 (摧毁), Ubertip (提示工具 - 普通 - 扩展)
+{
+摧毁当前建筑单位。
+}
+
+STRING 922
+// 技能: A004 (绝对零度), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 923
+// 技能: A004 (绝对零度), Name (名字)
+{
+绝对零度
+}
+
+STRING 924
+// 技能: A004 (绝对零度), Tip (提示工具 - 普通)
+{
+绝对零度
+}
+
+STRING 925
+// 技能: A004 (绝对零度), Ubertip (提示工具 - 普通 - 扩展)
+{
+|Cff265CFF当触发冰霜新星触发层数下调至10|r
+}
+
+STRING 926
+// 技能: A005 (致命一击), Ubertip (提示工具 - 普通 - 扩展)
+{
+给予<AOcr,DataA1>%的概率使得单位的攻击能造成<AOcr,DataB1>倍于一般攻击的伤害值。
+}
+
+STRING 927
+// 技能: A006 (采集 (黄金和木材)Lv2), Name (名字)
+{
+采集 (黄金和木材)Lv2
+}
+
+STRING 928
+// 技能: A007 (采集 (黄金和木材)Lv1), Name (名字)
+{
+采集 (黄金和木材)Lv1
+}
+
+STRING 929
+// 技能: A008 (采集 (黄金和木材)Lv3), Name (名字)
+{
+采集 (黄金和木材)Lv3
+}
+
+STRING 930
+// 技能: A009 (分裂攻击 (中立敌对)), Name (名字)
+{
+分裂攻击 (中立敌对)
+}
+
+STRING 931
+// 技能: A009 (分裂攻击 (中立敌对)), Ubertip (提示工具 - 普通 - 扩展)
+{
+该生物的攻击力量对主目标附近的敌人都造成15%的伤害。
+}
+
+STRING 932
+// 技能: A00A (人口), EditorSuffix (编辑器后缀)
+{
+人口
+}
+
+STRING 933
+// 单位: H04X (幸存者|Cffff0000（血小板）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 934
+// 技能: A00A (人口), Name (名字)
+{
+人口
+}
+
+STRING 935
+// 技能: A00A (人口), Tip (提示工具 - 普通)
+{
+人口(|cffffcc00Q|r)
+}
+
+STRING 936
+// 技能: A00B (军事), EditorSuffix (编辑器后缀)
+{
+军事
+}
+
+STRING 937
+// 单位: n002 (驻兵塔), Hotkey (热键)
+{
+A
+}
+
+STRING 938
+// 技能: A00B (军事), Name (名字)
+{
+军事
+}
+
+STRING 939
+// 技能: A00B (军事), Tip (提示工具 - 普通)
+{
+军事(|cffffcc00A|r)
+}
+
+STRING 940
+// 技能: A00C (经济), EditorSuffix (编辑器后缀)
+{
+经济
+}
+
+STRING 941
+// 单位: h055 (|CffFFFF00超级兵工厂|r), Hotkey (热键)
+{
+W
+}
+
+STRING 942
+// 技能: A00C (经济), Name (名字)
+{
+经济
+}
+
+STRING 943
+// 技能: A00C (经济), Tip (提示工具 - 普通)
+{
+经济(|cffffcc00W|r)
+}
+
+STRING 944
+// 技能: A00D (其他), EditorSuffix (编辑器后缀)
+{
+其他
+}
+
+STRING 945
+// 单位: h02N (|CffFF80C0双足机器人|r), Hotkey (热键)
+{
+F
+}
+
+STRING 946
+// 技能: A00D (其他), Name (名字)
+{
+其他
+}
+
+STRING 947
+// 技能: A00D (其他), Tip (提示工具 - 普通)
+{
+其他(|cffffcc00F|r)
+}
+
+STRING 948
+// 技能: A00E (研究), Hotkey (热键 - 普通)
+{
+Z
+}
+
+STRING 949
+// 技能: A00E (研究), Name (名字)
+{
+研究
+}
+
+STRING 950
+// 技能: A00E (研究), Tip (提示工具 - 普通)
+{
+研究(|cffffcc00Z|r)
+}
+
+STRING 951
+// 技能: A00C (经济), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 952
+// 技能: A00F (闪烁), Tip (提示工具 - 普通)
+{
+闪烁(|cffffcc00W|r) - [|cffffcc00等级 1|r]
+}
+
+STRING 953
+// 技能: A00H (跳跃), Name (名字)
+{
+跳跃
+}
+
+STRING 954
+// 技能: A00I (火球术), Name (名字)
+{
+火球术
+}
+
+STRING 955
+// 单位: H04Y (幸存者|Cff00bfff（水银灯）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 956
+// 技能: A00M (|CffFF0000红色闪电|r), EditorSuffix (编辑器后缀)
+{
+雷达塔
+}
+
+STRING 960
+// 技能: A00O (宁静), EditorSuffix (编辑器后缀)
+{
+（奶妈僵尸 精英）
+}
+
+STRING 961
+// 技能: A00P (采集 (黄金和木材)Lv4), Name (名字)
+{
+采集 (黄金和木材)Lv4
+}
+
+STRING 962
+// 技能: A00Q (|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种1）|r), Name (名字)
+{
+|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种1）|r
+}
+
+STRING 963
+// 技能: A00Q (|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种1）|r), Tip (提示工具 - 普通)
+{
+|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种1）|r
+}
+
+STRING 964
+// 技能: A00Q (|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种1）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+点击切换兵种皮肤
+}
+
+STRING 965
+// 单位: H050 (幸存者|Cff00b200（简隐月子）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 966
+// 技能: A00R (精灵之翼), Name (名字)
+{
+精灵之翼
+}
+
+STRING 967
+// 技能: A00R (精灵之翼), Tip (提示工具 - 普通)
+{
+|Cff36D900精灵之翼|r
+}
+
+STRING 968
+// 技能: A00S (苍紫之翼), Name (名字)
+{
+苍紫之翼
+}
+
+STRING 969
+// 技能: A00S (苍紫之翼), Tip (提示工具 - 普通)
+{
+|CffB973FF苍紫之翼|r
+}
+
+STRING 970
+// 技能: A00T (冰灵之翼), Name (名字)
+{
+冰灵之翼
+}
+
+STRING 971
+// 技能: A00T (冰灵之翼), Tip (提示工具 - 普通)
+{
+|Cff00FFFF冰灵之翼|r
+}
+
+STRING 972
+// 技能: A00U (风华绝代), Name (名字)
+{
+风华绝代
+}
+
+STRING 973
+// 技能: A00U (风华绝代), Tip (提示工具 - 普通)
+{
+|CffFFFF99风|r|Cffebbf72华|r|Cffd87f4c绝|r|Cffc53f26代|r
+}
+
+STRING 974
+// 技能: A00V (|Cff9673FF建|r|Cff8396f3造|r|Cff71b9e8特|r|Cff5fdcdd效|r), Name (名字)
+{
+|Cff9673FF建|r|Cff8396f3造|r|Cff71b9e8特|r|Cff5fdcdd效|r
+}
+
+STRING 975
+// 技能: A00V (|Cff9673FF建|r|Cff8396f3造|r|Cff71b9e8特|r|Cff5fdcdd效|r), Tip (提示工具 - 普通)
+{
+|Cff9673FF建|r|Cff8396f3造|r|Cff71b9e8特|r|Cff5fdcdd效|r
+}
+
+STRING 976
+// 技能: A00V (|Cff9673FF建|r|Cff8396f3造|r|Cff71b9e8特|r|Cff5fdcdd效|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+点击切换建造特效
+}
+
+STRING 977
+// 技能: A00W (默认), EditorSuffix (编辑器后缀)
+{
+默认
+}
+
+STRING 978
+// 单位: H052 (幸存者|Cffffff00（X毛）|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 979
+// 技能: A00W (默认), Name (名字)
+{
+默认
+}
+
+STRING 980
+// 技能: A00W (默认), Tip (提示工具 - 普通)
+{
+默认(|Cffffcc00Q|r)
+}
+
+STRING 981
+// 技能: A00W (默认), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效果（默认）
+}
+
+STRING 982
+// 单位: H054 (主城（新）), Hotkey (热键)
+{
+Q
+}
+
+STRING 983
+// 技能: A00X (|CffFFFF26金碧荧煌|r), Name (名字)
+{
+|CffFFFF26金碧荧煌|r
+}
+
+STRING 984
+// 技能: A00X (|CffFFFF26金碧荧煌|r), Tip (提示工具 - 普通)
+{
+|CffFFFF26金碧荧煌|r
+}
+
+STRING 985
+// 技能: A00X (|CffFFFF26金碧荧煌|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效至|Cffffff26（金碧荧煌）|r
+}
+
+STRING 986
+// 单位: h01P (|CffFFFF00无畏者|r), Hotkey (热键)
+{
+Q
+}
+
+STRING 987
+// 技能: A00Y (|Cff265CFF闪电|r), Name (名字)
+{
+|Cff265CFF闪电|r
+}
+
+STRING 988
+// 技能: A00Y (|Cff265CFF闪电|r), Tip (提示工具 - 普通)
+{
+|Cff265CFF闪电|r
+}
+
+STRING 989
+// 技能: A00Y (|Cff265CFF闪电|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效至|Cff265cff（闪电）|r
+}
+
+STRING 990
+// 技能: A00Z (|Cff646464暗影|r), EditorSuffix (编辑器后缀)
+{
+黑色的光
+}
+
+STRING 991
+// 技能: A00F (闪烁), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 992
+// 技能: A00Z (|Cff646464暗影|r), Name (名字)
+{
+|Cff646464暗影|r
+}
+
+STRING 993
+// 技能: A00Z (|Cff646464暗影|r), Tip (提示工具 - 普通)
+{
+|Cff646464暗影|r(|Cffffcc00W|r)
+}
+
+STRING 994
+// 技能: A00Z (|Cff646464暗影|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效|Cff646464（暗影）|r
+}
+
+STRING 995
+// 技能: A010 (风暴之锤 boss), Name (名字)
+{
+风暴之锤 boss
+}
+
+STRING 996
+// 技能: A011 (猩红岁月), EditorSuffix (编辑器后缀)
+{
+boss
+}
+
+STRING 997
+// 技能: AHta (显示), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 998
+// 技能: A011 (猩红岁月), Name (名字)
+{
+猩红岁月
+}
+
+STRING 999
+// 技能: A013 (|CffFF5C26火焰增幅|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1003
+// 技能: A015 (天神下凡), EditorSuffix (编辑器后缀)
+{
+Boss
+}
+
+STRING 1004
+// 技能: A016 (炮火轰顶), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1005
+// 技能: A016 (炮火轰顶), Name (名字)
+{
+炮火轰顶
+}
+
+STRING 1006
+// 技能: A016 (炮火轰顶), Tip (提示工具 - 普通)
+{
+炮火轰顶
+}
+
+STRING 1007
+// 技能: A016 (炮火轰顶), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000当死神满蓝状态下，消耗当前所有蓝，触发一次爆炸伤害，爆炸伤害为死神白字伤害的7倍。|r
+}
+
+STRING 1008
+// 技能: A017 (子弹增幅), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1009
+// 技能: A017 (子弹增幅), Name (名字)
+{
+子弹增幅
+}
+
+STRING 1010
+// 技能: A017 (子弹增幅), Tip (提示工具 - 普通)
+{
+子弹增幅
+}
+
+STRING 1011
+// 技能: A017 (子弹增幅), Ubertip (提示工具 - 普通 - 扩展)
+{
+士兵攻击提升了10点
+}
+
+STRING 1012
+// 技能: A018 (火焰呼吸), EditorSuffix (编辑器后缀)
+{
+僵尸
+}
+
+STRING 1013
+// 技能: A019 (塔上作战), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1014
+// 技能: A019 (塔上作战), Name (名字)
+{
+塔上作战
+}
+
+STRING 1015
+// 技能: A019 (塔上作战), Tip (提示工具 - 普通)
+{
+塔上作战
+}
+
+STRING 1016
+// 技能: A019 (塔上作战), Ubertip (提示工具 - 普通 - 扩展)
+{
+塔上作战单位攻击力加成100%
+}
+
+STRING 1017
+// 技能: A01A (扎根 (古树)), Name (名字)
+{
+扎根 (古树)
+}
+
+STRING 1018
+// 技能: A01B (医疗气雾), EditorSuffix (编辑器后缀)
+{
+僵尸
+}
+
+STRING 1019
+// 技能: AUbu (建造(不死族)), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1020
+// 技能: A01C (建造主城), Name (名字)
+{
+建造主城
+}
+
+STRING 1021
+// 技能: A01C (建造主城), Tip (提示工具 - 普通)
+{
+建造主城(|cffffcc00Q|r)
+}
+
+STRING 1022
+// 技能: A01C (建造主城), Ubertip (提示工具 - 普通 - 扩展)
+{
+选择一处建造主城，然后保护好它！
+}
+
+STRING 1023
+// 技能: A01D (易燃增伤), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1024
+// 技能: A01D (易燃增伤), Name (名字)
+{
+易燃增伤
+}
+
+STRING 1025
+// 技能: A01D (易燃增伤), Tip (提示工具 - 普通)
+{
+易燃增伤
+}
+
+STRING 1026
+// 技能: A01D (易燃增伤), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffD96D00顶级火塔每次对1500血以上目标造成伤害时都会加深|r|Cffffa64d所有顶级火塔单位|r|Cffd96d00下次对该目标的伤害，每次加深伤害递增10点（真实伤害），上限250。|r
+}
+
+STRING 1027
+// 技能: A01E (冰霜新星Lv2), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1028
+// 技能: A01E (冰霜新星Lv2), Name (名字)
+{
+冰霜新星Lv2
+}
+
+STRING 1029
+// 技能: A01E (冰霜新星Lv2), Tip (提示工具 - 普通)
+{
+冰霜新星Lv2
+}
+
+STRING 1031
+// 技能: A01F (卸载全部), EditorSuffix (编辑器后缀)
+{
+卸载苦工
+}
+
+STRING 1032
+// 技能: A00Z (|Cff646464暗影|r), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 1033
+// 技能: A01F (卸载全部), Name (名字)
+{
+卸载全部
+}
+
+STRING 1034
+// 技能: A01F (卸载全部), Tip (提示工具 - 普通)
+{
+卸载全部(|Cffffcc00W|r)
+}
+
+STRING 1035
+// 技能: A01F (卸载全部), Ubertip (提示工具 - 普通 - 扩展)
+{
+卸载塔上所有士兵
+}
+
+STRING 1036
+// 技能: A01G (能源), EditorSuffix (编辑器后缀)
+{
+能源
+}
+
+STRING 1037
+// 技能: A01G (能源), Hotkey (热键 - 普通)
+{
+R
+}
+
+STRING 1038
+// 技能: A01G (能源), Name (名字)
+{
+能源
+}
+
+STRING 1039
+// 技能: A01G (能源), Tip (提示工具 - 普通)
+{
+能源(|cffffcc00R|r)
+}
+
+STRING 1040
+// 技能: A01H (天天RPG), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1041
+// 技能: A01H (天天RPG), Name (名字)
+{
+天天RPG
+}
+
+STRING 1042
+// 技能: A01H (天天RPG), Tip (提示工具 - 普通)
+{
+|CffFF8000天天RPG|r
+}
+
+STRING 1043
+// 技能: A01H (天天RPG), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFFFF00输入“围城”领取专属“天天RPG网站福利”！|r
+}
+
+STRING 1044
+// 技能: A01I (|Cff4D7AFF永夜的寒冬|r), EditorSuffix (编辑器后缀)
+{
+八方风雨
+}
+
+STRING 1045
+// 技能: A00A (人口), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1049
+// 技能: A01J (死亡凋零), EditorSuffix (编辑器后缀)
+{
+八方风雨
+}
+
+STRING 1050
+// 技能: A00J (烈焰风暴), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1051
+// 技能: A01K (古寺铃音), Name (名字)
+{
+古寺铃音
+}
+
+STRING 1052
+// 技能: A01K (古寺铃音), Tip (提示工具 - 普通)
+{
+古寺铃音(|cffffcc00Q|r)
+}
+
+STRING 1053
+// 技能: A01K (古寺铃音), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000可以使范围内的墙类型建筑的护甲再次提升200,持续15s|r
+}
+
+STRING 1054
+// 技能: A00M (|CffFF0000红色闪电|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1057
+// 技能: A01L (战歌), Ubertip (提示工具 - 普通 - 扩展)
+{
+使范围内非建筑单位攻击提升至白字3倍。
+}
+
+STRING 1058
+// 技能: A01M (战争践踏 boss), Name (名字)
+{
+战争践踏 boss
+}
+
+STRING 1059
+// 技能: A01N (翅膀5), Name (名字)
+{
+翅膀5
+}
+
+STRING 1060
+// 技能: A01O (翅膀6), Name (名字)
+{
+翅膀6
+}
+
+STRING 1061
+// 技能: A01P (翅膀7), Name (名字)
+{
+翅膀7
+}
+
+STRING 1062
+// 技能: A01Q (翅膀8), Name (名字)
+{
+翅膀8
+}
+
+STRING 1063
+// 技能: A02H (疾风步), Hotkey (热键 - 普通)
+{
+E
+}
+
+STRING 1064
+// 技能: A01R (送葬), Name (名字)
+{
+送葬
+}
+
+STRING 1065
+// 技能: A01R (送葬), Tip (提示工具 - 普通)
+{
+送葬(|cffffcc00E|r)
+}
+
+STRING 1066
+// 技能: A01R (送葬), Ubertip (提示工具 - 普通 - 扩展)
+{
+杀死范围内|Cffffa64d己方|r非建筑单位（低级兵快速自杀，幸存者除外）
+}
+
+STRING 1067
+// 技能: A01S (定点狙击), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1068
+// 技能: A01S (定点狙击), Name (名字)
+{
+定点狙击
+}
+
+STRING 1069
+// 技能: A01S (定点狙击), Tip (提示工具 - 普通)
+{
+定点狙击
+}
+
+STRING 1071
+// 技能: A01T (货物保持 (驻兵塔)), Name (名字)
+{
+货物保持 (驻兵塔)
+}
+
+STRING 1072
+// 技能: A01U (生命恢复光环), EditorSuffix (编辑器后缀)
+{
+(八方)
+}
+
+STRING 1073
+// 技能: A01V (强壮体魄), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1074
+// 技能: A01V (强壮体魄), Name (名字)
+{
+强壮体魄
+}
+
+STRING 1075
+// 技能: A01V (强壮体魄), Tip (提示工具 - 普通)
+{
+强壮
+}
+
+STRING 1076
+// 技能: A01V (强壮体魄), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000铁拳生命值上升500,防御+5|r
+}
+
+STRING 1077
+// 技能: A00R (精灵之翼), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1078
+// 技能: A01W (不灭英灵), Name (名字)
+{
+不灭英灵
+}
+
+STRING 1079
+// 技能: A01W (不灭英灵), Tip (提示工具 - 普通)
+{
+不灭英灵(|Cffffcc00Q|r)
+}
+
+STRING 1080
+// 技能: A01W (不灭英灵), Ubertip (提示工具 - 普通 - 扩展)
+{
+召唤牛头人酋长释放战争践踏，大规模眩晕敌人|n|Cffd24dff持续时间：2s|r|Cffff8000
+|r|Cff4da6ffCD:150s|r|Cffff8000
+|r|Cff36d900额外效果：普通攻击有百分之5的几率召唤牛头人酋长，释放战争践踏|r
+}
+
+STRING 1081
+// 技能: A01X (战争践踏), EditorSuffix (编辑器后缀)
+{
+八方风雨
+}
+
+STRING 1082
+// 技能: A01X (战争践踏), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000主动：召唤一群牛头酋长，大范围眩晕周围单位|r|n|Cffffff26被动：普通攻击有5%的几率，召唤牛头人酋长，眩晕周围僵尸5s|r
+}
+
+STRING 1083
+// 技能: A00W (默认), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1084
+// 技能: A01Y (复苏之风), Name (名字)
+{
+复苏之风
+}
+
+STRING 1085
+// 技能: A01Y (复苏之风), Tip (提示工具 - 普通)
+{
+生命律动(|cffffcc00Q|r)
+}
+
+STRING 1086
+// 技能: A01Y (复苏之风), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000极大提升范围内非建筑单位回血速度|r
+}
+
+STRING 1087
+// 技能: A01Z (生命恢复光环), EditorSuffix (编辑器后缀)
+{
+(复苏之风)
+}
+
+STRING 1088
+// 技能: A00X (|CffFFFF26金碧荧煌|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1089
+// 技能: A020 (|Cff4D7AFF蔚蓝年华|r), Name (名字)
+{
+|Cff4D7AFF蔚蓝年华|r
+}
+
+STRING 1090
+// 技能: A020 (|Cff4D7AFF蔚蓝年华|r), Tip (提示工具 - 普通)
+{
+|Cff4D7AFF蔚蓝年华|r
+}
+
+STRING 1091
+// 技能: A020 (|Cff4D7AFF蔚蓝年华|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效为|Cff4D7AFF（蔚蓝年华）|r
+}
+
+STRING 1092
+// 技能: A021 (直线3个光柱), EditorSuffix (编辑器后缀)
+{
+boss
+}
+
+STRING 1093
+// 技能: A01F (卸载全部), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 1094
+// 技能: A021 (直线3个光柱), Name (名字)
+{
+直线3个光柱
+}
+
+STRING 1095
+// 技能: A021 (直线3个光柱), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 1096
+// 技能: A022 (6个光柱), EditorSuffix (编辑器后缀)
+{
+boss
+}
+
+STRING 1097
+// 技能: A00Y (|Cff265CFF闪电|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1098
+// 技能: A022 (6个光柱), Name (名字)
+{
+6个光柱
+}
+
+STRING 1099
+// 技能: A011 (猩红岁月), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1100
+// 技能: A023 (扎根 (驻兵塔)), Name (名字)
+{
+扎根 (驻兵塔)
+}
+
+STRING 1101
+// 技能: A025 (驻兵塔强化), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1102
+// 技能: A025 (驻兵塔强化), Name (名字)
+{
+驻兵塔强化
+}
+
+STRING 1103
+// 技能: A025 (驻兵塔强化), Tip (提示工具 - 普通)
+{
+驻兵塔强化
+}
+
+STRING 1104
+// 技能: A025 (驻兵塔强化), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF4000驻兵塔生命值上升1000,防御+5|r
+}
+
+STRING 1105
+// 技能: A021 (直线3个光柱), Tip (提示工具 - 普通)
+{
+W
+}
+
+STRING 1106
+// 技能: A026 (回到主城), Name (名字)
+{
+回到主城
+}
+
+STRING 1107
+// 技能: A026 (回到主城), Tip (提示工具 - 普通)
+{
+回到主城(|Cffffcc00W|r)
+}
+
+STRING 1108
+// 技能: A026 (回到主城), Ubertip (提示工具 - 普通 - 扩展)
+{
+返回到主城面板
+}
+
+STRING 1109
+// 技能: A027 (月刃), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1110
+// 技能: A027 (月刃), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000 - 女猎手多重射数量上升至5|n|r |Cffff8000- 攻击力提升20|r
+}
+
+STRING 1111
+// 技能: A028 (多重射), Name (名字)
+{
+多重射
+}
+
+STRING 1112
+// 技能: A028 (多重射), Tip (提示工具 - 普通)
+{
+多重射
+}
+
+STRING 1113
+// 技能: A028 (多重射), Ubertip (提示工具 - 普通 - 扩展)
+{
+同时对周围3个单位发动攻击
+}
+
+STRING 1114
+// 技能: A029 (烈火燎原), EditorSuffix (编辑器后缀)
+{
+八方风雨
+}
+
+STRING 1115
+// 技能: A012 (医疗波), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1116
+// 技能: A029 (烈火燎原), Name (名字)
+{
+烈火燎原
+}
+
+STRING 1117
+// 技能: A029 (烈火燎原), Tip (提示工具 - 普通)
+{
+烈火燎原(|Cffffcc00Q|r)
+}
+
+STRING 1118
+// 技能: A029 (烈火燎原), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffF0F0F0召唤出火焰雨，每一波攻击能对一小块区域内的单位造成大量伤害|r|Cffff8000
+|r|Cffd24dff持续时间：15s|r|Cffff8000
+|r|Cff4da6ffCD:300s|r|Cffff8000
+|r|Cffff7a4d每波伤害：1500|r|Cffff8000
+|r|Cff36d900额外效果：火塔易燃增伤增幅上线永久提升至500|r
+}
+
+STRING 1119
+// 技能: A02A (爱上RPG), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1120
+// 技能: A02A (爱上RPG), Name (名字)
+{
+爱上RPG
+}
+
+STRING 1121
+// 技能: A02A (爱上RPG), Tip (提示工具 - 普通)
+{
+|CffFF8000爱上RPG|r
+}
+
+STRING 1122
+// 技能: A02A (爱上RPG), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFFFF00输入“爱上RPG”领取专属“爱上RPG网站福利”！|r
+}
+
+STRING 1123
+// 技能: A02B (|CffFF8000分裂攻击 (更加牛逼)|r), Name (名字)
+{
+|CffFF8000分裂攻击 (更加牛逼)|r
+}
+
+STRING 1124
+// 技能: A02B (|CffFF8000分裂攻击 (更加牛逼)|r), Tip (提示工具 - 普通)
+{
+|CffFF8000分裂攻击 (更加牛逼)|r
+}
+
+STRING 1125
+// 技能: A02B (|CffFF8000分裂攻击 (更加牛逼)|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+该生物的攻击力量对主目标附近的敌人都造成50%的伤害。
+}
+
+STRING 1126
+// 技能: A02C (|CffFF8000绿巨人下凡|r), Hotkey (热键 - 普通)
+{
+R
+}
+
+STRING 1127
+// 技能: A02C (|CffFF8000绿巨人下凡|r), Name (名字)
+{
+|CffFF8000绿巨人下凡|r
+}
+
+STRING 1128
+// 技能: A02C (|CffFF8000绿巨人下凡|r), Tip (提示工具 - 普通)
+{
+|CffFF8000绿巨人下凡|r(|Cffffcc00R|r)
+}
+
+STRING 1129
+// 技能: A02C (|CffFF8000绿巨人下凡|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+激活该技能能提高绿巨人10点的护甲，2000点的生命值，100点的攻击力并使其对魔法免疫。持续<AHav,Dur1>秒。
+}
+
+STRING 1130
+// 技能: A01C (建造主城), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1131
+// 技能: A02D (|CffFF8000生命恢复|r), Name (名字)
+{
+|CffFF8000生命恢复|r
+}
+
+STRING 1132
+// 技能: A02D (|CffFF8000生命恢复|r), Tip (提示工具 - 普通)
+{
+|CffFF8000生命恢复|r(|Cffffcc00Q|r)
+}
+
+STRING 1133
+// 技能: A01I (|Cff4D7AFF永夜的寒冬|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1134
+// 技能: A02E (|CffB200B2魔剑菲利斯|r), Name (名字)
+{
+|CffB200B2魔剑菲利斯|r
+}
+
+STRING 1135
+// 技能: A02E (|CffB200B2魔剑菲利斯|r), Tip (提示工具 - 普通)
+{
+|CffB200B2魔剑菲利斯|r
+}
+
+STRING 1136
+// 技能: A02E (|CffB200B2魔剑菲利斯|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效至|Cffb200b2（魔剑菲利斯）|r
+}
+
+STRING 1137
+// 技能: A01K (古寺铃音), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1138
+// 技能: A02F (|Cff8500B2死亡效应|r), Name (名字)
+{
+|Cff8500B2死亡效应|r
+}
+
+STRING 1139
+// 技能: A02F (|Cff8500B2死亡效应|r), Tip (提示工具 - 普通)
+{
+|Cff8500B2死亡效应|r
+}
+
+STRING 1140
+// 技能: A02F (|Cff8500B2死亡效应|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效为|Cff8500b2（死亡效应）|r
+}
+
+STRING 1141
+// 技能: A01L (战歌), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1142
+// 技能: A02G (|Cff4D7AFF两鬓染星霜|r), Name (名字)
+{
+|Cff4D7AFF两鬓染星霜|r
+}
+
+STRING 1143
+// 技能: A02G (|Cff4D7AFF两鬓染星霜|r), Tip (提示工具 - 普通)
+{
+|Cff4D7AFF两鬓染星霜|r
+}
+
+STRING 1145
+// 技能: A03W (|Cff00D936修复能源|r), Hotkey (热键 - 普通)
+{
+E
+}
+
+STRING 1146
+// 技能: A02H (疾风步), Tip (提示工具 - 普通)
+{
+疾风步(|cffffcc00E|r)
+}
+
+STRING 1147
+// 技能: A02H (疾风步), Ubertip (提示工具 - 普通 - 扩展)
+{
+允许绿巨人隐形，移动速度快<ANwk,DataB1,%>%。如果绿巨人攻击某单位它就会显形。
+}
+
+STRING 1148
+// 技能: A02I (|CffFFFF99翅|r|Cffbfeb9f膀|r|Cff7fd8a5装|r|Cff3fc5ab饰|r), Name (名字)
+{
+|CffFFFF99翅|r|Cffbfeb9f膀|r|Cff7fd8a5装|r|Cff3fc5ab饰|r
+}
+
+STRING 1149
+// 技能: A02I (|CffFFFF99翅|r|Cffbfeb9f膀|r|Cff7fd8a5装|r|Cff3fc5ab饰|r), Tip (提示工具 - 普通)
+{
+|CffFFFF99翅|r|Cffbfeb9f膀|r|Cff7fd8a5装|r|Cff3fc5ab饰|r
+}
+
+STRING 1150
+// 技能: A02I (|CffFFFF99翅|r|Cffbfeb9f膀|r|Cff7fd8a5装|r|Cff3fc5ab饰|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+点击切换翅膀装饰
+}
+
+STRING 1151
+// 技能: A01W (不灭英灵), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1152
+// 技能: A02J (弓箭手|Cff646464（暗黑游侠）|r), Name (名字)
+{
+弓箭手|Cff646464（暗黑游侠）|r
+}
+
+STRING 1153
+// 技能: A02J (弓箭手|Cff646464（暗黑游侠）|r), Tip (提示工具 - 普通)
+{
+弓箭手|Cff646464（暗黑游侠）|r
+}
+
+STRING 1154
+// 技能: A02J (弓箭手|Cff646464（暗黑游侠）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换弓箭手皮肤至|Cff454545（暗黑游侠）|r
+}
+
+STRING 1155
+// 技能: A01Y (复苏之风), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1156
+// 技能: A02K (弓箭手（默认）), Name (名字)
+{
+弓箭手（默认）
+}
+
+STRING 1157
+// 技能: A02K (弓箭手（默认）), Tip (提示工具 - 普通)
+{
+弓箭手（默认）
+}
+
+STRING 1158
+// 技能: A02K (弓箭手（默认）), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换弓箭手皮肤至（默认）
+}
+
+STRING 1159
+// 技能: A020 (|Cff4D7AFF蔚蓝年华|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1160
+// 技能: A02L (弓箭手|Cff7373ff（塞恩德里斯）|r), Name (名字)
+{
+弓箭手|Cff7373ff（塞恩德里斯）|r
+}
+
+STRING 1161
+// 技能: A02L (弓箭手|Cff7373ff（塞恩德里斯）|r), Tip (提示工具 - 普通)
+{
+弓箭手|Cff7373ff（塞恩德里斯）|r
+}
+
+STRING 1162
+// 技能: A02L (弓箭手|Cff7373ff（塞恩德里斯）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换弓箭手皮肤至|Cff7373ff（塞恩德里斯）|r|n
+}
+
+STRING 1163
+// 技能: A022 (6个光柱), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1164
+// 技能: A02M (狙击手|Cffffd24d（皇家狙击手）|r), Name (名字)
+{
+狙击手|Cffffd24d（皇家狙击手）|r
+}
+
+STRING 1165
+// 技能: A02M (狙击手|Cffffd24d（皇家狙击手）|r), Tip (提示工具 - 普通)
+{
+狙击手|Cffffd24d（皇家狙击手）|r
+}
+
+STRING 1166
+// 技能: A02M (狙击手|Cffffd24d（皇家狙击手）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换狙击手皮肤至|Cffffd24d（皇家狙击手）|r|n
+}
+
+STRING 1167
+// 技能: A022 (6个光柱), Tip (提示工具 - 普通)
+{
+Q
+}
+
+STRING 1168
+// 技能: A02N (狙击手（默认）), Name (名字)
+{
+狙击手（默认）
+}
+
+STRING 1169
+// 技能: A02N (狙击手（默认）), Tip (提示工具 - 普通)
+{
+狙击手（默认）
+}
+
+STRING 1170
+// 技能: A02N (狙击手（默认）), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换狙击手皮肤至（默认）|n
+}
+
+STRING 1171
+// 技能: A029 (烈火燎原), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1172
+// 技能: A02O (狙击手|Cff00b259（野战）|r), Name (名字)
+{
+狙击手|Cff00b259（野战）|r
+}
+
+STRING 1173
+// 技能: A02O (狙击手|Cff00b259（野战）|r), Tip (提示工具 - 普通)
+{
+狙击手|Cff00b259（野战）|r
+}
+
+STRING 1174
+// 技能: A02O (狙击手|Cff00b259（野战）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换狙击手皮肤至|Cff00b259（野战）|r
+}
+
+STRING 1175
+// 技能: A02D (|CffFF8000生命恢复|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1176
+// 技能: A02P (狙击手|Cffd96d00（西部牛仔）|r), Name (名字)
+{
+狙击手|Cffd96d00（西部牛仔）|r
+}
+
+STRING 1177
+// 技能: A02P (狙击手|Cffd96d00（西部牛仔）|r), Tip (提示工具 - 普通)
+{
+狙击手|Cffd96d00（西部牛仔）|r
+}
+
+STRING 1178
+// 技能: A02P (狙击手|Cffd96d00（西部牛仔）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换狙击手皮肤至|Cffd96d00（西部牛仔）|r
+}
+
+STRING 1179
+// 技能: A02E (|CffB200B2魔剑菲利斯|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1180
+// 技能: A02Q (炮火手（默认）), Name (名字)
+{
+炮火手（默认）
+}
+
+STRING 1181
+// 技能: A02Q (炮火手（默认）), Tip (提示工具 - 普通)
+{
+炮火手（默认）
+}
+
+STRING 1182
+// 技能: A02Q (炮火手（默认）), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换炮火手皮肤至（默认）|n
+}
+
+STRING 1183
+// 技能: A02F (|Cff8500B2死亡效应|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1184
+// 技能: A02R (炮火手|Cff265cff（海军陆战队）|r), Name (名字)
+{
+炮火手|Cff265cff（海军陆战队）|r
+}
+
+STRING 1185
+// 技能: A02R (炮火手|Cff265cff（海军陆战队）|r), Tip (提示工具 - 普通)
+{
+炮火手|Cff265cff（海军陆战队）|r
+}
+
+STRING 1186
+// 技能: A02R (炮火手|Cff265cff（海军陆战队）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换炮火手皮肤至|Cff265cff（海军陆战队）|r
+}
+
+STRING 1187
+// 技能: A02S (|Cff9673FF皮|r|Cff9d72e2肤|r|Cffa471c6奖|r|Cffac71aa励|r|Cffd96d00（作战), Name (名字)
+{
+|Cff9673FF皮|r|Cff9d72e2肤|r|Cffa471c6奖|r|Cffac71aa励|r|Cffd96d00（作战塔）|r
+}
+
+STRING 1188
+// 技能: A02S (|Cff9673FF皮|r|Cff9d72e2肤|r|Cffa471c6奖|r|Cffac71aa励|r|Cffd96d00（作战), Tip (提示工具 - 普通)
+{
+|Cff9673FF皮|r|Cff9d72e2肤|r|Cffa471c6奖|r|Cffac71aa励|r|Cffd96d00（作战塔）|r
+}
+
+STRING 1189
+// 技能: A02S (|Cff9673FF皮|r|Cff9d72e2肤|r|Cffa471c6奖|r|Cffac71aa励|r|Cffd96d00（作战), Ubertip (提示工具 - 普通 - 扩展)
+{
+无需点击（仅展示是否拥有），升级的时候会出现支线。
+}
+
+STRING 1190
+// 技能: A02T (|Cff0088FF高级冰霜塔(星空元素)|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1191
+// 技能: A02T (|Cff0088FF高级冰霜塔(星空元素)|r), Name (名字)
+{
+|Cff0088FF高级冰霜塔(星空元素)|r
+}
+
+STRING 1192
+// 技能: A02T (|Cff0088FF高级冰霜塔(星空元素)|r), Tip (提示工具 - 普通)
+{
+|Cff0088FF高级冰霜塔(星空元素)|r
+}
+
+STRING 1193
+// 技能: A02U (|Cff0088FF高级冰霜塔(海潮之灵)|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1194
+// 技能: A02U (|Cff0088FF高级冰霜塔(海潮之灵)|r), Name (名字)
+{
+|Cff0088FF高级冰霜塔(海潮之灵)|r
+}
+
+STRING 1195
+// 技能: A02U (|Cff0088FF高级冰霜塔(海潮之灵)|r), Tip (提示工具 - 普通)
+{
+|Cff0088FF高级冰霜塔(海潮之灵)|r
+}
+
+STRING 1196
+// 技能: A02V (|CffFF4000高级火塔（灰烬之炎）|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1197
+// 技能: A02V (|CffFF4000高级火塔（灰烬之炎）|r), Name (名字)
+{
+|CffFF4000高级火塔（灰烬之炎）|r
+}
+
+STRING 1198
+// 技能: A02V (|CffFF4000高级火塔（灰烬之炎）|r), Tip (提示工具 - 普通)
+{
+|CffFF4000高级火塔（灰烬之炎）|r
+}
+
+STRING 1199
+// 技能: A02G (|Cff4D7AFF两鬓染星霜|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1200
+// 技能: A02W (|CffFFFF26黄金时代|r), Name (名字)
+{
+|CffFFFF26黄金时代|r
+}
+
+STRING 1201
+// 技能: A02W (|CffFFFF26黄金时代|r), Tip (提示工具 - 普通)
+{
+|CffFFFF26黄金时代|r
+}
+
+STRING 1202
+// 技能: A02W (|CffFFFF26黄金时代|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效至|Cffffff26（黄金时代)|r
+}
+
+STRING 1203
+// 技能: A02X (死亡缠绕（墓碑）), Name (名字)
+{
+死亡缠绕（墓碑）
+}
+
+STRING 1204
+// 技能: A02Y (能量风暴), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1205
+// 技能: A02Y (能量风暴), Name (名字)
+{
+能量风暴
+}
+
+STRING 1206
+// 技能: A02Y (能量风暴), Tip (提示工具 - 普通)
+{
+能量风暴
+}
+
+STRING 1207
+// 技能: A02Y (能量风暴), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000闪电数量2提升至4|r
+}
+
+STRING 1208
+// 技能: A02Z (能量聚集 Lv2), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1209
+// 技能: A02Z (能量聚集 Lv2), Name (名字)
+{
+能量聚集 Lv2
+}
+
+STRING 1210
+// 技能: A02Z (能量聚集 Lv2), Tip (提示工具 - 普通)
+{
+能量聚集 Lv2
+}
+
+STRING 1211
+// 技能: A02Z (能量聚集 Lv2), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000当能量塔在满蓝情况下进行攻击，可以附件随机2个目标追加一次电击，对目标造成800伤害|r
+}
+
+STRING 1212
+// 技能: A030 (能量聚集 Lv1), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1213
+// 技能: A030 (能量聚集 Lv1), Name (名字)
+{
+能量聚集 Lv1
+}
+
+STRING 1214
+// 技能: A030 (能量聚集 Lv1), Tip (提示工具 - 普通)
+{
+能量聚集 Lv1
+}
+
+STRING 1215
+// 技能: A030 (能量聚集 Lv1), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000当能量塔在满蓝情况下进行攻击，可以追加一次电击，对目标造成400伤害|r
+}
+
+STRING 1216
+// 技能: A031 (分裂攻击), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1217
+// 技能: A031 (分裂攻击), Name (名字)
+{
+分裂攻击
+}
+
+STRING 1218
+// 技能: A031 (分裂攻击), Tip (提示工具 - 普通)
+{
+分裂攻击
+}
+
+STRING 1219
+// 技能: A031 (分裂攻击), Ubertip (提示工具 - 普通 - 扩展)
+{
+该单位的攻击对主目标附近的敌人都造成15%的伤害。
+}
+
+STRING 1220
+// 技能: A032 (快乐肥宅), Name (名字)
+{
+快乐肥宅
+}
+
+STRING 1221
+// 技能: A032 (快乐肥宅), Tip (提示工具 - 普通)
+{
+快乐肥宅
+}
+
+STRING 1222
+// 技能: A032 (快乐肥宅), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角皮肤至快乐肥宅
+}
+
+STRING 1223
+// 技能: A033 (四系乃), Name (名字)
+{
+四系乃
+}
+
+STRING 1224
+// 技能: A033 (四系乃), Tip (提示工具 - 普通)
+{
+|Cff4DD2FF四系乃|r
+}
+
+STRING 1225
+// 技能: A033 (四系乃), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角皮肤至|Cff4dd2ff四系乃|r
+}
+
+STRING 1226
+// 技能: A034 (五河琴里), Name (名字)
+{
+五河琴里
+}
+
+STRING 1227
+// 技能: A034 (五河琴里), Tip (提示工具 - 普通)
+{
+|CffFF0000五河琴里|r
+}
+
+STRING 1228
+// 技能: A034 (五河琴里), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角皮肤至|Cffff0000五河琴里|r
+}
+
+STRING 1229
+// 技能: A035 (|CffFFFF99幸|r|Cffffcc7a存|r|Cffff995b者|r|Cffff663d皮|r|Cffff331e肤|r), Name (名字)
+{
+|CffFFFF99幸|r|Cffffcc7a存|r|Cffff995b者|r|Cffff663d皮|r|Cffff331e肤|r
+}
+
+STRING 1230
+// 技能: A035 (|CffFFFF99幸|r|Cffffcc7a存|r|Cffff995b者|r|Cffff663d皮|r|Cffff331e肤|r), Tip (提示工具 - 普通)
+{
+|CffFFFF99幸|r|Cffffcc7a存|r|Cffff995b者|r|Cffff663d皮|r|Cffff331e肤|r
+}
+
+STRING 1231
+// 技能: A035 (|CffFFFF99幸|r|Cffffcc7a存|r|Cffff995b者|r|Cffff663d皮|r|Cffff331e肤|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+点击切换幸存者皮肤
+}
+
+STRING 1235
+// 技能: A02J (弓箭手|Cff646464（暗黑游侠）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1236
+// 技能: A037 (女猎手（默认）), Name (名字)
+{
+女猎手（默认）
+}
+
+STRING 1237
+// 技能: A037 (女猎手（默认）), Tip (提示工具 - 普通)
+{
+女猎手（默认）
+}
+
+STRING 1238
+// 技能: A037 (女猎手（默认）), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换女猎手皮肤至（默认）
+}
+
+STRING 1239
+// 技能: A02K (弓箭手（默认）), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1240
+// 技能: A038 (女猎手|Cff888888（娜萨）|r), Name (名字)
+{
+女猎手|Cff888888（娜萨）|r
+}
+
+STRING 1241
+// 技能: A038 (女猎手|Cff888888（娜萨）|r), Tip (提示工具 - 普通)
+{
+女猎手|Cff888888（娜萨）|r
+}
+
+STRING 1242
+// 技能: A038 (女猎手|Cff888888（娜萨）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换女猎手皮肤至|Cff888888（娜萨）|r
+}
+
+STRING 1243
+// 技能: A039 (|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种2）|r), Name (名字)
+{
+|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种2）|r
+}
+
+STRING 1244
+// 技能: A039 (|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种2）|r), Tip (提示工具 - 普通)
+{
+|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种2）|r
+}
+
+STRING 1245
+// 技能: A039 (|CffDCFF73皮|r|Cffdbda56肤|r|Cffdab639奖|r|Cffd9911c励（兵种2）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+点击切换兵种皮肤
+}
+
+STRING 1246
+// 技能: A02L (弓箭手|Cff7373ff（塞恩德里斯）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1247
+// 技能: A03A (士兵（默认）), Name (名字)
+{
+士兵（默认）
+}
+
+STRING 1248
+// 技能: A03A (士兵（默认）), Tip (提示工具 - 普通)
+{
+士兵（默认）
+}
+
+STRING 1249
+// 技能: A03A (士兵（默认）), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换士兵皮肤至（默认）
+}
+
+STRING 1250
+// 技能: A02M (狙击手|Cffffd24d（皇家狙击手）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1251
+// 技能: A03B (士兵|Cffff0000（马里恩）|r), Name (名字)
+{
+士兵|Cffff0000（马里恩）|r
+}
+
+STRING 1252
+// 技能: A03B (士兵|Cffff0000（马里恩）|r), Tip (提示工具 - 普通)
+{
+士兵|Cffff0000（马里恩）|r
+}
+
+STRING 1253
+// 技能: A03B (士兵|Cffff0000（马里恩）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换士兵皮肤至|Cffff0000（马里恩）|r
+}
+
+STRING 1254
+// 技能: A02N (狙击手（默认）), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1255
+// 技能: A03C (喷火兵（默认）), Name (名字)
+{
+喷火兵（默认）
+}
+
+STRING 1256
+// 技能: A03C (喷火兵（默认）), Tip (提示工具 - 普通)
+{
+喷火兵（默认）
+}
+
+STRING 1257
+// 技能: A03C (喷火兵（默认）), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换喷火皮肤至（默认）
+}
+
+STRING 1258
+// 技能: A02O (狙击手|Cff00b259（野战）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1259
+// 技能: A03D (喷火兵|Cff002db2（空间邪恶兽）|r), Name (名字)
+{
+喷火兵|Cff002db2（空间邪恶兽）|r
+}
+
+STRING 1260
+// 技能: A03D (喷火兵|Cff002db2（空间邪恶兽）|r), Tip (提示工具 - 普通)
+{
+喷火兵|Cff002db2（空间邪恶兽）|r
+}
+
+STRING 1261
+// 技能: A03D (喷火兵|Cff002db2（空间邪恶兽）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换喷火皮肤至|Cff002db2（空间邪恶兽）|r
+}
+
+STRING 1262
+// 技能: A03E (幸存者), Name (名字)
+{
+幸存者
+}
+
+STRING 1263
+// 技能: A03E (幸存者), Tip (提示工具 - 普通)
+{
+幸存者
+}
+
+STRING 1264
+// 技能: A03E (幸存者), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角皮肤至幸存者
+}
+
+STRING 1265
+// 技能: A03F (分裂攻击（更强大）), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1266
+// 技能: A03F (分裂攻击（更强大）), Name (名字)
+{
+分裂攻击（更强大）
+}
+
+STRING 1267
+// 技能: A03F (分裂攻击（更强大）), Tip (提示工具 - 普通)
+{
+分裂攻击
+}
+
+STRING 1268
+// 技能: A03F (分裂攻击（更强大）), Ubertip (提示工具 - 普通 - 扩展)
+{
+该单位的攻击对主目标附近的敌人都造成50%的伤害。
+}
+
+STRING 1269
+// 技能: A03G (卸载翅膀), Name (名字)
+{
+卸载翅膀
+}
+
+STRING 1270
+// 技能: A03G (卸载翅膀), Tip (提示工具 - 普通)
+{
+卸载翅膀
+}
+
+STRING 1271
+// 技能: A02P (狙击手|Cffd96d00（西部牛仔）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1272
+// 技能: A03H (|Cff008C23生机盎然|r), Name (名字)
+{
+|Cff008C23生机盎然|r
+}
+
+STRING 1273
+// 技能: A03H (|Cff008C23生机盎然|r), Tip (提示工具 - 普通)
+{
+|Cff008C23生机盎然|r
+}
+
+STRING 1274
+// 技能: A03H (|Cff008C23生机盎然|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效|Cff008c23（生机盎然）|r
+}
+
+STRING 1275
+// 技能: A03I (|CffD93600七月流火|r), Hotkey (热键 - 普通)
+{
+R
+}
+
+STRING 1276
+// 技能: A03I (|CffD93600七月流火|r), Name (名字)
+{
+|CffD93600七月流火|r
+}
+
+STRING 1277
+// 技能: A03I (|CffD93600七月流火|r), Tip (提示工具 - 普通)
+{
+|CffD93600七月流火|r(|Cffffcc00R|r)
+}
+
+STRING 1278
+// 技能: A03I (|CffD93600七月流火|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角光环至|Cffd93600（七月流火）|r
+}
+
+STRING 1279
+// 技能: A03J (|Cff663300高级能量塔（风暴之眼）|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1280
+// 技能: A03J (|Cff663300高级能量塔（风暴之眼）|r), Name (名字)
+{
+|Cff663300高级能量塔（风暴之眼）|r
+}
+
+STRING 1281
+// 技能: A03J (|Cff663300高级能量塔（风暴之眼）|r), Tip (提示工具 - 普通)
+{
+|Cff663300高级能量塔（风暴之眼）|r
+}
+
+STRING 1282
+// 技能: A03K (天雷狂袭), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1283
+// 技能: A03K (天雷狂袭), Name (名字)
+{
+天雷狂袭
+}
+
+STRING 1284
+// 技能: A03K (天雷狂袭), Tip (提示工具 - 普通)
+{
+天雷狂袭
+}
+
+STRING 1285
+// 技能: A03K (天雷狂袭), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000高级电塔 每条闪电链会对目标250码周围造成200范围伤害（必须强化能量塔后才会生效）。|r
+}
+
+STRING 1286
+// 技能: A03L (|CffFF0000暴虐|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1287
+// 技能: A03L (|CffFF0000暴虐|r), Name (名字)
+{
+|CffFF0000暴虐|r
+}
+
+STRING 1288
+// 技能: A03L (|CffFF0000暴虐|r), Tip (提示工具 - 普通)
+{
+|CffFF0000暴虐|r
+}
+
+STRING 1289
+// 技能: A03L (|CffFF0000暴虐|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000铁拳攻击间隔下降0.3|r
+}
+
+STRING 1290
+// 技能: A03M (多重射（T2）), Name (名字)
+{
+多重射（T2）
+}
+
+STRING 1291
+// 技能: A03M (多重射（T2）), Tip (提示工具 - 普通)
+{
+多重射
+}
+
+STRING 1292
+// 技能: A03M (多重射（T2）), Ubertip (提示工具 - 普通 - 扩展)
+{
+同时对周围3个单位发动攻击
+}
+
+STRING 1293
+// 技能: A03N (采集 (黄金和木材)Lv2.5), Name (名字)
+{
+采集 (黄金和木材)Lv2.5
+}
+
+STRING 1294
+// 技能: A02Q (炮火手（默认）), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1295
+// 技能: S002 (入驻), Name (名字)
+{
+入驻
+}
+
+STRING 1296
+// 技能: S002 (入驻), Tip (提示工具 - 普通)
+{
+入驻(|Cffffcc00Q|r)
+}
+
+STRING 1297
+// 技能: S002 (入驻), Ubertip (提示工具 - 普通 - 扩展)
+{
+可以使一个非建筑单位上塔，大幅度提升作战能力。
+}
+
+STRING 1298
+// 魔法效果: B000 (烈火燎原), EditorName (名字(编辑器))
+{
+烈火燎原
+}
+
+STRING 1299
+// 魔法效果: B000 (烈火燎原), EditorSuffix (编辑器后缀)
+{
+效果
+}
+
+STRING 1300
+// 魔法效果: X000 (烈火燎原(区域效果)), EditorName (名字(编辑器))
+{
+烈火燎原(区域效果)
+}
+
+STRING 1301
+// 科技: R000 (防御), Hotkey (热键)
+{
+E
+}
+
+STRING 1302
+// 科技: R000 (防御), Name (名字)
+{
+研究高级农业研究所
+}
+
+STRING 1303
+// 科技: R000 (防御), Tip (提示工具)
+{
+研究高级农业研究所(|cffffcc00E|r)
+}
+
+STRING 1304
+// 科技: R000 (防御), Ubertip (提示工具 - 扩展)
+{
+人类更强大经济建筑的研究所
+}
+
+STRING 1305
+// 科技: R001 (防御), Name (名字)
+{
+研究石头墙
+}
+
+STRING 1306
+// 科技: R001 (防御), Tip (提示工具)
+{
+研究石头墙(|cffffcc00D|r)
+}
+
+STRING 1307
+// 科技: R001 (防御), Ubertip (提示工具 - 扩展)
+{
+可以使墙体升级，石头墙拥有更高的血量。
+}
+
+STRING 1308
+// 单位: h04T (|Cff403000黑贞|r), Hotkey (热键)
+{
+X
+}
+
+STRING 1309
+// 科技: R002 (防御), Name (名字)
+{
+驻兵塔强化
+}
+
+STRING 1310
+// 科技: R002 (防御), Tip (提示工具)
+{
+研究驻兵塔强化(|cffffcc00X|r)
+}
+
+STRING 1311
+// 科技: R002 (防御), Ubertip (提示工具 - 扩展)
+{
+驻兵塔强化
+}
+
+STRING 1312
+// 单位: h03P (|Cff0088FF高级冰霜塔(海潮之灵)|r), Hotkey (热键)
+{
+S
+}
+
+STRING 1313
+// 科技: R003 (防御), Name (名字)
+{
+泰坦
+}
+
+STRING 1314
+// 科技: R003 (防御), Tip (提示工具)
+{
+研究作战研究所(|cffffcc00S|r)
+}
+
+STRING 1315
+// 技能: A02R (炮火手|Cff265cff（海军陆战队）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1316
+// 科技: R004 (防御), Name (名字)
+{
+训练炮火手技术
+}
+
+STRING 1317
+// 科技: R004 (防御), Tip (提示工具)
+{
+训练炮火手技术(|Cffffcc00Q|r)
+}
+
+STRING 1318
+// 科技: R004 (防御), Ubertip (提示工具 - 扩展)
+{
+远距离攻击单位，对付僵尸特别地有效，但是速度很慢很容易遭受敌人的近身攻击。
+}
+
+STRING 1319
+// 技能: A00B (军事), Hotkey (热键 - 普通)
+{
+A
+}
+
+STRING 1320
+// 科技: R005 (防御), Name (名字)
+{
+研究混泥土墙
+}
+
+STRING 1321
+// 科技: R005 (防御), Tip (提示工具)
+{
+研究混泥土墙(|cffffcc00A|r)
+}
+
+STRING 1322
+// 科技: R005 (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造相当结实的城墙
+}
+
+STRING 1323
+// 科技: R003 (防御), Hotkey (热键)
+{
+S
+}
+
+STRING 1324
+// 科技: R006 (防御), Name (名字)
+{
+研究钢铁城墙
+}
+
+STRING 1325
+// 科技: R006 (防御), Tip (提示工具)
+{
+研究钢铁城墙(|cffffcc00S|r)
+}
+
+STRING 1326
+// 科技: R006 (防御), Ubertip (提示工具 - 扩展)
+{
+巨特么结实的城墙了解一下
+}
+
+STRING 1327
+// 科技: R005 (防御), Hotkey (热键)
+{
+A
+}
+
+STRING 1328
+// 科技: R007 (防御), Name (名字)
+{
+高级伐木技术
+}
+
+STRING 1329
+// 科技: R007 (防御), Tip (提示工具)
+{
+研究高级伐木技术(|cffffcc00A|r)
+}
+
+STRING 1330
+// 科技: R007 (防御), Ubertip (提示工具 - 扩展)
+{
+学习更快的伐木技术
+}
+
+STRING 1331
+// 技能: A02W (|CffFFFF26黄金时代|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1332
+// 科技: R008 (防御), Name (名字)
+{
+冰塔Lv1
+}
+
+STRING 1333
+// 科技: R008 (防御), Tip (提示工具)
+{
+研究冰塔Lv1(|Cffffcc00Q|r)
+}
+
+STRING 1334
+// 科技: R008 (防御), Ubertip (提示工具 - 扩展)
+{
+普通可以减少僵尸的攻击速度和移动速度
+}
+
+STRING 1335
+// 科技: R007 (防御), Hotkey (热键)
+{
+A
+}
+
+STRING 1336
+// 科技: R009 (防御), Name (名字)
+{
+冰塔Lv2
+}
+
+STRING 1337
+// 科技: R009 (防御), Tip (提示工具)
+{
+研究冰塔Lv2(|cffffcc00A|r)
+}
+
+STRING 1338
+// 科技: R009 (防御), Ubertip (提示工具 - 扩展)
+{
+研究更强大的冰塔Lv2
+}
+
+STRING 1339
+// 技能: A037 (女猎手（默认）), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1340
+// 科技: R00A (防御), Name (名字)
+{
+冰塔Lv3
+}
+
+STRING 1341
+// 科技: R00A (防御), Tip (提示工具)
+{
+研究冰塔Lv3(|cffffcc00Q|r)
+}
+
+STRING 1342
+// 科技: R00A (防御), Ubertip (提示工具 - 扩展)
+{
+研究更强大的冰塔Lv3
+}
+
+STRING 1343
+// 技能: A026 (回到主城), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 1344
+// 科技: R00B (防御), Name (名字)
+{
+火塔Lv1
+}
+
+STRING 1345
+// 科技: R00B (防御), Tip (提示工具)
+{
+研究火塔lv1(|cffffcc00W|r)
+}
+
+STRING 1346
+// 科技: R00B (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造火塔
+}
+
+STRING 1347
+// 科技: R006 (防御), Hotkey (热键)
+{
+S
+}
+
+STRING 1348
+// 科技: R00C (防御), Name (名字)
+{
+火塔Lv2
+}
+
+STRING 1349
+// 科技: R00C (防御), Tip (提示工具)
+{
+研究火塔Lv2(|cffffcc00S|r)
+}
+
+STRING 1350
+// 科技: R00C (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造更强大的火塔
+}
+
+STRING 1351
+// 技能: A03S (|Cff2693FF净化|r), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 1352
+// 科技: R00D (防御), Name (名字)
+{
+火塔Lv3
+}
+
+STRING 1353
+// 科技: R00D (防御), Tip (提示工具)
+{
+研究火塔Lv3(|cffffcc00W|r)
+}
+
+STRING 1354
+// 科技: R00D (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造更强大的火塔
+}
+
+STRING 1355
+// 技能: A03X (|CffFF73FF能源再生|r), Hotkey (热键 - 普通)
+{
+R
+}
+
+STRING 1356
+// 科技: R00E (防御), Name (名字)
+{
+能量塔Lv1
+}
+
+STRING 1357
+// 科技: R00E (防御), Tip (提示工具)
+{
+研究能量塔Lv1(|cffffcc00R|r)
+}
+
+STRING 1358
+// 科技: R00E (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造能量塔
+}
+
+STRING 1359
+// 科技: R00E (防御), Hotkey (热键)
+{
+R
+}
+
+STRING 1360
+// 科技: R00F (防御), Name (名字)
+{
+能量塔Lv2
+}
+
+STRING 1362
+// 科技: R00F (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造更强大的能量塔
+}
+
+STRING 1363
+// 科技: R00G (防御), Hotkey (热键)
+{
+E
+}
+
+STRING 1364
+// 科技: R00G (防御), Name (名字)
+{
+炮塔Lv1
+}
+
+STRING 1365
+// 科技: R00G (防御), Tip (提示工具)
+{
+研究炮塔Lv1(|cffffcc00E|r)
+}
+
+STRING 1366
+// 科技: R00G (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造炮塔
+}
+
+STRING 1367
+// 科技: R00H (防御), Name (名字)
+{
+炮塔Lv2
+}
+
+STRING 1368
+// 科技: R00H (防御), Tip (提示工具)
+{
+研究炮塔Lv2(|cffffcc00D|r)
+}
+
+STRING 1369
+// 科技: R00H (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造更强大的炮塔
+}
+
+STRING 1370
+// 科技: R00I (防御), Hotkey (热键)
+{
+E
+}
+
+STRING 1371
+// 科技: R00I (防御), Name (名字)
+{
+炮塔Lv3
+}
+
+STRING 1372
+// 科技: R00I (防御), Tip (提示工具)
+{
+研究炮塔Lv3(|cffffcc00E|r)
+}
+
+STRING 1373
+// 科技: R00I (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造更强大的炮塔
+}
+
+STRING 1374
+// 科技: R00C (防御), Hotkey (热键)
+{
+S
+}
+
+STRING 1375
+// 科技: R00J (防御), Name (名字)
+{
+疯狂的伐木技术
+}
+
+STRING 1376
+// 科技: R00J (防御), Tip (提示工具)
+{
+研究疯狂的伐木技术(|cffffcc00S|r)
+}
+
+STRING 1377
+// 科技: R00J (防御), Ubertip (提示工具 - 扩展)
+{
+可以学会更快的伐木技术
+}
+
+STRING 1378
+// 科技: R00K (防御), Name (名字)
+{
+机枪塔
+}
+
+STRING 1380
+// 科技: R00K (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造机枪塔
+}
+
+STRING 1381
+// 科技: R00K (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1382
+// 科技: R00L (防御), Name (名字)
+{
+高级机枪塔
+}
+
+STRING 1383
+// 科技: R00L (防御), Tip (提示工具)
+{
+研究高级机枪塔(|cffffcc00Z|r)
+}
+
+STRING 1384
+// 科技: R00L (防御), Ubertip (提示工具 - 扩展)
+{
+研究更强大的机枪塔
+}
+
+STRING 1385
+// 单位: h04Z (|CffFF8000Z机甲|r), Hotkey (热键)
+{
+X
+}
+
+STRING 1386
+// 科技: R00M (防御), Name (名字)
+{
+富饶的农场
+}
+
+STRING 1387
+// 科技: R00M (防御), Tip (提示工具)
+{
+研究富饶的农场(|cffffcc00X|r)
+}
+
+STRING 1388
+// 科技: R00M (防御), Ubertip (提示工具 - 扩展)
+{
+超强的经济建筑，可以提高每日收入
+}
+
+STRING 1389
+// 科技: R00L (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1390
+// 科技: R00N (防御), Name (名字)
+{
+超级水车
+}
+
+STRING 1391
+// 科技: R00N (防御), Tip (提示工具)
+{
+研究超级水车(|Cffffcc00Z|r)
+}
+
+STRING 1392
+// 科技: R00N (防御), Ubertip (提示工具 - 扩展)
+{
+进一步强化水车，可以提高每日收入|n|Cff40ff00每个水车收入增加至+26|r|Cffff8000（研究完成立即生效）|r
+}
+
+STRING 1393
+// 科技: R009 (防御), Hotkey (热键)
+{
+A
+}
+
+STRING 1394
+// 科技: R00O (防御), Name (名字)
+{
+高级兵工厂技术
+}
+
+STRING 1396
+// 科技: R00O (防御), Ubertip (提示工具 - 扩展)
+{
+研究更高级的兵工厂
+}
+
+STRING 1397
+// 科技: R00J (防御), Hotkey (热键)
+{
+S
+}
+
+STRING 1398
+// 科技: R00P (防御), Name (名字)
+{
+氪金工厂
+}
+
+STRING 1400
+// 科技: R00P (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造相当牛逼的氪金兵种|Cff00d936（免费造）|r
+}
+
+STRING 1401
+// 技能: A038 (女猎手|Cff888888（娜萨）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1402
+// 科技: R00Q (防御), Name (名字)
+{
+训练t1机器人技术
+}
+
+STRING 1403
+// 科技: R00Q (防御), Tip (提示工具)
+{
+训练t1机器人技术(|Cffffcc00Q|r)
+}
+
+STRING 1404
+// 科技: R00Q (防御), Ubertip (提示工具 - 扩展)
+{
+氪金兵种之一，有点小牛逼
+}
+
+STRING 1405
+// 技能: A040 (夜幕), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 1406
+// 科技: R00R (防御), Name (名字)
+{
+训练t2机器人技术
+}
+
+STRING 1407
+// 科技: R00R (防御), Tip (提示工具)
+{
+训练t2机器人技术(|Cffffcc00W|r)
+}
+
+STRING 1408
+// 科技: R00R (防御), Ubertip (提示工具 - 扩展)
+{
+氪金兵种之一，有点小牛逼
+}
+
+STRING 1410
+// 科技: R00S (防御), Name (名字)
+{
+训练钢铁侠技术
+}
+
+STRING 1412
+// 科技: R00S (防御), Ubertip (提示工具 - 扩展)
+{
+氪金兵种之一，有点小牛逼
+}
+
+STRING 1413
+// 技能: A043 (纠缠根须), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 1414
+// 科技: R00T (防御), Name (名字)
+{
+训练双足机器人技术
+}
+
+STRING 1416
+// 科技: R00T (防御), Ubertip (提示工具 - 扩展)
+{
+氪金兵种之一，有点小牛逼
+}
+
+STRING 1417
+// 科技: R00U (防御), Hotkey (热键)
+{
+S
+}
+
+STRING 1418
+// 科技: R00U (防御), Name (名字)
+{
+训练机甲铁拳技术
+}
+
+STRING 1419
+// 科技: R00U (防御), Tip (提示工具)
+{
+训练机甲铁拳技术(|Cffffcc00S|r)
+}
+
+STRING 1420
+// 科技: R00U (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造相当强大的近战单位
+}
+
+STRING 1421
+// 科技: R00V (防御), Hotkey (热键)
+{
+A
+}
+
+STRING 1422
+// 科技: R00V (防御), Name (名字)
+{
+训练医疗兵技术
+}
+
+STRING 1423
+// 科技: R00V (防御), Tip (提示工具)
+{
+训练医疗兵技术(|Cffffcc00A|r)
+}
+
+STRING 1424
+// 科技: R00V (防御), Ubertip (提示工具 - 扩展)
+{
+可以训练拥有治疗更修复能力的兵种
+}
+
+STRING 1425
+// 科技: R00W (防御), Hotkey (热键)
+{
+A
+}
+
+STRING 1426
+// 科技: R00W (防御), Name (名字)
+{
+中级水车
+}
+
+STRING 1427
+// 科技: R00W (防御), Tip (提示工具)
+{
+研究中级渔场(|cffffcc00A|r)
+}
+
+STRING 1428
+// 科技: R00W (防御), Ubertip (提示工具 - 扩展)
+{
+强化水车，可以提高每日收入|n|Cff40ff00每个水车收入增加至+13|r|Cffff8000（研究完成立即生效）|r|n
+}
+
+STRING 1429
+// 科技: R012 (防御), Hotkey (热键)
+{
+S
+}
+
+STRING 1433
+// 科技: R00N (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1434
+// 科技: R00Y (防御), Name (名字)
+{
+训练狙击兵技术
+}
+
+STRING 1435
+// 科技: R00Y (防御), Tip (提示工具)
+{
+训练狙击兵技术(|Cffffcc00Z|r)
+}
+
+STRING 1436
+// 科技: R00Y (防御), Ubertip (提示工具 - 扩展)
+{
+研究超远攻击范围并带有击退的作战兵种
+}
+
+STRING 1437
+// 科技: R00Z (防御), Name (名字)
+{
+炮火轰顶
+}
+
+STRING 1438
+// 科技: R00Z (防御), Tip (提示工具)
+{
+研究炮火轰顶(|cffffcc00D|r)
+}
+
+STRING 1439
+// 科技: R00Z (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化炮火手
+}
+
+STRING 1440
+// 科技: R010 (防御), Hotkey (热键)
+{
+A
+}
+
+STRING 1441
+// 科技: R010 (防御), Name (名字)
+{
+子弹增幅
+}
+
+STRING 1442
+// 科技: R010 (防御), Tip (提示工具)
+{
+研究子弹增幅(|cffffcc00A|r)
+}
+
+STRING 1443
+// 科技: R010 (防御), Ubertip (提示工具 - 扩展)
+{
+前期可以大大提升士兵的作战能力
+}
+
+STRING 1444
+// 科技: R011 (防御), Hotkey (热键)
+{
+A
+}
+
+STRING 1445
+// 科技: R011 (防御), Name (名字)
+{
+绝对冰点
+}
+
+STRING 1446
+// 科技: R011 (防御), Tip (提示工具)
+{
+研究绝对冰点(|Cffffcc00A|r)
+}
+
+STRING 1447
+// 科技: R011 (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化冰塔
+}
+
+STRING 1448
+// 科技: R016 (防御), Hotkey (热键)
+{
+S
+}
+
+STRING 1450
+// 科技: R012 (防御), Tip (提示工具)
+{
+研究火力全开(|Cffffcc00S|r)
+}
+
+STRING 1451
+// 科技: R012 (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化火塔
+}
+
+STRING 1452
+// 技能: A00D (其他), Hotkey (热键 - 普通)
+{
+F
+}
+
+STRING 1453
+// 科技: R013 (防御), Name (名字)
+{
+强壮体魄
+}
+
+STRING 1454
+// 科技: R013 (防御), Tip (提示工具)
+{
+研究强壮体魄(|cffffcc00F|r)
+}
+
+STRING 1455
+// 科技: R013 (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化铁拳
+}
+
+STRING 1456
+// 科技: R014 (防御), Name (名字)
+{
+狂轰乱炸
+}
+
+STRING 1457
+// 科技: R014 (防御), Tip (提示工具)
+{
+研究狂轰乱炸(|Cffffcc00D|r)
+}
+
+STRING 1458
+// 科技: R014 (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化炮塔
+}
+
+STRING 1459
+// 科技: R00O (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1460
+// 科技: R015 (防御), Name (名字)
+{
+八方风雨
+}
+
+STRING 1461
+// 科技: R015 (防御), Tip (提示工具)
+{
+|CffFF0000研究八方风雨-？？？|r(|Cffffcc00Z|r)
+}
+
+STRING 1462
+// 科技: R015 (防御), Ubertip (提示工具 - 扩展)
+{
+研究传说随机建筑
+}
+
+STRING 1464
+// 科技: R016 (防御), Name (名字)
+{
+定点狙击
+}
+
+STRING 1465
+// 科技: R016 (防御), Tip (提示工具)
+{
+研究定点狙击(|cffffcc00S|r)
+}
+
+STRING 1466
+// 科技: R016 (防御), Ubertip (提示工具 - 扩展)
+{
+研究狙击兵强化
+}
+
+STRING 1467
+// 科技: R00Y (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1468
+// 科技: R017 (防御), Name (名字)
+{
+研究高级塔类研究所
+}
+
+STRING 1469
+// 科技: R017 (防御), Tip (提示工具)
+{
+研究高级塔类研究所(|Cffffcc00Z|r)
+}
+
+STRING 1470
+// 科技: R017 (防御), Ubertip (提示工具 - 扩展)
+{
+研究人类更高级的塔
+}
+
+STRING 1472
+// 科技: R018 (防御), Name (名字)
+{
+塔类建筑开发
+}
+
+STRING 1473
+// 科技: R018 (防御), Tip (提示工具)
+{
+研究塔类建筑开发(|cffffcc00W|r)
+}
+
+STRING 1474
+// 科技: R018 (防御), Ubertip (提示工具 - 扩展)
+{
+人类塔类防御建筑的研究所
+}
+
+STRING 1476
+// 科技: R019 (防御), Name (名字)
+{
+高级兵种开发
+}
+
+STRING 1477
+// 科技: R019 (防御), Tip (提示工具)
+{
+研究高级兵种开发(|cffffcc00Q|r)
+}
+
+STRING 1478
+// 科技: R019 (防御), Ubertip (提示工具 - 扩展)
+{
+人类更强壮的兵种的研究所
+}
+
+STRING 1479
+// 科技: R00F (防御), Hotkey (热键)
+{
+F
+}
+
+STRING 1480
+// 科技: R01A (防御), Name (名字)
+{
+矿场资源
+}
+
+STRING 1481
+// 科技: R01A (防御), Tip (提示工具)
+{
+研究矿场资源(|cffffcc00F|r)
+}
+
+STRING 1482
+// 科技: R01A (防御), Ubertip (提示工具 - 扩展)
+{
+前期强力的经济产出建筑
+}
+
+STRING 1483
+// 科技: R00T (防御), Hotkey (热键)
+{
+R
+}
+
+STRING 1484
+// 科技: R01B (防御), Name (名字)
+{
+研究强化中心
+}
+
+STRING 1485
+// 科技: R01B (防御), Tip (提示工具)
+{
+研究强化中心(|Cffffcc00R|r)
+}
+
+STRING 1486
+// 科技: R01B (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化人类的作战单位的建筑
+}
+
+STRING 1488
+// 科技: R01C (防御), Name (名字)
+{
+训练女猎手技术
+}
+
+STRING 1489
+// 科技: R01C (防御), Tip (提示工具)
+{
+训练女猎手技术(|Cffffcc00W|r)
+}
+
+STRING 1490
+// 科技: R01C (防御), Ubertip (提示工具 - 扩展)
+{
+远距离攻击单位，对付较小数量的僵尸群有显著效果，移动速度较快。
+}
+
+STRING 1491
+// 科技: R01B (防御), Hotkey (热键)
+{
+R
+}
+
+STRING 1492
+// 技能: A03T (高级自爆), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1493
+// 科技: R01D (防御), Tip (提示工具)
+{
+研究月刃(|Cffffcc00R|r)
+}
+
+STRING 1494
+// 科技: R01D (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化女猎手
+}
+
+STRING 1495
+// 科技: R01E (防御), Name (名字)
+{
+铁水浇筑
+}
+
+STRING 1496
+// 科技: R01E (防御), Tip (提示工具)
+{
+研究铁水浇筑(|Cffffcc00D|r)
+}
+
+STRING 1497
+// 科技: R01E (防御), Ubertip (提示工具 - 扩展)
+{
+使铁墙变得坚不可摧
+}
+
+STRING 1498
+// 科技: R01F (防御), Name (名字)
+{
+地图等级3
+}
+
+STRING 1499
+// 科技: R01F (防御), Tip (提示工具)
+{
+地图等级3
+}
+
+STRING 1500
+// 科技: R01G (防御), Name (名字)
+{
+地图等级6
+}
+
+STRING 1501
+// 科技: R01G (防御), Tip (提示工具)
+{
+地图等级6
+}
+
+STRING 1502
+// 科技: R01H (防御), Name (名字)
+{
+地图等级10
+}
+
+STRING 1503
+// 科技: R01H (防御), Tip (提示工具)
+{
+地图等级10
+}
+
+STRING 1504
+// 科技: R01I (防御), Name (名字)
+{
+地图等级15
+}
+
+STRING 1505
+// 科技: R01I (防御), Tip (提示工具)
+{
+地图等级10
+}
+
+STRING 1506
+// 科技: R01J (防御), Name (名字)
+{
+地图等级20
+}
+
+STRING 1507
+// 科技: R01J (防御), Tip (提示工具)
+{
+地图等级20
+}
+
+STRING 1508
+// 科技: R01K (防御), Name (名字)
+{
+通关 古德尔的平原（最高难度）
+}
+
+STRING 1509
+// 科技: R01K (防御), Tip (提示工具)
+{
+通关 古德尔的平原（最高难度）
+}
+
+STRING 1510
+// 科技: R01L (防御), Name (名字)
+{
+地图等级5级|n - 通关次数大于10次
+}
+
+STRING 1511
+// 科技: R01L (防御), Tip (提示工具)
+{
+地图等级5级|n - 通关次数大于10次
+}
+
+STRING 1512
+// 科技: R01M (防御), Name (名字)
+{
+地图等级3级|n - 杀戮值大于500
+}
+
+STRING 1513
+// 科技: R01M (防御), Tip (提示工具)
+{
+地图等级3级|n - 杀戮值大于500
+}
+
+STRING 1514
+// 科技: R01N (防御), Name (名字)
+{
+地图等级12
+}
+
+STRING 1515
+// 科技: R01N (防御), Tip (提示工具)
+{
+地图等级12
+}
+
+STRING 1516
+// 科技: R01O (防御), Name (名字)
+{
+地图等级18
+}
+
+STRING 1517
+// 科技: R01O (防御), Tip (提示工具)
+{
+地图等级18
+}
+
+STRING 1518
+// 科技: R01P (防御), Name (名字)
+{
+地图等级5级|n - MVP大于10
+}
+
+STRING 1519
+// 科技: R01P (防御), Tip (提示工具)
+{
+地图等级5级|n - MVP大于10
+}
+
+STRING 1520
+// 科技: R01Q (防御), Name (名字)
+{
+地图等级24
+}
+
+STRING 1521
+// 科技: R01Q (防御), Tip (提示工具)
+{
+地图等级24
+}
+
+STRING 1522
+// 科技: R01R (防御), Name (名字)
+{
+地图等级28
+}
+
+STRING 1523
+// 科技: R01R (防御), Tip (提示工具)
+{
+地图等级28
+}
+
+STRING 1524
+// 科技: R01S (防御), Name (名字)
+{
+地图等级32
+}
+
+STRING 1525
+// 科技: R01S (防御), Tip (提示工具)
+{
+地图等级32
+}
+
+STRING 1526
+// 科技: R01T (防御), Name (名字)
+{
+地图等级36
+}
+
+STRING 1527
+// 科技: R01T (防御), Tip (提示工具)
+{
+地图等级36
+}
+
+STRING 1528
+// 科技: R01U (防御), Name (名字)
+{
+地图等级40
+}
+
+STRING 1529
+// 科技: R01U (防御), Tip (提示工具)
+{
+地图等级40
+}
+
+STRING 1530
+// 科技: R01D (防御), Hotkey (热键)
+{
+R
+}
+
+STRING 1531
+// 科技: R01V (防御), Name (名字)
+{
+能量塔Lv3
+}
+
+STRING 1532
+// 科技: R01V (防御), Tip (提示工具)
+{
+研究能量塔Lv3(|Cffffcc00R|r)
+}
+
+STRING 1533
+// 科技: R01V (防御), Ubertip (提示工具 - 扩展)
+{
+可以建造更强大的能量塔
+}
+
+STRING 1534
+// 科技: R013 (防御), Hotkey (热键)
+{
+F
+}
+
+STRING 1535
+// 科技: R01W (防御), Name (名字)
+{
+能量风暴
+}
+
+STRING 1536
+// 科技: R01W (防御), Tip (提示工具)
+{
+研究能量风暴(|Cffffcc00F|r)
+}
+
+STRING 1537
+// 科技: R01W (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化能量塔
+}
+
+STRING 1538
+// 科技: R01X (防御), Name (名字)
+{
+通关任意地图 难度（丧尸汹涌）
+}
+
+STRING 1539
+// 科技: R01X (防御), Tip (提示工具)
+{
+通关任意地图 难度（丧尸汹涌）
+}
+
+STRING 1540
+// 科技: R01Y (防御), Name (名字)
+{
+通关格兰村 难度（丧尸汹涌）
+}
+
+STRING 1541
+// 科技: R01Y (防御), Tip (提示工具)
+{
+通关格兰村 难度（丧尸汹涌）
+}
+
+STRING 1542
+// 科技: R01Y (防御), Ubertip (提示工具 - 扩展)
+{
+为了防止靠bug过关，需要提交录像审核
+}
+
+STRING 1543
+// 科技: R01Z (防御), Name (名字)
+{
+通关格兰村 难度（丧尸狂潮）
+}
+
+STRING 1544
+// 科技: R01Z (防御), Tip (提示工具)
+{
+通关格兰村 难度（丧尸狂潮）
+}
+
+STRING 1545
+// 科技: R01Z (防御), Ubertip (提示工具 - 扩展)
+{
+为了防止靠bug过关，需要提交录像审核
+}
+
+STRING 1546
+// 科技: R020 (防御), Name (名字)
+{
+通关任意地图 难度（丧尸狂潮）
+}
+
+STRING 1547
+// 科技: R020 (防御), Tip (提示工具)
+{
+通关任意地图 难度（丧尸狂潮）
+}
+
+STRING 1548
+// 科技: R021 (防御), Name (名字)
+{
+通关任意地图 难度（平安岁月）
+}
+
+STRING 1549
+// 科技: R021 (防御), Tip (提示工具)
+{
+通关任意地图 难度（平安岁月）
+}
+
+STRING 1550
+// 科技: R022 (防御), Name (名字)
+{
+暂未开放
+}
+
+STRING 1551
+// 科技: R022 (防御), Tip (提示工具)
+{
+暂未开放
+}
+
+STRING 1552
+// 科技: R023 (防御), Name (名字)
+{
+黎明小镇生存80天 难度（丧尸汹涌）
+}
+
+STRING 1553
+// 科技: R023 (防御), Tip (提示工具)
+{
+黎明小镇生存80天 难度（丧尸汹涌）
+}
+
+STRING 1554
+// 科技: R024 (防御), Name (名字)
+{
+黎明小镇生存80天 难度（丧尸狂潮）
+}
+
+STRING 1555
+// 科技: R024 (防御), Tip (提示工具)
+{
+黎明小镇生存80天 难度（丧尸狂潮）
+}
+
+STRING 1556
+// 科技: R025 (防御), Name (名字)
+{
+迷失森林生存80天 难度（丧尸狂潮）
+}
+
+STRING 1557
+// 科技: R025 (防御), Tip (提示工具)
+{
+迷失森林生存80天 难度（丧尸狂潮）
+}
+
+STRING 1558
+// 科技: R01V (防御), Hotkey (热键)
+{
+R
+}
+
+STRING 1559
+// 科技: R026 (防御), Name (名字)
+{
+研究懒人铁墙技术
+}
+
+STRING 1560
+// 科技: R026 (防御), Tip (提示工具)
+{
+研究懒人铁墙技术(|Cffffcc00R|r)
+}
+
+STRING 1561
+// 科技: R026 (防御), Ubertip (提示工具 - 扩展)
+{
+可快速建造钢铁矮墙
+}
+
+STRING 1562
+// 科技: R027 (防御), Name (名字)
+{
+迷失森林生存80天 难度（丧尸汹涌）
+}
+
+STRING 1563
+// 科技: R027 (防御), Tip (提示工具)
+{
+迷失森林生存80天 难度（丧尸汹涌）
+}
+
+STRING 1564
+// 科技: R028 (防御), Name (名字)
+{
+地图等级排名前100
+}
+
+STRING 1565
+// 科技: R028 (防御), Tip (提示工具)
+{
+地图等级排名前100
+}
+
+STRING 1566
+{
+种类： |Cffffcc00普通|R
+}
+
+STRING 1567
+{
+简易的护甲
+}
+
+STRING 1568
+{
+破烂的护甲，但对僵尸有极强吸引力
+}
+
+STRING 1569
+{
+破烂的护甲，但对僵尸有极强吸引力
+}
+
+STRING 1570
+{
+|Cff99E5FF温馨提示：|r|Cff4d7aff出于对地图优化考虑，10天后自动关闭僵尸飘血特效，如有需要。可以通过指令-effon 和 -effoff 进行开关|r
+}
+
+STRING 1571
+// 单位: h02L (|CffFF80C0蜘蛛机器人|r), Tip (提示工具 - 基础)
+{
+|CffFF80C0钢铁侠|r(|Cffffcc00D|r)
+}
+
+STRING 1572
+// 单位: h02M (|CffFFA8FFT1机器人|r), Tip (提示工具 - 基础)
+{
+|CffFFA8FFT1机器人|r(|Cffffcc00A|r)
+}
+
+STRING 1573
+// 单位: h02N (|CffFF80C0双足机器人|r), Tip (提示工具 - 基础)
+{
+|CffFF80C0双足机器人|r(|Cffffcc00F|r)
+}
+
+STRING 1574
+// 单位: h02O (|CffFFA8FFT2机器人|r), Tip (提示工具 - 基础)
+{
+|CffFFA8FFT2机器人|r(|Cffffcc00S|r)
+}
+
+STRING 1575
+// 单位: h04E (|CffFF8000矮钢铁墙（横）|r), Hotkey (热键)
+{
+D
+}
+
+STRING 1576
+// 科技: R00S (防御), Tip (提示工具)
+{
+训练钢铁侠技术(|Cffffcc00E|r)
+}
+
+STRING 1577
+// 科技: R00T (防御), Tip (提示工具)
+{
+训练双足机器人技术(|Cffffcc00R|r)
+}
+
+STRING 1580
+// 科技: R01A (防御), Hotkey (热键)
+{
+F
+}
+
+STRING 1581
+{
+|CffFFFF26 +1|r
+}
+
+STRING 1582
+{
+丧尸围城
+}
+
+STRING 1583
+{
+6人
+}
+
+STRING 1584
+{
+没有说明
+}
+
+STRING 1585
+{
+author:suo
+}
+
+STRING 1589
+// 技能: A03P (|Cff2693FF月之守护|r), Name (名字)
+{
+|Cff2693FF月之守护|r
+}
+
+STRING 1593
+// 科技: R029 (防御), Name (名字)
+{
+集齐 300个月饼（中秋活动）
+}
+
+STRING 1594
+// 科技: R029 (防御), Tip (提示工具)
+{
+集齐 300个月饼（中秋活动）
+}
+
+STRING 1595
+// 单位: h01V (被感染的警察), Name (名字)
+{
+被感染的警察
+}
+
+STRING 1596
+// 单位: H04O (幸存者（可达鸭）), Name (名字)
+{
+幸存者（可达鸭）
+}
+
+STRING 1597
+// 单位: H04O (幸存者（可达鸭）), Propernames (称谓)
+{
+铁憨憨
+}
+
+STRING 1598
+// 单位: H04V (幸存者（懒羊羊）), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 1599
+// 单位: H04V (幸存者（懒羊羊）), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 1600
+// 技能: A03A (士兵（默认）), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1601
+// 单位: h01W (僵尸骷髅), Name (名字)
+{
+僵尸骷髅
+}
+
+STRING 1602
+// 单位: h04P (月兔（中秋活动）), Name (名字)
+{
+月兔（中秋活动）
+}
+
+STRING 1603
+// 技能: A03P (|Cff2693FF月之守护|r), Tip (提示工具 - 普通)
+{
+|Cff2693FF月之守护|r
+}
+
+STRING 1604
+// 技能: A03P (|Cff2693FF月之守护|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角光环至|Cff2693ff（月之守护）|r
+}
+
+STRING 1606
+// 单位: h04Q (废弃的能源中心|Cffff0000（我死了游戏失败）|r), Tip (提示工具 - 基础)
+{
+强化研究所(|Cffffcc00R|r)
+}
+
+STRING 1607
+// 单位: h04Q (废弃的能源中心|Cffff0000（我死了游戏失败）|r), Ubertip (提示工具 - 扩展)
+{
+可以强化大部分作战单位
+}
+
+STRING 1608
+// 科技: R026 (防御), Hotkey (热键)
+{
+R
+}
+
+STRING 1610
+{
+|CffFF2626警告：僵尸呼叫空中支援,僵尸飞艇正在袭来！小地图将标识出位置！|r
+}
+
+STRING 1612
+{
+营救倒计时：
+}
+
+STRING 1614
+{
+游戏说明
+}
+
+STRING 1615
+{
+|Cff00D900胜利条件：存活80天或拆完场上所有僵尸建筑|r|Cff00e080
+|r|Cffff0000失败条件：幸存者或主城死亡。|n|r|n|Cffff00ff温馨提示：驻兵塔是前期有效防御僵尸强力建筑（快捷键：VA），本作为难度较高配合僵尸生存图。所有的快捷键都对应图标位置（qwer、asdf、zxcv），所有升级快捷键都是T，善于使用快捷键将更易吊打僵尸。|n一些Tips：每10天会迎来一次僵尸尸潮，越是后期越是猛烈，（n2开始）僵尸会有1%变异，60天后会出现僵尸boss单位（击杀后获得大量赏金），请注意防守。|r|n|Cffff7373
+|r|Cffff8000简介：世界已经被僵尸病毒迅速传染，只剩下一小部分人类生存，而玩家的目的就是要控制剩余的幸存者，建立起殖民地，发展出良好的武器装备，用来护卫住自己的生存环境。|r
+}
+
+STRING 1616
+{
+游戏指令
+}
+
+STRING 1617
+{
+|CffFF80001、++，+和- -，-可以调整视距
+2、主机输入 -blood1，-blood2，-blood3 可以修改僵尸飘血特效
+3、-tr 可以发起踢人投票（每人只有一次机会）|r
+}
+
+STRING 1618
+{
+队形开关
+}
+
+STRING 1619
+{
+|CffFF8000小地图右侧最后一个按钮可以开关队形。（Alt+F）|r
+}
+
+STRING 1620
+{
+特别鸣谢
+}
+
+STRING 1621
+{
+|CffFF7373特|r|Cfff9746a别|r|Cfff37561鸣|r|Cffed7758谢|r|Cffe7784f：|r|Cffe17946余|r|Cffdb7b3d生|r|Cffd57c35、|r|Cffcf7e2c毒|r|Cffc97f23奶|r|Cffc3801a大|r|Cffbd8211鸽|r|Cffb78308鸽|n|r|n|Cff73ffff鸣|r|Cff74fbf8谢|r|Cff76f8f1：|r|Cff77f5eb奇|r|Cff79f2e4迹|r|Cff7befde出|r|Cff7cecd7现|r|Cff7ee9d1、|r|Cff7fe5ca高|r|Cff81e2c4冷|r|Cff83dfbd男|r|Cff84dcb7神|r|Cff86d9b0炎|r|Cff88d6aa、|r|Cff89d3a3三|r|Cff8bd09c月|r|Cff8ccc96、|r|Cff8ec98f竹|r|Cff90c689挽|r|Cff91c382、|r|Cff93c07cS|r|Cff94bd75h|r|Cff96ba6fi|r|Cff98b768r|r|Cff99b362l|r|Cff9bb05be|r|Cff9dad55y|r|Cff9eaa4e莹|r|Cffa1a441。|r
+}
+
+STRING 1622
+{
+QQ群号
+}
+
+STRING 1623
+{
+|Cff73FFFFQ|r|Cff79eeffQ|r|Cff80ddff群|r|Cff86ccff：|r|Cff8dbcff5|r|Cff94abff9|r|Cff9a9aff0|r|Cffa18aff0|r|Cffa779ff8|r|Cffae68ff9|r|Cffb558ff0|r|Cffbb47ff1|r|Cffc236ff2|r
+}
+
+STRING 1624
+{
+关于踢人
+}
+
+STRING 1625
+{
+|Cff73FFFF发现故意捣乱的人，可以输入-tr指令发起踢人投票（每人只有一次发起踢人投票的机会），若某玩家票数超过玩家人数半数，直接踢出游戏！|r
+}
+
+STRING 1626
+// 单位: u00E (僵尸武装飞艇), Name (名字)
+{
+僵尸武装飞艇
+}
+
+STRING 1627
+// 单位: h04R (迅捷的僵尸战舰), Name (名字)
+{
+迅捷的僵尸战舰
+}
+
+STRING 1628
+// 单位: h04S (不死的僵尸战舰), Name (名字)
+{
+不死的僵尸战舰
+}
+
+STRING 1632
+// 技能: A03B (士兵|Cffff0000（马里恩）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1634
+// 技能: A00M (|CffFF0000红色闪电|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+对非建筑目标造成1000点真实伤害
+}
+
+STRING 1638
+// 科技: R02A (防御), Name (名字)
+{
+修复能源中心
+}
+
+STRING 1639
+// 科技: R02A (防御), Tip (提示工具)
+{
+修复能源中心
+}
+
+STRING 1640
+{
+|CffFF8000系统：|r左下方的村庄处，涌现出大量的村民，请各位玩家速速前去保护他们！|CffFF2626（任务失败将会有沉痛的惩罚）|r
+}
+
+STRING 1641
+// 单位: h04T (|Cff403000黑贞|r), Name (名字)
+{
+|Cff403000黑贞|r
+}
+
+STRING 1642
+// 单位: h04T (|Cff403000黑贞|r), Tip (提示工具 - 基础)
+{
+|CffFF8000Arutoria Pendoragon|r
+}
+
+STRING 1643
+// 单位: h04T (|Cff403000黑贞|r), Ubertip (提示工具 - 扩展)
+{
+|Cff7AFF4D求求你做个人吧|r
+}
+
+STRING 1644
+// 单位: h04U (|CffFF8000自爆工兵|r), Name (名字)
+{
+|CffFF8000自爆工兵|r
+}
+
+STRING 1646
+// 单位: h04U (|CffFF8000自爆工兵|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000送死流单位|r|n1、超强的送死能力|n2、自爆时对僵尸造成高额的智力打击
+}
+
+STRING 1648
+// 技能: A03R (|CffFF5C26自爆|r), Name (名字)
+{
+|CffFF5C26自爆|r
+}
+
+STRING 1651
+// 科技: R002 (防御), Hotkey (热键)
+{
+X
+}
+
+STRING 1653
+// 技能: A03C (喷火兵（默认）), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1654
+// 科技: R00S (防御), Hotkey (热键)
+{
+E
+}
+
+STRING 1655
+// 科技: R02B (防御), Name (名字)
+{
+训练自爆工兵技术
+}
+
+STRING 1657
+// 科技: R02B (防御), Ubertip (提示工具 - 扩展)
+{
+送死流单位，除了送就是送
+}
+
+STRING 1659
+// 单位: h04U (|CffFF8000自爆工兵|r), Hotkey (热键)
+{
+C
+}
+
+STRING 1660
+// 单位: h04U (|CffFF8000自爆工兵|r), Tip (提示工具 - 基础)
+{
+|CffFF8000自爆工兵|r(|Cffffcc00C|r)
+}
+
+STRING 1661
+// 技能: A00M (|CffFF0000红色闪电|r), Name (名字)
+{
+|CffFF0000红色闪电|r
+}
+
+STRING 1662
+// 技能: A00M (|CffFF0000红色闪电|r), Tip (提示工具 - 普通)
+{
+|CffFF0000红色闪电|r(|Cffffcc00Q|r)|n
+}
+
+STRING 1664
+// 技能: A03R (|CffFF5C26自爆|r), Tip (提示工具 - 普通)
+{
+|CffFF5C26自爆|r(|Cffffcc00Q|r)|n
+}
+
+STRING 1665
+// 技能: A03D (喷火兵|Cff002db2（空间邪恶兽）|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1667
+// 单位: h04Q (废弃的能源中心|Cffff0000（我死了游戏失败）|r), Name (名字)
+{
+废弃的能源中心|Cffff0000（我死了游戏失败）|r
+}
+
+STRING 1668
+{
+激活主角皮肤可达鸭！
+}
+
+STRING 1669
+// 技能: A002 (冰霜新星Lv1), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000冰塔每次伤害目标时都会给目标上一层buff，buff层数到达|r|Cffff000012|r|Cffff8000层数时，会爆发冰霜新星，对400码所有敌方单位的造成|r|Cffff0000150|r|Cffff8000点真实伤害|r
+}
+
+STRING 1671
+// 技能: A01E (冰霜新星Lv2), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000冰塔每次伤害目标时都会给目标上一层buff，buff层数到达|r|Cffff000012|r|Cffff8000层数时，会爆发冰霜新星，对半径400码所有敌方单位的造成|r|Cffff0000400|r|Cffff8000点真实伤害|r
+}
+
+STRING 1676
+{
+人类修复能源中心，移除无敌保护，收取所有玩家  和 |Cff00ff00 300木头|r 和 |Cffffcc00 300黄金|r费用，解锁技能|Cffff0000红色闪电|r。请务必保护好能源中心，能源中心被摧毁，即为|Cffff0000游戏失败！|r
+}
+
+STRING 1677
+{
+|CffFF0000有玩家金币或木头不足！无法修复！|r
+}
+
+STRING 1678
+// 技能: A03S (|Cff2693FF净化|r), Name (名字)
+{
+|Cff2693FF净化|r
+}
+
+STRING 1679
+// 技能: A03S (|Cff2693FF净化|r), Tip (提示工具 - 普通)
+{
+|Cff2693FF净化|r(|Cffffcc00W|r)|n
+}
+
+STRING 1680
+// 技能: A03S (|Cff2693FF净化|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+可以对|Cff00d936变异的僵尸|r造成当前生命值一半的伤害
+}
+
+STRING 1681
+// 技能: A044 (|Cff00B200群体纠缠根须|r), Hotkey (热键 - 普通)
+{
+W
+}
+
+STRING 1682
+// 技能: A03T (高级自爆), Name (名字)
+{
+高级自爆
+}
+
+STRING 1683
+// 技能: A03T (高级自爆), Tip (提示工具 - 普通)
+{
+高级自爆
+}
+
+STRING 1685
+// 技能: A03Z (|Cff0078D7暗夜|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1686
+// 技能: A03H (|Cff008C23生机盎然|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1687
+// 科技: R02C (防御), Name (名字)
+{
+高级自爆
+}
+
+STRING 1688
+// 科技: R02C (防御), Tip (提示工具)
+{
+研究高级自爆(|Cffffcc00Q|r)
+}
+
+STRING 1689
+// 科技: R02C (防御), Ubertip (提示工具 - 扩展)
+{
+可以强化自爆工兵
+}
+
+STRING 1695
+{
+未能挡住僵尸的进攻，游戏失败！请继续努力！
+}
+
+STRING 1700
+// 科技: R02D (防御), EditorSuffix (编辑器后缀)
+{
+星空元素
+}
+
+STRING 1701
+{
+未能保护人类的能源中心，游戏失败！请继续努力！
+}
+
+STRING 1704
+{
+|CffFF9326提示：该地形为特殊地形。|r
+|Cff00d9001、人口上限默认为250，摧毁僵尸的禁忌熔炉可以增加最大人口上限|r
+|Cffffd24d2、每20天会触发保护村民任务，任务失败将会有惩罚|r
+}
+
+STRING 1705
+{
+|CffFF26263、每5天会有僵尸船前来入侵，每10天会有僵尸飞艇，
+保护好能源中心，能源中心被摧毁游戏失败，n2开始僵尸房会进入暴怒状态
+挨打图，切莫做孤狼。|r
+}
+
+STRING 1706
+{
+|CffFF8000系统：注意！30天开始僵尸军团将派出大量的胖子僵尸，难度将大幅度提升！请提前做好防御！|r
+}
+
+STRING 1707
+{
+|CffFF8000系统：注意！30天将强制解除能源中心无敌保护！请注意防守！|r
+}
+
+STRING 1708
+// 技能: A03Q (|CffFFFF26能源开启|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+ - 需要花费所有玩家 |Cffffff00300金币|r和 |Cff00d936300木头|n|r修复能源中心后，可以解锁新的技能。但是同时会移除能源中心的无敌保护，|Cffff0000能源中心被摧毁，游戏即为失败。|r|n|Cffff5c2630天强制解除无敌保护。|r
+}
+
+STRING 1710
+// 科技: R02D (防御), Name (名字)
+{
+已经绝版
+}
+
+STRING 1711
+// 科技: R02D (防御), Tip (提示工具)
+{
+已经绝版
+}
+
+STRING 1713
+{
+作者：恭喜通关!激活幸存者皮肤|CffFFFF99五|r|Cffffbf72河|r|Cffff7f4c琴|r|Cffff3f26里|r!
+}
+
+STRING 1714
+{
+作者：恭喜通关!激活幸存者皮肤|Cff4DD2FF四系乃|r!
+}
+
+STRING 1715
+{
+作者：恭喜通关!激活皮肤|Cffff0000高级火塔(灰烬之炎)!|r
+}
+
+STRING 1718
+// 技能: A03U (|Cff99E5FF星之守护（光）|r), Name (名字)
+{
+|Cff99E5FF星之守护（光）|r
+}
+
+STRING 1719
+// 技能: A03U (|Cff99E5FF星之守护（光）|r), Tip (提示工具 - 普通)
+{
+|Cff99E5FF星之守护（光）|r
+}
+
+STRING 1720
+// 技能: A03U (|Cff99E5FF星之守护（光）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角光环至|Cff99e5ff星之守护（光）|r
+}
+
+STRING 1721
+// 技能: A03V (|Cff8C2300星之守护（暗）|r), Name (名字)
+{
+|Cff8C2300星之守护（暗）|r
+}
+
+STRING 1722
+// 技能: A03V (|Cff8C2300星之守护（暗）|r), Tip (提示工具 - 普通)
+{
+|Cff8C2300星之守护（暗）|r
+}
+
+STRING 1723
+// 技能: A03V (|Cff8C2300星之守护（暗）|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角光环至|Cff8c2300星之守护（暗）|r
+}
+
+STRING 1728
+// 技能: A01S (定点狙击), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000狙击兵 攻击提升10，攻击距离提升200，击退距离提升20，攻击间隔减少0.3s。|r
+}
+
+STRING 1729
+// 技能: A03R (|CffFF5C26自爆|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF5C26立即自爆。|n|r|Cffffff73对450码内的非建筑单位造成500的真实伤害。|n对450码内建筑单位造成250点的伤害，但自爆不会建筑血量使建筑血量低于100。（简单的说就是无法炸毁建筑单位）|r
+}
+
+STRING 1730
+// 技能: A03T (高级自爆), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFFFF73自爆只会对自己造成400点真实伤害|r
+}
+
+STRING 1731
+// 技能: A03Q (|CffFFFF26能源开启|r), Name (名字)
+{
+|CffFFFF26能源开启|r
+}
+
+STRING 1732
+// 技能: A03Q (|CffFFFF26能源开启|r), Tip (提示工具 - 普通)
+{
+|CffFFFF26能源开启|r(|Cffffcc00Q|r)|n
+}
+
+STRING 1733
+// 技能: A03W (|Cff00D936修复能源|r), Name (名字)
+{
+|Cff00D936修复能源|r
+}
+
+STRING 1734
+// 技能: A03W (|Cff00D936修复能源|r), Tip (提示工具 - 普通)
+{
+|Cff00D936修复能源|r(|Cffffcc00E|r)|n
+}
+
+STRING 1735
+// 技能: A03W (|Cff00D936修复能源|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+可以使能源中心恢复1000生命
+}
+
+STRING 1736
+// 技能: A03X (|CffFF73FF能源再生|r), Name (名字)
+{
+|CffFF73FF能源再生|r
+}
+
+STRING 1737
+// 技能: A03X (|CffFF73FF能源再生|r), Tip (提示工具 - 普通)
+{
+|CffFF73FF能源再生|r(|Cffffcc00R|r)|n
+}
+
+STRING 1738
+// 技能: A03X (|CffFF73FF能源再生|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+所有玩家增加|Cffffff73100金钱|r和|Cff00d936100木头|r
+}
+
+STRING 1741
+// 技能: A036 (|CffD90000数|r|Cffe23f13据|r|Cffec7f26存|r|Cfff5bf39档|r), Name (名字)
+{
+|CffD90000数|r|Cffe23f13据|r|Cffec7f26存|r|Cfff5bf39档|r
+}
+
+STRING 1742
+// 技能: A036 (|CffD90000数|r|Cffe23f13据|r|Cffec7f26存|r|Cfff5bf39档|r), Tip (提示工具 - 普通)
+{
+|CffD90000数|r|Cffe23f13据|r|Cffec7f26存|r|Cfff5bf39档|r
+}
+
+STRING 1743
+// 技能: A036 (|CffD90000数|r|Cffe23f13据|r|Cffec7f26存|r|Cfff5bf39档|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFFFF73兵种主角皮肤，建筑特效，翅膀光环等存档数据|r
+}
+
+STRING 1744
+// 技能: A03O (|CffFFFF73光环|r), Name (名字)
+{
+|CffFFFF73光环|r
+}
+
+STRING 1745
+// 技能: A03O (|CffFFFF73光环|r), Tip (提示工具 - 普通)
+{
+|CffFFFF73光环|r
+}
+
+STRING 1746
+// 技能: A03O (|CffFFFF73光环|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+点击切换|Cffffff73光环|r
+}
+
+STRING 1747
+// 科技: R00M (防御), Hotkey (热键)
+{
+X
+}
+
+STRING 1748
+// 科技: R02B (防御), Tip (提示工具)
+{
+训练自爆工兵技术(|Cffffcc00X|r)
+}
+
+STRING 1749
+{
+激活主角皮肤血小板！
+}
+
+STRING 1750
+// 单位: H04V (幸存者（懒羊羊）), Name (名字)
+{
+幸存者（懒羊羊）
+}
+
+STRING 1751
+// 单位: H04V (幸存者（懒羊羊）), Propernames (称谓)
+{
+懒憨憨
+}
+
+STRING 1752
+// 单位: H04W (幸存者|Cff2693ff（蕾姆）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 1753
+// 单位: H04W (幸存者|Cff2693ff（蕾姆）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 1754
+// 单位: H04W (幸存者|Cff2693ff（蕾姆）|r), Name (名字)
+{
+幸存者|Cff2693ff（蕾姆）|r
+}
+
+STRING 1756
+// 单位: H04X (幸存者|Cffff0000（血小板）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 1757
+// 单位: H04X (幸存者|Cffff0000（血小板）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 1758
+// 单位: H04X (幸存者|Cffff0000（血小板）|r), Name (名字)
+{
+幸存者|Cffff0000（血小板）|r
+}
+
+STRING 1760
+// 单位: H04Y (幸存者|Cff00bfff（水银灯）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 1761
+// 单位: H04Y (幸存者|Cff00bfff（水银灯）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 1762
+// 技能: A03Q (|CffFFFF26能源开启|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1763
+// 技能: A03R (|CffFF5C26自爆|r), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1764
+// 技能: S002 (入驻), Hotkey (热键 - 普通)
+{
+Q
+}
+
+STRING 1765
+// 单位: H04Y (幸存者|Cff00bfff（水银灯）|r), Name (名字)
+{
+幸存者|Cff00bfff（水银灯）|r
+}
+
+STRING 1767
+// 单位: H050 (幸存者|Cff00b200（简隐月子）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 1768
+// 单位: H050 (幸存者|Cff00b200（简隐月子）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 1769
+// 科技: R004 (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1770
+// 科技: R015 (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1772
+{
+|CffFF8000系统：|r|Cff99b3ff主机开启了挂机模式！系统已给所有玩家木钱满上，7小时后自动退出游戏|r
+}
+
+STRING 1773
+{
+|CffFF8000系统：|r|Cffff0000非准备阶段此指令无效！|r
+}
+
+STRING 1775
+// 科技: R00F (防御), Tip (提示工具)
+{
+研究能量塔Lv2(|Cffffcc00F|r)
+}
+
+STRING 1776
+// 科技: R00K (防御), Tip (提示工具)
+{
+研究机枪塔(|Cffffcc00Z|r)
+}
+
+STRING 1777
+// 科技: R01W (防御), Hotkey (热键)
+{
+F
+}
+
+STRING 1778
+// 科技: R00O (防御), Tip (提示工具)
+{
+高级兵工厂技术(|Cffffcc00Z|r)
+}
+
+STRING 1779
+// 科技: R00P (防御), Tip (提示工具)
+{
+研究氪金工厂(|cffffcc00X|r)
+}
+
+STRING 1780
+// 科技: R017 (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1781
+// 科技: R00P (防御), Hotkey (热键)
+{
+X
+}
+
+STRING 1782
+{
+开始Debug！
+}
+
+STRING 1783
+{
+关闭Debug！
+}
+
+STRING 1784
+// 单位: H04W (幸存者|Cff2693ff（蕾姆）|r), Propernames (称谓)
+{
+|Cff00BFFFRem|r
+}
+
+STRING 1785
+// 单位: H04X (幸存者|Cffff0000（血小板）|r), Propernames (称谓)
+{
+Platelet
+}
+
+STRING 1786
+// 单位: H04Y (幸存者|Cff00bfff（水银灯）|r), Propernames (称谓)
+{
+|Cff8C2300蔷薇少女|r
+}
+
+STRING 1787
+// 单位: H04J (幸存者|Cffe599ff（艾米莉亚）|r), Propernames (称谓)
+{
+|Cffe599ff银发紫瞳|r的半精灵
+}
+
+STRING 1788
+// 技能: A03Y (|Cff2693FF雷霆|r|Cffff8000万钧|r), Name (名字)
+{
+|Cff2693FF雷霆|r|Cffff8000万钧|r
+}
+
+STRING 1789
+// 技能: A03Y (|Cff2693FF雷霆|r|Cffff8000万钧|r), Tip (提示工具 - 普通)
+{
+|Cff2693FF雷霆|r|Cffff8000万钧|r
+}
+
+STRING 1790
+// 技能: A03Y (|Cff2693FF雷霆|r|Cffff8000万钧|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换主角光环至|Cff2693ff雷霆|r|Cffff8000万钧|r|Cff8c2300
+|n|r|Cff757584-巫峡中宵动,沧江十月雷|r
+}
+
+STRING 1791
+// 单位: h04G (|CffFF8000小猪哥哥|r), Name (名字)
+{
+|CffFF8000小猪哥哥|r
+}
+
+STRING 1792
+// 单位: h04G (|CffFF8000小猪哥哥|r), Tip (提示工具 - 基础)
+{
+|CffFF8000小猪哥哥|r(|Cffffcc00X|r)
+}
+
+STRING 1793
+// 单位: h04Z (|CffFF8000Z机甲|r), Name (名字)
+{
+|CffFF8000Z机甲|r
+}
+
+STRING 1794
+// 单位: h04Z (|CffFF8000Z机甲|r), Tip (提示工具 - 基础)
+{
+|CffFF8000Z机甲|r(|Cffffcc00X|r)
+}
+
+STRING 1795
+// 单位: h04Z (|CffFF8000Z机甲|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高级作战单位|r|n1、超强的回复能力|n2、强大的攻击力，高血量和护甲。|n|Cfff0f0f04、作战能力优秀，在肉搏战里有不俗的表现|r
+}
+
+STRING 1796
+// 科技: R00X (防御), Hotkey (热键)
+{
+X
+}
+
+STRING 1797
+// 单位: H050 (幸存者|Cff00b200（简隐月子）|r), Name (名字)
+{
+幸存者|Cff00b200（简隐月子）|r
+}
+
+STRING 1798
+// 单位: H050 (幸存者|Cff00b200（简隐月子）|r), Propernames (称谓)
+{
+|Cff00B200不笑猫|r
+}
+
+STRING 1799
+// 单位: H052 (幸存者|Cffffff00（X毛）|r), Tip (提示工具 - 基础)
+{
+|Cff00FFFF幸存者|r
+}
+
+STRING 1800
+// 单位: H052 (幸存者|Cffffff00（X毛）|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000玩家的主角|r
+}
+
+STRING 1801
+// 单位: h051 (士兵（星际战士）), Name (名字)
+{
+士兵（星际战士）
+}
+
+STRING 1802
+// 单位: h051 (士兵（星际战士）), Tip (提示工具 - 基础)
+{
+士兵（星际战士）(|Cffffcc00W|r)
+}
+
+STRING 1803
+// 单位: h051 (士兵（星际战士）), Ubertip (提示工具 - 扩展)
+{
+|CffF0F0F0基础作战单位|r|n1、拥有外壳装甲，血量与攻击力得到提升|n2、前期实用性最高的兵种
+}
+
+STRING 1804
+// 科技: R00B (防御), Hotkey (热键)
+{
+W
+}
+
+STRING 1805
+// 科技: R008 (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1806
+// 单位: H052 (幸存者|Cffffff00（X毛）|r), Name (名字)
+{
+幸存者|Cffffff00（X毛）|r
+}
+
+STRING 1807
+// 单位: H052 (幸存者|Cffffff00（X毛）|r), Propernames (称谓)
+{
+|CffFFFF00迷之女主角X|r
+}
+
+STRING 1810
+// 科技: R00A (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1811
+// 科技: R02E (防御), Hotkey (热键)
+{
+C
+}
+
+STRING 1814
+// 科技: R02E (防御), Ubertip (提示工具 - 扩展)
+{
+|CffFF8000高级电塔 每条闪电链会对目标250码周围造成200范围伤害。|r
+}
+
+STRING 1815
+// 单位: h02R (八方风雨 - |Cff4d7aff永夜的寒冬|r), Name (名字)
+{
+八方风雨 - |Cff4d7aff永夜的寒冬|r
+}
+
+STRING 1816
+// 单位: h02Y (八方风雨 - |Cffff73ff艾塔乌斯的永恒观星塔|r), Name (名字)
+{
+八方风雨 - |Cffff73ff艾塔乌斯的永恒观星塔|r
+}
+
+STRING 1817
+// 技能: A01I (|Cff4D7AFF永夜的寒冬|r), Name (名字)
+{
+|Cff4D7AFF永夜的寒冬|r
+}
+
+STRING 1820
+// 技能: A01I (|Cff4D7AFF永夜的寒冬|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffF0F0F0召唤出暴风雪，每一波攻击能对一小块区域内的单位造成大量伤害|r|Cffff8000
+|r|Cffd24dff持续时间：15s|r|Cffff8000
+|r|Cff4da6ffCD:300s|r|Cffff8000
+|r|Cffff7a4d每波伤害：1500|r|Cffff8000
+|r|Cff36d900额外效果：冰塔触发冰霜新星层数永久下调至9|r|n|Cff757584在永夜的寒冬，牵着你的双手，找微光的出口。|r
+}
+
+STRING 1821
+// 技能: A02G (|Cff4D7AFF两鬓染星霜|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+切换建造特效|Cff4d7aff（两鬓染星霜）|n|r|Cff757584西风凉，浸寒窗，又添裳，两鬓染星霜|r
+}
+
+STRING 1822
+// 技能: AEsf (群星坠落), Ubertip (提示工具 - 普通 - 扩展)
+{
+召唤出一阵阵的流星雨，每阵流星雨对敌人造成巨大伤害。|n|Cffd24dff持续时间：20s|r|Cffff8000
+|r|Cff4da6ffCD:300s|r|Cffff8000
+|r|Cffff7a4d每波伤害：2000|r|n|Cff646464迢迢河汉间，有星火坠地如彗锋。|r
+}
+
+STRING 1823
+// 技能: A01I (|Cff4D7AFF永夜的寒冬|r), Tip (提示工具 - 普通)
+{
+|Cff4D7AFF永夜的寒冬|r(|Cffffcc00Q|r)
+}
+
+STRING 1824
+// 技能: A01L (战歌), Name (名字)
+{
+战歌
+}
+
+STRING 1825
+// 技能: A01L (战歌), Tip (提示工具 - 普通)
+{
+战歌(|Cffffcc00Q|r)
+}
+
+STRING 1829
+// 技能: A040 (夜幕), Name (名字)
+{
+夜幕
+}
+
+STRING 1830
+// 技能: A040 (夜幕), Tip (提示工具 - 普通)
+{
+夜幕(|cffffcc00W|r)
+}
+
+STRING 1831
+// 技能: A040 (夜幕), Ubertip (提示工具 - 普通 - 扩展)
+{
+|Cff0078D7将游戏时间调整至午夜24点|r
+}
+
+STRING 1832
+// 科技: R00D (防御), Hotkey (热键)
+{
+W
+}
+
+STRING 1833
+// 技能: A041 (|Cff0078D7月夜狂舞|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1834
+// 单位: h009 (中级发电机), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936使每日收入提高15%|r
+}
+
+STRING 1835
+// 单位: h00I (高级发电机), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936使每日收入提高25%|r
+}
+
+STRING 1836
+// 单位: h053 (|CffFF73FF水晶发电机|r), Hotkey (热键)
+{
+T
+}
+
+STRING 1837
+// 单位: h053 (|CffFF73FF水晶发电机|r), Name (名字)
+{
+|CffFF73FF水晶发电机|r
+}
+
+STRING 1838
+// 单位: h053 (|CffFF73FF水晶发电机|r), Tip (提示工具 - 基础)
+{
+|CffFF73FF水晶发电机|r(|Cffffcc00T|r)
+}
+
+STRING 1839
+// 单位: h053 (|CffFF73FF水晶发电机|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00D936使每日收入提高35%|r
+}
+
+STRING 1840
+// 技能: A03Z (|Cff0078D7暗夜|r), Name (名字)
+{
+|Cff0078D7暗夜|r
+}
+
+STRING 1841
+// 技能: A03Z (|Cff0078D7暗夜|r), Tip (提示工具 - 普通)
+{
+|Cff0078D7暗夜|r
+}
+
+STRING 1842
+// 技能: A03Z (|Cff0078D7暗夜|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|Cff777777该单位在夜晚有极强的恢复能力。|r
+}
+
+STRING 1844
+// 科技: R00X (防御), Tip (提示工具)
+{
+研究|Cffff73ff水晶发电机|r(|Cffffcc00X|r)
+}
+
+STRING 1845
+// 科技: R00X (防御), Ubertip (提示工具 - 扩展)
+{
+|CffFF73FF梦幻般的发电机|r，解锁人类更强大科技。
+}
+
+STRING 1846
+// 科技: R02E (防御), Name (名字)
+{
+|CffFF73FF天雷狂袭|r
+}
+
+STRING 1847
+// 科技: R02E (防御), Tip (提示工具)
+{
+研究|Cffff73ff天雷狂袭|r(|Cffffcc00C|r)
+}
+
+STRING 1848
+// 科技: R02F (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1852
+// 科技: R02B (防御), Hotkey (热键)
+{
+X
+}
+
+STRING 1853
+// 技能: A042 (|CffFF5C26赴汤蹈火|r), Name (名字)
+{
+|CffFF5C26赴汤蹈火|r
+}
+
+STRING 1854
+// 科技: R02G (防御), Tip (提示工具)
+{
+研究|Cffff5c26赴汤蹈火|r(|Cffffcc00X|r)
+}
+
+STRING 1856
+// 技能: A013 (|CffFF5C26火焰增幅|r), Name (名字)
+{
+|CffFF5C26火焰增幅|r
+}
+
+STRING 1857
+// 技能: A013 (|CffFF5C26火焰增幅|r), Tip (提示工具 - 普通)
+{
+|CffFF5C26火焰增幅|r
+}
+
+STRING 1858
+// 技能: A013 (|CffFF5C26火焰增幅|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF8000增伤上限提升至350,每次加深伤害提升至20|r
+}
+
+STRING 1859
+// 技能: A041 (|Cff0078D7月夜狂舞|r), Name (名字)
+{
+|Cff0078D7月夜狂舞|r
+}
+
+STRING 1860
+// 技能: A041 (|Cff0078D7月夜狂舞|r), Tip (提示工具 - 普通)
+{
+|Cff0078D7月夜狂舞|r
+}
+
+STRING 1862
+// 技能: A042 (|CffFF5C26赴汤蹈火|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1863
+// 技能: A042 (|CffFF5C26赴汤蹈火|r), Tip (提示工具 - 普通)
+{
+|CffFF5C26赴汤蹈火|r
+}
+
+STRING 1865
+// 科技: R012 (防御), Name (名字)
+{
+|CffFF5C26火焰增幅|r
+}
+
+STRING 1866
+// 技能: A045 (|CffFF9326万夫不当|r), EditorSuffix (编辑器后缀)
+{
+月刃
+}
+
+STRING 1867
+// 科技: R02F (防御), Name (名字)
+{
+|Cff0078D7月夜狂舞|r
+}
+
+STRING 1868
+// 科技: R02F (防御), Tip (提示工具)
+{
+研究|Cff0078d7月夜狂舞|r(|Cffffcc00Z|r)
+}
+
+STRING 1870
+// 科技: R02G (防御), Name (名字)
+{
+|CffFF5C26赴汤蹈火|r
+}
+
+STRING 1876
+// 科技: R02F (防御), Ubertip (提示工具 - 扩展)
+{
+|Cff0078D7高级冰塔 |n夜晚时分，|r|Cffff5c26攻击速度和攻击距离|r|Cff26c9ff都获得极大的加强|r
+}
+
+STRING 1878
+// 单位: H054 (主城（新）), Name (名字)
+{
+主城（新）
+}
+
+STRING 1879
+// 单位: H054 (主城（新）), Propernames (称谓)
+{
+主基地
+}
+
+STRING 1880
+// 技能: A041 (|Cff0078D7月夜狂舞|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|Cff265CFF夜晚时分，高级冰塔的|r|Cffff5c26攻击速度和攻击距离|r|Cff26c9ff都获得极大的加强|r
+}
+
+STRING 1882
+// 单位: H054 (主城（新）), Ubertip (提示工具 - 扩展)
+{
+人类生存最基本建筑物
+}
+
+STRING 1883
+// 单位: H054 (主城（新）), Tip (提示工具 - 基础)
+{
+建造主城(|Cffffcc00Q|r)
+}
+
+STRING 1884
+// 科技: R00Q (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1885
+// 技能: A042 (|CffFF5C26赴汤蹈火|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFF5C26高级火塔|r|Cffff8000对某个单位火焰增伤抵达上限进行攻击时，有5%几率对周围250码单位附加5层火焰buff。|r
+}
+
+STRING 1886
+// 科技: R02G (防御), Ubertip (提示工具 - 扩展)
+{
+|CffFF5C26高级火塔 |r|Cffff8000火焰增伤上限提升至450，对某个单位火焰增伤抵达上限进行攻击时，有5%几率对周围250码单位附加5层火焰buff。|r
+}
+
+STRING 1888
+// 单位: h02V (八方风雨 - |Cff00b200德鲁伊的翡翠皇冠|r), Name (名字)
+{
+八方风雨 - |Cff00b200德鲁伊的翡翠皇冠|r
+}
+
+STRING 1889
+// 技能: A012 (医疗波), EditorSuffix (编辑器后缀)
+{
+八方
+}
+
+STRING 1890
+// 技能: A012 (医疗波), Ubertip (提示工具 - 普通 - 扩展)
+{
+召唤出一道能跳跃5次的医疗能量波，对首个目标能恢复500点的生命值。每次跳跃都会削弱医疗波的医疗能力。
+}
+
+STRING 1891
+// 技能: A043 (纠缠根须), Ubertip (提示工具 - 普通 - 扩展)
+{
+从地面冒出根须使目标在5秒内不能动弹，并对其造成巨大的伤害。|n|Cffd24dff持续时间：5s|r|Cffff8000
+|r|Cff4da6ffCD:100s|r|Cffff8000
+|r|Cffff7a4d每波伤害：1000|r
+}
+
+STRING 1892
+// 技能: A043 (纠缠根须), Tip (提示工具 - 普通)
+{
+|Cff00B200纠缠根须|r(|Cffffcc00W|r)
+}
+
+STRING 1893
+// 技能: A043 (纠缠根须), EditorSuffix (编辑器后缀)
+{
+八方
+}
+
+STRING 1894
+// 科技: R00R (防御), Hotkey (热键)
+{
+W
+}
+
+STRING 1895
+// 科技: R019 (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1896
+// 单位: u00F (缠绕根须马甲), Name (名字)
+{
+缠绕根须马甲
+}
+
+STRING 1897
+// 技能: A028 (多重射), EditorSuffix (编辑器后缀)
+{
+（女猎手）
+}
+
+STRING 1898
+// 技能: A044 (|Cff00B200群体纠缠根须|r), Name (名字)
+{
+|Cff00B200群体纠缠根须|r
+}
+
+STRING 1899
+// 技能: A044 (|Cff00B200群体纠缠根须|r), Tip (提示工具 - 普通)
+{
+|Cff00B200群体纠缠根须|r(|Cffffcc00W|r)
+}
+
+STRING 1900
+// 技能: A044 (|Cff00B200群体纠缠根须|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+从地面冒出根须使目标在5秒内不能动弹，并对其造成巨大的伤害。|n|Cffd24dff持续时间：5s|r|Cffff8000
+|r|Cff4da6ffCD:100s|r|Cffff8000
+|r|Cffff7a4d每波伤害：1000|r
+}
+
+STRING 1901
+// 科技: R018 (防御), Hotkey (热键)
+{
+W
+}
+
+STRING 1906
+// 科技: R02C (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1909
+// 单位: h055 (|CffFFFF00超级兵工厂|r), Ubertip (提示工具 - 扩展)
+{
+高级军事建筑物|n|Cffd8d800可以产出传说兵种|r
+}
+
+STRING 1911
+// 科技: R01C (防御), Hotkey (热键)
+{
+W
+}
+
+STRING 1912
+// 单位: h01P (|CffFFFF00无畏者|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF2626传说作战单位|r|n1、较高生命值和恢复能力|n2、可以对僵尸造成|Cff00b200群体击退效果|r|Cffd96d00（同一个僵尸击退次数最大40次），对无法击退的单位有额外的技能效果。|n|r2、超高的攻击速度，对僵尸造成致命打击。
+}
+
+STRING 1913
+// 技能: A045 (|CffFF9326万夫不当|r), Name (名字)
+{
+|CffFF9326万夫不当|r
+}
+
+STRING 1914
+// 技能: A045 (|CffFF9326万夫不当|r), Tip (提示工具 - 普通)
+{
+|CffFF9326万夫不当|r
+}
+
+STRING 1916
+// 科技: R01D (防御), Name (名字)
+{
+月刃
+}
+
+STRING 1917
+// 科技: R00X (防御), Name (名字)
+{
+研究|Cffff73ff水晶发电机|r
+}
+
+STRING 1918
+// 单位: h01P (|CffFFFF00无畏者|r), Name (名字)
+{
+|CffFFFF00无畏者|r
+}
+
+STRING 1919
+// 单位: h01P (|CffFFFF00无畏者|r), Tip (提示工具 - 基础)
+{
+|CffFFFF00无畏者|r(|Cffffcc00Q|r)
+}
+
+STRING 1920
+// 科技: R02H (防御), Hotkey (热键)
+{
+A
+}
+
+STRING 1921
+// 科技: R02H (防御), Name (名字)
+{
+训练无畏者技术
+}
+
+STRING 1923
+// 科技: R02H (防御), Ubertip (提示工具 - 扩展)
+{
+研究传说兵种,可以对僵尸造成|Cff00b200群体击退效果|r
+}
+
+STRING 1924
+// 单位: h055 (|CffFFFF00超级兵工厂|r), Name (名字)
+{
+|CffFFFF00超级兵工厂|r
+}
+
+STRING 1925
+// 单位: h055 (|CffFFFF00超级兵工厂|r), Tip (提示工具 - 基础)
+{
+|CffFFFF00超级兵工厂|r(|Cffffcc00Q|r)
+}
+
+STRING 1926
+// 科技: R02G (防御), Hotkey (热键)
+{
+X
+}
+
+STRING 1927
+// 科技: R02H (防御), Tip (提示工具)
+{
+训练无畏者技术(|Cffffcc00A|r)
+}
+
+STRING 1928
+// 技能: A045 (|CffFF9326万夫不当|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFFFF4D1、无畏者对僵尸有群体击退效果，击退超过40次，僵尸会变成无法击退的单位。|n2、对无法击退的僵尸伤害造成范围伤害（需要满蓝），伤害总值为1500，300码范围内每个僵尸平摊。（简而言之，就是范围内平摊单位少，单个受到伤害越高。）|r
+}
+
+STRING 1929
+{
+|CffFF8000尼尔·机械工厂|r|Cff00b259(New！)|r
+}
+
+STRING 1930
+{
+营救倒计时：
+}
+
+STRING 1931
+{
+|CffFF2626警告：僵尸呼叫空中支援,僵尸飞艇正在袭来！小地图将标识出位置！|r
+}
+
+STRING 1932
+// 可破坏物: B002 (城邦枯树 无限血), Name (名字)
+{
+城邦枯树 无限血
+}
+
+STRING 1933
+// 技能: A046 (多重射), EditorSuffix (编辑器后缀)
+{
+（无畏者）
+}
+
+STRING 1934
+// 技能: A046 (多重射), Name (名字)
+{
+多重射
+}
+
+STRING 1935
+// 技能: A046 (多重射), Tip (提示工具 - 普通)
+{
+多重射
+}
+
+STRING 1936
+// 技能: A046 (多重射), Ubertip (提示工具 - 普通 - 扩展)
+{
+同时对周围3个单位发动攻击
+}
+
+STRING 1937
+{
+开启部分特效2！
+}
+
+STRING 1938
+{
+关闭部分特效2！
+}
+
