@@ -5290,12 +5290,6 @@ STRING 925
 |Cff265CFF当触发冰霜新星触发层数下调至10|r
 }
 
-STRING 926
-// 技能: A005 (致命一击), Ubertip (提示工具 - 普通 - 扩展)
-{
-给予<AOcr,DataA1>%的概率使得单位的攻击能造成<AOcr,DataB1>倍于一般攻击的伤害值。
-}
-
 STRING 927
 // 技能: A006 (采集 (黄金和木材)Lv2), Name (名字)
 {
@@ -5423,7 +5417,7 @@ STRING 947
 }
 
 STRING 948
-// 技能: A00E (研究), Hotkey (热键 - 普通)
+// 单位: h056 (|CffFF8000超级护士|r), Hotkey (热键)
 {
 Z
 }
@@ -5699,7 +5693,7 @@ boss
 }
 
 STRING 997
-// 技能: AHta (显示), Hotkey (热键 - 普通)
+// 单位: h05D (|CffFFFF00无畏者2|r), Hotkey (热键)
 {
 Q
 }
@@ -5813,7 +5807,7 @@ STRING 1018
 }
 
 STRING 1019
-// 技能: AUbu (建造(不死族)), Hotkey (热键 - 普通)
+// 技能: AHta (显示), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -5963,7 +5957,7 @@ STRING 1044
 }
 
 STRING 1045
-// 技能: A00A (人口), Hotkey (热键 - 普通)
+// 技能: AUbu (建造(不死族)), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -5975,7 +5969,7 @@ STRING 1049
 }
 
 STRING 1050
-// 技能: A00J (烈焰风暴), Hotkey (热键 - 普通)
+// 技能: A00A (人口), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -5999,7 +5993,7 @@ STRING 1053
 }
 
 STRING 1054
-// 技能: A00M (|CffFF0000红色闪电|r), Hotkey (热键 - 普通)
+// 技能: A00G (显示), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6119,7 +6113,7 @@ STRING 1076
 }
 
 STRING 1077
-// 技能: A00R (精灵之翼), Hotkey (热键 - 普通)
+// 技能: A00J (烈焰风暴), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6157,7 +6151,7 @@ STRING 1082
 }
 
 STRING 1083
-// 技能: A00W (默认), Hotkey (热键 - 普通)
+// 技能: A00M (|CffFF0000红色闪电|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6187,7 +6181,7 @@ STRING 1087
 }
 
 STRING 1088
-// 技能: A00X (|CffFFFF26金碧荧煌|r), Hotkey (热键 - 普通)
+// 技能: A00R (精灵之翼), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6241,7 +6235,7 @@ boss
 }
 
 STRING 1097
-// 技能: A00Y (|Cff265CFF闪电|r), Hotkey (热键 - 普通)
+// 技能: A00W (默认), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6253,7 +6247,7 @@ STRING 1098
 }
 
 STRING 1099
-// 技能: A011 (猩红岁月), Hotkey (热键 - 普通)
+// 技能: A00X (|CffFFFF26金碧荧煌|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6349,7 +6343,7 @@ STRING 1114
 }
 
 STRING 1115
-// 技能: A012 (医疗波), Hotkey (热键 - 普通)
+// 技能: A00Y (|Cff265CFF闪电|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6443,7 +6437,7 @@ STRING 1129
 }
 
 STRING 1130
-// 技能: A01C (建造主城), Hotkey (热键 - 普通)
+// 技能: A011 (猩红岁月), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6461,7 +6455,7 @@ STRING 1132
 }
 
 STRING 1133
-// 技能: A01I (|Cff4D7AFF永夜的寒冬|r), Hotkey (热键 - 普通)
+// 技能: A012 (医疗波), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6485,7 +6479,7 @@ STRING 1136
 }
 
 STRING 1137
-// 技能: A01K (古寺铃音), Hotkey (热键 - 普通)
+// 技能: A01C (建造主城), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6509,7 +6503,7 @@ STRING 1140
 }
 
 STRING 1141
-// 技能: A01L (战歌), Hotkey (热键 - 普通)
+// 技能: A01I (|Cff4D7AFF永夜的寒冬|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6563,7 +6557,7 @@ STRING 1150
 }
 
 STRING 1151
-// 技能: A01W (不灭英灵), Hotkey (热键 - 普通)
+// 技能: A01K (古寺铃音), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6587,7 +6581,7 @@ STRING 1154
 }
 
 STRING 1155
-// 技能: A01Y (复苏之风), Hotkey (热键 - 普通)
+// 技能: A01L (战歌), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6611,7 +6605,7 @@ STRING 1158
 }
 
 STRING 1159
-// 技能: A020 (|Cff4D7AFF蔚蓝年华|r), Hotkey (热键 - 普通)
+// 技能: A01W (不灭英灵), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6635,7 +6629,7 @@ STRING 1162
 }
 
 STRING 1163
-// 技能: A022 (6个光柱), Hotkey (热键 - 普通)
+// 技能: A01Y (复苏之风), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6659,7 +6653,7 @@ STRING 1166
 }
 
 STRING 1167
-// 技能: A022 (6个光柱), Tip (提示工具 - 普通)
+// 技能: A020 (|Cff4D7AFF蔚蓝年华|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6683,7 +6677,7 @@ STRING 1170
 }
 
 STRING 1171
-// 技能: A029 (烈火燎原), Hotkey (热键 - 普通)
+// 技能: A022 (6个光柱), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6707,7 +6701,7 @@ STRING 1174
 }
 
 STRING 1175
-// 技能: A02D (|CffFF8000生命恢复|r), Hotkey (热键 - 普通)
+// 技能: A022 (6个光柱), Tip (提示工具 - 普通)
 {
 Q
 }
@@ -6731,7 +6725,7 @@ STRING 1178
 }
 
 STRING 1179
-// 技能: A02E (|CffB200B2魔剑菲利斯|r), Hotkey (热键 - 普通)
+// 技能: A029 (烈火燎原), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6755,7 +6749,7 @@ STRING 1182
 }
 
 STRING 1183
-// 技能: A02F (|Cff8500B2死亡效应|r), Hotkey (热键 - 普通)
+// 技能: A02D (|CffFF8000生命恢复|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -6851,7 +6845,7 @@ STRING 1198
 }
 
 STRING 1199
-// 技能: A02G (|Cff4D7AFF两鬓染星霜|r), Hotkey (热键 - 普通)
+// 技能: A02E (|CffB200B2魔剑菲利斯|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7049,7 +7043,7 @@ STRING 1231
 }
 
 STRING 1235
-// 技能: A02J (弓箭手|Cff646464（暗黑游侠）|r), Hotkey (热键 - 普通)
+// 技能: A02F (|Cff8500B2死亡效应|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7073,7 +7067,7 @@ STRING 1238
 }
 
 STRING 1239
-// 技能: A02K (弓箭手（默认）), Hotkey (热键 - 普通)
+// 技能: A02G (|Cff4D7AFF两鬓染星霜|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7115,7 +7109,7 @@ STRING 1245
 }
 
 STRING 1246
-// 技能: A02L (弓箭手|Cff7373ff（塞恩德里斯）|r), Hotkey (热键 - 普通)
+// 技能: A02J (弓箭手|Cff646464（暗黑游侠）|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7139,7 +7133,7 @@ STRING 1249
 }
 
 STRING 1250
-// 技能: A02M (狙击手|Cffffd24d（皇家狙击手）|r), Hotkey (热键 - 普通)
+// 技能: A02K (弓箭手（默认）), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7163,7 +7157,7 @@ STRING 1253
 }
 
 STRING 1254
-// 技能: A02N (狙击手（默认）), Hotkey (热键 - 普通)
+// 技能: A02L (弓箭手|Cff7373ff（塞恩德里斯）|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7187,7 +7181,7 @@ STRING 1257
 }
 
 STRING 1258
-// 技能: A02O (狙击手|Cff00b259（野战）|r), Hotkey (热键 - 普通)
+// 技能: A02M (狙击手|Cffffd24d（皇家狙击手）|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7265,7 +7259,7 @@ STRING 1270
 }
 
 STRING 1271
-// 技能: A02P (狙击手|Cffd96d00（西部牛仔）|r), Hotkey (热键 - 普通)
+// 技能: A02N (狙击手（默认）), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7403,7 +7397,7 @@ STRING 1293
 }
 
 STRING 1294
-// 技能: A02Q (炮火手（默认）), Hotkey (热键 - 普通)
+// 技能: A02O (狙击手|Cff00b259（野战）|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7445,7 +7439,7 @@ STRING 1300
 }
 
 STRING 1301
-// 科技: R000 (防御), Hotkey (热键)
+// 技能: A047 (幽灵形态), Hotkey (热键 - 普通)
 {
 E
 }
@@ -7529,7 +7523,7 @@ STRING 1314
 }
 
 STRING 1315
-// 技能: A02R (炮火手|Cff265cff（海军陆战队）|r), Hotkey (热键 - 普通)
+// 技能: A02P (狙击手|Cffd96d00（西部牛仔）|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7625,7 +7619,7 @@ STRING 1330
 }
 
 STRING 1331
-// 技能: A02W (|CffFFFF26黄金时代|r), Hotkey (热键 - 普通)
+// 技能: A02Q (炮火手（默认）), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7673,7 +7667,7 @@ STRING 1338
 }
 
 STRING 1339
-// 技能: A037 (女猎手（默认）), Hotkey (热键 - 普通)
+// 技能: A02R (炮火手|Cff265cff（海军陆战队）|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -7811,7 +7805,7 @@ STRING 1362
 }
 
 STRING 1363
-// 科技: R00G (防御), Hotkey (热键)
+// 科技: R000 (防御), Hotkey (热键)
 {
 E
 }
@@ -7853,7 +7847,7 @@ STRING 1369
 }
 
 STRING 1370
-// 科技: R00I (防御), Hotkey (热键)
+// 科技: R00G (防御), Hotkey (热键)
 {
 E
 }
@@ -7913,7 +7907,7 @@ STRING 1380
 }
 
 STRING 1381
-// 科技: R00K (防御), Hotkey (热键)
+// 单位: h057 (|CffFF8000疯狂的科学家|r), Hotkey (热键)
 {
 Z
 }
@@ -7961,7 +7955,7 @@ STRING 1388
 }
 
 STRING 1389
-// 科技: R00L (防御), Hotkey (热键)
+// 单位: h058 (|CffFF8000猖獗者|r), Hotkey (热键)
 {
 Z
 }
@@ -8021,7 +8015,7 @@ STRING 1400
 }
 
 STRING 1401
-// 技能: A038 (女猎手|Cff888888（娜萨）|r), Hotkey (热键 - 普通)
+// 技能: A02W (|CffFFFF26黄金时代|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -8177,7 +8171,7 @@ S
 }
 
 STRING 1433
-// 科技: R00N (防御), Hotkey (热键)
+// 单位: h059 (|CffFF8000泰坦|r), Hotkey (热键)
 {
 Z
 }
@@ -8327,7 +8321,7 @@ STRING 1458
 }
 
 STRING 1459
-// 科技: R00O (防御), Hotkey (热键)
+// 单位: h05A (|CffFF8000喷火战车|r), Hotkey (热键)
 {
 Z
 }
@@ -8369,7 +8363,7 @@ STRING 1466
 }
 
 STRING 1467
-// 科技: R00Y (防御), Hotkey (热键)
+// 单位: h05C (|CffFF8000幽灵特工|r), Hotkey (热键)
 {
 Z
 }
@@ -9091,7 +9085,7 @@ STRING 1599
 }
 
 STRING 1600
-// 技能: A03A (士兵（默认）), Hotkey (热键 - 普通)
+// 技能: A037 (女猎手（默认）), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -9231,7 +9225,7 @@ STRING 1628
 }
 
 STRING 1632
-// 技能: A03B (士兵|Cffff0000（马里恩）|r), Hotkey (热键 - 普通)
+// 技能: A038 (女猎手|Cff888888（娜萨）|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -9302,13 +9296,13 @@ X
 }
 
 STRING 1653
-// 技能: A03C (喷火兵（默认）), Hotkey (热键 - 普通)
+// 技能: A03A (士兵（默认）), Hotkey (热键 - 普通)
 {
 Q
 }
 
 STRING 1654
-// 科技: R00S (防御), Hotkey (热键)
+// 科技: R00I (防御), Hotkey (热键)
 {
 E
 }
@@ -9356,7 +9350,7 @@ STRING 1664
 }
 
 STRING 1665
-// 技能: A03D (喷火兵|Cff002db2（空间邪恶兽）|r), Hotkey (热键 - 普通)
+// 技能: A03B (士兵|Cffff0000（马里恩）|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -9437,7 +9431,7 @@ STRING 1685
 }
 
 STRING 1686
-// 技能: A03H (|Cff008C23生机盎然|r), Hotkey (热键 - 普通)
+// 技能: A03C (喷火兵（默认）), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -9460,20 +9454,10 @@ STRING 1689
 可以强化自爆工兵
 }
 
-STRING 1695
-{
-未能挡住僵尸的进攻，游戏失败！请继续努力！
-}
-
 STRING 1700
 // 科技: R02D (防御), EditorSuffix (编辑器后缀)
 {
 星空元素
-}
-
-STRING 1701
-{
-未能保护人类的能源中心，游戏失败！请继续努力！
 }
 
 STRING 1704
@@ -9749,19 +9733,19 @@ STRING 1761
 }
 
 STRING 1762
-// 技能: A03Q (|CffFFFF26能源开启|r), Hotkey (热键 - 普通)
+// 技能: A03D (喷火兵|Cff002db2（空间邪恶兽）|r), Hotkey (热键 - 普通)
 {
 Q
 }
 
 STRING 1763
-// 技能: A03R (|CffFF5C26自爆|r), Hotkey (热键 - 普通)
+// 技能: A03H (|Cff008C23生机盎然|r), Hotkey (热键 - 普通)
 {
 Q
 }
 
 STRING 1764
-// 技能: S002 (入驻), Hotkey (热键 - 普通)
+// 技能: A03Q (|CffFFFF26能源开启|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -9785,13 +9769,13 @@ STRING 1768
 }
 
 STRING 1769
-// 科技: R004 (防御), Hotkey (热键)
+// 技能: A03R (|CffFF5C26自爆|r), Hotkey (热键 - 普通)
 {
 Q
 }
 
 STRING 1770
-// 科技: R015 (防御), Hotkey (热键)
+// 技能: A00E (研究), Hotkey (热键 - 普通)
 {
 Z
 }
@@ -9837,7 +9821,7 @@ STRING 1779
 }
 
 STRING 1780
-// 科技: R017 (防御), Hotkey (热键)
+// 科技: R00K (防御), Hotkey (热键)
 {
 Z
 }
@@ -9986,7 +9970,7 @@ W
 }
 
 STRING 1805
-// 科技: R008 (防御), Hotkey (热键)
+// 技能: S002 (入驻), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -10004,7 +9988,7 @@ STRING 1807
 }
 
 STRING 1810
-// 科技: R00A (防御), Hotkey (热键)
+// 技能: A048 (|CffFF0000影舞·极|r), Hotkey (热键 - 普通)
 {
 Q
 }
@@ -10190,7 +10174,7 @@ STRING 1847
 }
 
 STRING 1848
-// 科技: R02F (防御), Hotkey (热键)
+// 科技: R00L (防御), Hotkey (热键)
 {
 Z
 }
@@ -10322,7 +10306,7 @@ STRING 1883
 }
 
 STRING 1884
-// 科技: R00Q (防御), Hotkey (热键)
+// 科技: R004 (防御), Hotkey (热键)
 {
 Q
 }
@@ -10384,7 +10368,7 @@ W
 }
 
 STRING 1895
-// 科技: R019 (防御), Hotkey (热键)
+// 科技: R008 (防御), Hotkey (热键)
 {
 Q
 }
@@ -10428,7 +10412,7 @@ W
 }
 
 STRING 1906
-// 科技: R02C (防御), Hotkey (热键)
+// 科技: R00A (防御), Hotkey (热键)
 {
 Q
 }
@@ -10588,5 +10572,255 @@ STRING 1937
 STRING 1938
 {
 关闭部分特效2！
+}
+
+STRING 1940
+// 单位: h056 (|CffFF8000超级护士|r), Tip (提示工具 - 基础)
+{
+|CffFF8000护士|r(|Cffffcc00Z|r)
+}
+
+STRING 1941
+// 单位: h056 (|CffFF8000超级护士|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：12|n|r|Cffff8000高级作战单位|r|n1、超强的回复能力|n2、具有修理和医疗能力|n3|Cfff0f0f0、作战能力一般，属于辅助型兵种|r
+}
+
+STRING 1942
+// 单位: h057 (|CffFF8000疯狂的科学家|r), Name (名字)
+{
+|CffFF8000疯狂的科学家|r
+}
+
+STRING 1943
+// 单位: h057 (|CffFF8000疯狂的科学家|r), Tip (提示工具 - 基础)
+{
+|CffFF8000疯狂的科学家|r(|Cffffcc00Z|r)
+}
+
+STRING 1944
+// 单位: h057 (|CffFF8000疯狂的科学家|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：12|n|r|Cffff8000高级作战单位|r|n1、超强的回复能力|n2、具有修理和医疗能力|n3|Cfff0f0f0、作战能力一般，属于辅助型兵种|r
+}
+
+STRING 1945
+// 单位: h058 (|CffFF8000猖獗者|r), Name (名字)
+{
+|CffFF8000猖獗者|r
+}
+
+STRING 1946
+// 单位: h058 (|CffFF8000猖獗者|r), Tip (提示工具 - 基础)
+{
+|CffFF8000猖獗者|r(|Cffffcc00Z|r)
+}
+
+STRING 1947
+// 单位: h058 (|CffFF8000猖獗者|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：12|n|r|Cffff8000高级作战单位|r|n1、超强的回复能力|n2、具有修理和医疗能力|n3|Cfff0f0f0、作战能力一般，属于辅助型兵种|r
+}
+
+STRING 1948
+// 单位: h059 (|CffFF8000泰坦|r), Name (名字)
+{
+|CffFF8000泰坦|r
+}
+
+STRING 1949
+// 单位: h059 (|CffFF8000泰坦|r), Tip (提示工具 - 基础)
+{
+|CffFF8000泰坦|r(|Cffffcc00Z|r)
+}
+
+STRING 1950
+// 单位: h059 (|CffFF8000泰坦|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：12|n|r|Cffff8000高级作战单位|r|n1、超强的回复能力|n2、具有修理和医疗能力|n3|Cfff0f0f0、作战能力一般，属于辅助型兵种|r
+}
+
+STRING 1951
+// 单位: h05A (|CffFF8000喷火战车|r), Name (名字)
+{
+|CffFF8000喷火战车|r
+}
+
+STRING 1952
+// 单位: h05A (|CffFF8000喷火战车|r), Tip (提示工具 - 基础)
+{
+|CffFF8000喷火战车|r(|Cffffcc00Z|r)
+}
+
+STRING 1953
+// 单位: h05A (|CffFF8000喷火战车|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：12|n|r|Cffff8000高级作战单位|r|n1、超强的回复能力|n2、具有修理和医疗能力|n3|Cfff0f0f0、作战能力一般，属于辅助型兵种|r
+}
+
+STRING 1956
+// 单位: h05C (|CffFF8000幽灵特工|r), Ubertip (提示工具 - 扩展)
+{
+|Cff00FF00限制数量：12|n|r|Cffff8000高级作战单位|r|n1、超强的回复能力|n2、具有修理和医疗能力|n3|Cfff0f0f0、作战能力一般，属于辅助型兵种|r
+}
+
+STRING 1957
+// 单位: h05C (|CffFF8000幽灵特工|r), Name (名字)
+{
+|CffFF8000幽灵特工|r
+}
+
+STRING 1958
+// 单位: h05C (|CffFF8000幽灵特工|r), Tip (提示工具 - 基础)
+{
+|CffFF8000幽灵特工|r(|Cffffcc00Z|r)
+}
+
+STRING 1960
+// 科技: R00N (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1961
+// 科技: R00O (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1962
+// 科技: R00Y (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1963
+// 科技: R015 (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1964
+// 科技: R017 (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1965
+// 科技: R02F (防御), Hotkey (热键)
+{
+Z
+}
+
+STRING 1967
+// 单位: h05D (|CffFFFF00无畏者2|r), Name (名字)
+{
+|CffFFFF00无畏者2|r
+}
+
+STRING 1968
+// 单位: h05D (|CffFFFF00无畏者2|r), Tip (提示工具 - 基础)
+{
+|CffFFFF00无畏者|r(|Cffffcc00Q|r)
+}
+
+STRING 1969
+// 单位: h05D (|CffFFFF00无畏者2|r), Ubertip (提示工具 - 扩展)
+{
+|CffFF2626传说作战单位|r|n1、较高生命值和恢复能力|n2、可以对僵尸造成|Cff00b200群体击退效果|r|Cffd96d00（同一个僵尸击退次数最大40次），对无法击退的单位有额外的技能效果。|n|r2、超高的攻击速度，对僵尸造成致命打击。
+}
+
+STRING 1970
+// 科技: R00Q (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1971
+// 单位: h056 (|CffFF8000超级护士|r), Name (名字)
+{
+|CffFF8000超级护士|r
+}
+
+STRING 1974
+// 技能: A047 (幽灵形态), Name (名字)
+{
+幽灵形态
+}
+
+STRING 1975
+// 技能: A047 (幽灵形态), EditorSuffix (编辑器后缀)
+{
+(幽灵特工)
+}
+
+STRING 1976
+// 科技: R00S (防御), Hotkey (热键)
+{
+E
+}
+
+STRING 1978
+// 技能: A005 (致命一击), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFFFF00幽灵特工可以在攻击的时候有百分之20的几率造成2倍伤害|r
+}
+
+STRING 1979
+// 技能: A00G (显示), Tip (提示工具 - 普通)
+{
+显示(|Cffffcc00Q|r)
+}
+
+STRING 1980
+// 技能: A047 (幽灵形态), Tip (提示工具 - 普通)
+{
+幽灵形态(|Cffffcc00E|r)
+}
+
+STRING 1981
+// 技能: A047 (幽灵形态), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFFFF00幽灵特工具有特别的隐身能力，能让他穿梭于丧尸和兵种之间，从而到达指定的位置短时间内击杀被感染的精神污染者，但是CD较长，请谨慎使用。破印一击对非建筑单位造成500伤害。|r
+}
+
+STRING 1982
+// 技能: A048 (|CffFF0000影舞·极|r), Name (名字)
+{
+|CffFF0000影舞·极|r
+}
+
+STRING 1983
+// 技能: A048 (|CffFF0000影舞·极|r), Tip (提示工具 - 普通)
+{
+|CffFF0000影舞·极|r(|Cffffcc00Q|r)|n
+}
+
+STRING 1984
+// 技能: A048 (|CffFF0000影舞·极|r), Ubertip (提示工具 - 普通 - 扩展)
+{
+|CffFFFF005s秒内暴击几率提升至100|r
+}
+
+STRING 1985
+// 科技: R019 (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1986
+// 科技: R02C (防御), Hotkey (热键)
+{
+Q
+}
+
+STRING 1987
+{
+未能保护人类的能源中心，游戏失败！请继续努力！
+}
+
+STRING 1988
+{
+未能挡住僵尸的进攻，游戏失败！请继续努力！
 }
 
